@@ -6,63 +6,12 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Bike Locations</title>
-<script src="https://d3js.org/d3.v4.min.js"></script>
-<script src="https://d3js.org/d3-geo.v1.min.js"></script>
+<title>Call a Bike - Tool</title>
+
 
 </head>
 <body>
-	<script type="text/javascript">
-		var width = 1000;
-		var height = 700;
-
-		var svg = d3.select("body").append("svg").attr("width", width).attr(
-				"height", height);
-		var scale = 100000;
-		var offset = [ width * (-19.7), height * 137.8 ];
-		//var center = d3.geoCentroid(data);
-
-		//var scale = 1000;
-		//var offset = [ width / 2, height  ];
-
-		//.center(center)
-
-		var projection = d3.geoMercator().scale(scale).translate(offset);
-
-		var path = d3.geoPath(projection);
-
-		var bikes = [ [ 11.61469, 48.113125 ], [ 11.567181, 48.17029 ] ]
-
-		d3.json("districts.geojson", function(data) {
-
-			var group = svg.selectAll("g").data(data.features).enter().append(
-					"g");
-
-			var areas = group.append("path").attr("d", path).attr("class",
-					"area").attr("fill", "none").attr("stroke", "black");
-
-			//var points = group.append("circle").
-
-			group.selectAll("circle").data(bikes).enter().append("circle").attr(
-					"cx", function(d) {
-						return projection(d)[0];
-					}).attr("cy", function(d) {
-				return projection(d)[1];
-			}).attr("r", "8px").attr("fill", "red")
-		});
-
-		// 		d3.json("points.json", function(data) {
-
-		// 			var group = svg.selectAll("g").data(data.features).enter().append(
-		// 					"g");
-		// 			var bikes = svg.selectAll("circle").data(data.features).enter()
-		// 					.append("circle").attr("r", 100).attr("cx",
-		// 							data.features.properties.longitude).attr("cy",
-		// 							data.properties.latitude).attr("fill", "red")
-
-		// 		});
-	</script>
-
+	<h1>Fahrradstandorte</h1>
 </body>
 
 
