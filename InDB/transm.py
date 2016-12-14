@@ -3,7 +3,11 @@ import os
 import json
 import datetime as d
 import time
+import uuid
 
+
+def gen_name():
+    return uuid.uuid4()
 
 def read_folder(name):
     """return json names"""
@@ -29,12 +33,13 @@ def filter(j_dict, ts):
         longitude = float(marker["lng"])
         bikelist = marker["hal2option"]["bikelist"]
         street = marker["hal2option"]["tooltip"]
-        street = ((street.replace("&nbsp", "")).replace(";", "")).\
-            replace("'", "")
+        street = ((street.replace("&nbsp", "")).replace(";", "")).replace("'",
+                                                                          "")
         streets = str(street.split("/"))
         for bike in bikelist:
+            u_id = str(bike["Number"]) + "_" + str(ts)
             data_tuples.append((int(bike["Number"]), streets, latitude,
-                                longitude, ts))
+                                longitude, ts, u_id))
     return data_tuples
 
 
@@ -54,11 +59,28 @@ def makedate(city_ts):
 
     t_d_str = year + "-" + month + "-" + day + " " + hours + ":" + minutes +\
               ":" + seconds
-    print(t_d_str)
     date_time = d.datetime.strptime(t_d_str, '%Y-%m-%d %H:%M:%S')
     ts = time.mktime(date_time.timetuple())
 
     return ts
+
+
+def write_to_json(data_tuples, foldername):
+    # number , streets, lat, long, ts, u_id
+
+    name = str(gen_name()) + ".json"
+    data_dict = {}
+
+    for t in data_tuples:
+        dict = {"Number": t[0], "Streets": t[1],
+                "Latitude": t[2], "Longitude": t[3], "Timestamp": t[4]}
+        # "UniqueId": t[4]}
+        data_dict[t[5]] = dict
+
+    with open("results/" + foldername + "/" + name, 'w') as bike_j:
+        json.dump(data_dict, bike_j, indent=4,
+                  sort_keys=True)
+    bike_j.close()
 
 
 class DBClass():
@@ -80,15 +102,20 @@ class DBClass():
 
 
 if __name__ == '__main__':
-    mydb = DBClass()
+    # mydb = DBClass()
+
     json_folders = read_folder('JSON')
     for f in json_folders:
         json_files = read_folder('JSON/' + f)
+        foldername = str(gen_name())
+        os.makedirs("results/" + foldername)
         for e in json_files:
             city_ts = e
             j_dict = read_one(e, f)
             ts = makedate(city_ts)
             data_tuples = filter(j_dict, ts)
-            mydb.insert(data_tuples)
-            print("-------------------------------------Commit done---------------"
-                  "--------------------")
+
+            write_to_json(data_tuples, foldername)
+            # mydb.insert(data_tuples)
+
+    print("finished")

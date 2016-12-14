@@ -1,0 +1,5400 @@
+{"bikes":[
+    "0003_1476699000": {
+        "Latitude": 48.113125,
+        "Longitude": 11.61469,
+        "Number": 3,
+        "Streets": "['Frauenchiemseestr.', 'RosenheimerStr.']",
+        "Timestamp": 1476699000
+    },
+    "0011_1476699000": {
+        "Latitude": 48.17029,
+        "Longitude": 11.567181,
+        "Number": 11,
+        "Streets": "['BambergerStr.', 'Brunnerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0013_1476699000": {
+        "Latitude": 48.1351854284,
+        "Longitude": 11.5749496385,
+        "Number": 13,
+        "Streets": "['Pr\u00e4lat-Zistl-Str.', 'Rosental']",
+        "Timestamp": 1476699000
+    },
+    "0020_1476699000": {
+        "Latitude": 48.12663,
+        "Longitude": 11.540329,
+        "Number": 20,
+        "Streets": "['Johannes-Timmstr.', 'Pfeuferstr.']",
+        "Timestamp": 1476699000
+    },
+    "0021_1476699000": {
+        "Latitude": 48.150833,
+        "Longitude": 11.547471,
+        "Number": 21,
+        "Streets": "['Lothstr.', 'Thorwaldsenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0024_1476699000": {
+        "Latitude": 48.130085,
+        "Longitude": 11.573074,
+        "Number": 24,
+        "Streets": "['Fraunhoferstr.', 'Klenzestr.']",
+        "Timestamp": 1476699000
+    },
+    "0028_1476699000": {
+        "Latitude": 48.131546,
+        "Longitude": 11.561084,
+        "Number": 28,
+        "Streets": "['Lindwurmstr.', 'Rothmundstr.']",
+        "Timestamp": 1476699000
+    },
+    "0030_1476699000": {
+        "Latitude": 48.124435,
+        "Longitude": 11.534244,
+        "Number": 30,
+        "Streets": "['AmWestpark', 'Faberstr.']",
+        "Timestamp": 1476699000
+    },
+    "0031_1476699000": {
+        "Latitude": 48.12656,
+        "Longitude": 11.534267,
+        "Number": 31,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0037_1476699000": {
+        "Latitude": 48.16592,
+        "Longitude": 11.538354,
+        "Number": 37,
+        "Streets": "['DachauerStr.', 'LandshuterAllee']",
+        "Timestamp": 1476699000
+    },
+    "0040_1476699000": {
+        "Latitude": 48.15498,
+        "Longitude": 11.561948,
+        "Number": 40,
+        "Streets": "['Schellingstr.', 'Schlei\u00dfheimerStr.']",
+        "Timestamp": 1476699000
+    },
+    "0047_1476699000": {
+        "Latitude": 48.13058,
+        "Longitude": 11.583421,
+        "Number": 47,
+        "Streets": "['Museumsinsel']",
+        "Timestamp": 1476699000
+    },
+    "0048_1476699000": {
+        "Latitude": 48.14527,
+        "Longitude": 11.59455,
+        "Number": 48,
+        "Streets": "['Reitmorstr.', 'Rosenbuschstr.']",
+        "Timestamp": 1476699000
+    },
+    "0054_1476699000": {
+        "Latitude": 48.131325,
+        "Longitude": 11.621506,
+        "Number": 54,
+        "Streets": "['Streitfeldstr.']",
+        "Timestamp": 1476699000
+    },
+    "0055_1476699000": {
+        "Latitude": 48.175232,
+        "Longitude": 11.572724,
+        "Number": 55,
+        "Streets": "['Belgradstr.', 'R\u00fcmannstr.']",
+        "Timestamp": 1476699000
+    },
+    "0064_1476699000": {
+        "Latitude": 48.140945,
+        "Longitude": 11.567816,
+        "Number": 64,
+        "Streets": "['Lenbachplatz', 'Maxburgstr.']",
+        "Timestamp": 1476699000
+    },
+    "0066_1476699000": {
+        "Latitude": 48.11472222,
+        "Longitude": 11.57916667,
+        "Number": 66,
+        "Streets": "['Kistlerstr.', 'TegernseerLandstr.']",
+        "Timestamp": 1476699000
+    },
+    "0067_1476699000": {
+        "Latitude": 48.115185,
+        "Longitude": 11.591992,
+        "Number": 67,
+        "Streets": "['Eintrachtstr.', 'Werinherstr.']",
+        "Timestamp": 1476699000
+    },
+    "0086_1476699000": {
+        "Latitude": 48.173653,
+        "Longitude": 11.588141,
+        "Number": 86,
+        "Streets": "['BerlinerStr.', 'Schl\u00fcterstr.']",
+        "Timestamp": 1476699000
+    },
+    "0087_1476699000": {
+        "Latitude": 48.161068,
+        "Longitude": 11.587209,
+        "Number": 87,
+        "Streets": "['Franzstr.', 'Knollerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0097_1476699000": {
+        "Latitude": 48.140316,
+        "Longitude": 11.598304,
+        "Number": 97,
+        "Streets": "['Europaplatz', 'Maria-Theresia-Str.']",
+        "Timestamp": 1476699000
+    },
+    "0100_1476699000": {
+        "Latitude": 48.16519,
+        "Longitude": 11.570618,
+        "Number": 100,
+        "Streets": "['Destouchesstr.', 'Fallmerayerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0108_1476699000": {
+        "Latitude": 48.172634,
+        "Longitude": 11.59817,
+        "Number": 108,
+        "Streets": "['Isarring', 'MittlererRing', 'Ungererstr.']",
+        "Timestamp": 1476699000
+    },
+    "0122_1476699000": {
+        "Latitude": 48.169117,
+        "Longitude": 11.541907,
+        "Number": 122,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0125_1476699000": {
+        "Latitude": 48.141743,
+        "Longitude": 11.594257,
+        "Number": 125,
+        "Streets": "['Prinzregentenstr.', 'Widenmayerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0126_1476699000": {
+        "Latitude": 48.11323,
+        "Longitude": 11.588076,
+        "Number": 126,
+        "Streets": "['Untersbergstr.', 'WarngauerStr.']",
+        "Timestamp": 1476699000
+    },
+    "0139_1476699000": {
+        "Latitude": 48.16122,
+        "Longitude": 11.543358,
+        "Number": 139,
+        "Streets": "['DachauerStr.', 'Saportastr.']",
+        "Timestamp": 1476699000
+    },
+    "0147_1476699000": {
+        "Latitude": 48.189835,
+        "Longitude": 11.58224,
+        "Number": 147,
+        "Streets": "['Anton-Ditt-Bogen5', '6Geb.12.0', '1.0', 'BMWStation14']",
+        "Timestamp": 1476699000
+    },
+    "0159_1476699000": {
+        "Latitude": 48.131725,
+        "Longitude": 11.600777,
+        "Number": 159,
+        "Streets": "['Metzstr.', 'Preysingstr.']",
+        "Timestamp": 1476699000
+    },
+    "0161_1476699000": {
+        "Latitude": 48.129818,
+        "Longitude": 11.5285,
+        "Number": 161,
+        "Streets": "['GarmischerStr.', 'MittlererRing', 'T\u00fcbingerStr.']",
+        "Timestamp": 1476699000
+    },
+    "0163_1476699000": {
+        "Latitude": 48.117695,
+        "Longitude": 11.571748,
+        "Number": 163,
+        "Streets": "['Birkenau', 'ObereWeidenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0165_1476699000": {
+        "Latitude": 48.127174,
+        "Longitude": 11.5786495,
+        "Number": 165,
+        "Streets": "['Bereiteranger', 'Eduard-Schmid-Str.']",
+        "Timestamp": 1476699000
+    },
+    "0173_1476699000": {
+        "Latitude": 48.14916667,
+        "Longitude": 11.55,
+        "Number": 173,
+        "Streets": "['Loristr.', 'NymphenburgerStr.']",
+        "Timestamp": 1476699000
+    },
+    "0178_1476699000": {
+        "Latitude": 48.143196,
+        "Longitude": 11.535662,
+        "Number": 178,
+        "Streets": "['Donnersbergerbr\u00fccke', 'MittlererRing', 'LandshuterAllee']",
+        "Timestamp": 1476699000
+    },
+    "0179_1476699000": {
+        "Latitude": 48.17078,
+        "Longitude": 11.562016,
+        "Number": 179,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0181_1476699000": {
+        "Latitude": 48.171253,
+        "Longitude": 11.587666,
+        "Number": 181,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0186_1476699000": {
+        "Latitude": 48.12037,
+        "Longitude": 11.61719,
+        "Number": 186,
+        "Streets": "['Bad-Schachener-Str.', 'InnsbruckerRing']",
+        "Timestamp": 1476699000
+    },
+    "0188_1476699000": {
+        "Latitude": 48.09963,
+        "Longitude": 11.557521,
+        "Number": 188,
+        "Streets": "['Sch\u00f6nstr.', 'Siebenbrunnerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0193_1476699000": {
+        "Latitude": 48.1911,
+        "Longitude": 11.552697,
+        "Number": 193,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0194_1476699000": {
+        "Latitude": 48.11864,
+        "Longitude": 11.602377,
+        "Number": 194,
+        "Streets": "['St.-Cajetan-Str.', 'St.-Martin-Str.']",
+        "Timestamp": 1476699000
+    },
+    "0200_1476699000": {
+        "Latitude": 48.13815,
+        "Longitude": 11.584028,
+        "Number": 200,
+        "Streets": "['Maximilianstr.', 'Thomas-Wimmer-Ring']",
+        "Timestamp": 1476699000
+    },
+    "0204_1476699000": {
+        "Latitude": 48.154896,
+        "Longitude": 11.566948,
+        "Number": 204,
+        "Streets": "['Adelheidstr.', 'G\u00f6rrestr.']",
+        "Timestamp": 1476699000
+    },
+    "0211_1476699000": {
+        "Latitude": 48.163757,
+        "Longitude": 11.597883,
+        "Number": 211,
+        "Streets": "['Osterwaldstr.']",
+        "Timestamp": 1476699000
+    },
+    "0212_1476699000": {
+        "Latitude": 48.163578,
+        "Longitude": 11.564462,
+        "Number": 212,
+        "Streets": "['Herzogstr.', 'Schlei\u00dfheimerStr.']",
+        "Timestamp": 1476699000
+    },
+    "0220_1476699000": {
+        "Latitude": 48.176067,
+        "Longitude": 11.538719,
+        "Number": 220,
+        "Streets": "['Georg-Brauchle-Ring', 'LandshuterAllee']",
+        "Timestamp": 1476699000
+    },
+    "0221_1476699000": {
+        "Latitude": 48.143135,
+        "Longitude": 11.602165,
+        "Number": 221,
+        "Streets": "['Holbeinstr.', 'IsmaningerStr.']",
+        "Timestamp": 1476699000
+    },
+    "0224_1476699000": {
+        "Latitude": 48.162388,
+        "Longitude": 11.587068,
+        "Number": 224,
+        "Streets": "['Haimhauserstr.', 'M\u00fcnchenerFreiheit']",
+        "Timestamp": 1476699000
+    },
+    "0225_1476699000": {
+        "Latitude": 48.148033,
+        "Longitude": 11.594575,
+        "Number": 225,
+        "Streets": "['Dianastr.', 'Lerchenfeldstr.']",
+        "Timestamp": 1476699000
+    },
+    "0228_1476699000": {
+        "Latitude": 48.15535,
+        "Longitude": 11.560047,
+        "Number": 228,
+        "Streets": "['Schellingstr.', 'Winzererstr.']",
+        "Timestamp": 1476699000
+    },
+    "0229_1476699000": {
+        "Latitude": 48.162167,
+        "Longitude": 11.57665,
+        "Number": 229,
+        "Streets": "['Herzogstr.', 'P\u00fcndterplatz']",
+        "Timestamp": 1476699000
+    },
+    "0234_1476699000": {
+        "Latitude": 48.1677965428,
+        "Longitude": 11.6018860344,
+        "Number": 234,
+        "Streets": "['Osterwaldstr.', 'Weizenfeldstr.']",
+        "Timestamp": 1476699000
+    },
+    "0235_1476699000": {
+        "Latitude": 48.14657,
+        "Longitude": 11.587811,
+        "Number": 235,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0237_1476699000": {
+        "Latitude": 48.148937,
+        "Longitude": 11.59445,
+        "Number": 237,
+        "Streets": "['Theodorparkstr.']",
+        "Timestamp": 1476699000
+    },
+    "0240_1476699000": {
+        "Latitude": 48.13855,
+        "Longitude": 11.583643,
+        "Number": 240,
+        "Streets": "['Herzog-Rudolf-Str.', 'Maximilianstr.']",
+        "Timestamp": 1476699000
+    },
+    "0247_1476699000": {
+        "Latitude": 48.13963,
+        "Longitude": 11.552271,
+        "Number": 247,
+        "Streets": "['Bayerstr.', 'Hermann-Lingg-Str.']",
+        "Timestamp": 1476699000
+    },
+    "0252_1476699000": {
+        "Latitude": 48.130905,
+        "Longitude": 11.560777,
+        "Number": 252,
+        "Streets": "['Lindwurmstr.', 'Ringseisstr.']",
+        "Timestamp": 1476699000
+    },
+    "0253_1476699000": {
+        "Latitude": 48.163536,
+        "Longitude": 11.540512,
+        "Number": 253,
+        "Streets": "['DachauerStr.', 'EbenauerStr.']",
+        "Timestamp": 1476699000
+    },
+    "0263_1476699000": {
+        "Latitude": 48.18057,
+        "Longitude": 11.58513,
+        "Number": 263,
+        "Streets": "['Leopoldstra\u00dfe244', 'PixidaGmbH']",
+        "Timestamp": 1476699000
+    },
+    "0277_1476699000": {
+        "Latitude": 48.11499,
+        "Longitude": 11.590657,
+        "Number": 277,
+        "Streets": "['Brecherspitzstr.', 'Werinherstr.']",
+        "Timestamp": 1476699000
+    },
+    "0283_1476699000": {
+        "Latitude": 48.152996,
+        "Longitude": 11.583413,
+        "Number": 283,
+        "Streets": "['Leopoldstrasse3', 'LMUProjekstandort1']",
+        "Timestamp": 1476699000
+    },
+    "0288_1476699000": {
+        "Latitude": 48.14867,
+        "Longitude": 11.601209,
+        "Number": 288,
+        "Streets": "['KufsteinerStr.', 'Montgelasstr.']",
+        "Timestamp": 1476699000
+    },
+    "0290_1476699000": {
+        "Latitude": 48.136208,
+        "Longitude": 11.564968,
+        "Number": 290,
+        "Streets": "['Landwehrstr.', 'Sonnenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0291_1476699000": {
+        "Latitude": 48.17596,
+        "Longitude": 11.579252,
+        "Number": 291,
+        "Streets": "['Klopstockstr.', 'R\u00fcmannstr.']",
+        "Timestamp": 1476699000
+    },
+    "0295_1476699000": {
+        "Latitude": 48.17345,
+        "Longitude": 11.59774,
+        "Number": 295,
+        "Streets": "['Schenkendorfstr.', 'MittlererRing', 'Ungererstr.']",
+        "Timestamp": 1476699000
+    },
+    "0296_1476699000": {
+        "Latitude": 48.13606,
+        "Longitude": 11.534211,
+        "Number": 296,
+        "Streets": "['GarmischerStr.', 'MittlererRing', 'Gollierstr.']",
+        "Timestamp": 1476699000
+    },
+    "0298_1476699000": {
+        "Latitude": 48.119358,
+        "Longitude": 11.575482,
+        "Number": 298,
+        "Streets": "['Humboldtstr.', 'PilgersheimerStr.']",
+        "Timestamp": 1476699000
+    },
+    "0305_1476699000": {
+        "Latitude": 48.137177,
+        "Longitude": 11.579362,
+        "Number": 305,
+        "Streets": "['Ledererstr.', 'Orlandostr.']",
+        "Timestamp": 1476699000
+    },
+    "0326_1476699000": {
+        "Latitude": 48.150627,
+        "Longitude": 11.595525,
+        "Number": 326,
+        "Streets": "['HirschauerStr.', 'Oettingenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0334_1476699000": {
+        "Latitude": 48.137463,
+        "Longitude": 11.582092,
+        "Number": 334,
+        "Streets": "['Hildegardstr.', 'Hochbr\u00fcckenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0335_1476699000": {
+        "Latitude": 48.187004,
+        "Longitude": 11.536663,
+        "Number": 335,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0337_1476699000": {
+        "Latitude": 48.13141,
+        "Longitude": 11.621362,
+        "Number": 337,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0355_1476699000": {
+        "Latitude": 48.133423,
+        "Longitude": 11.555813,
+        "Number": 355,
+        "Streets": "['Herzog-Heinrich-Str.', 'Kaiser-Ludwig-Platz']",
+        "Timestamp": 1476699000
+    },
+    "0357_1476699000": {
+        "Latitude": 48.15979,
+        "Longitude": 11.537758,
+        "Number": 357,
+        "Streets": "['Dom-Pedro-Str.', 'LandshuterAllee', 'MittlererRing']",
+        "Timestamp": 1476699000
+    },
+    "0360_1476699000": {
+        "Latitude": 48.117153,
+        "Longitude": 11.613336,
+        "Number": 360,
+        "Streets": "['Loehleplatz', 'Weiskopfstr.']",
+        "Timestamp": 1476699000
+    },
+    "0366_1476699000": {
+        "Latitude": 48.119568,
+        "Longitude": 11.54136,
+        "Number": 366,
+        "Streets": "['Oberl\u00e4nderstr.', 'Plinganserstr.']",
+        "Timestamp": 1476699000
+    },
+    "0368_1476699000": {
+        "Latitude": 48.135555,
+        "Longitude": 11.540998,
+        "Number": 368,
+        "Streets": "['Ganghoferstr.', 'Gollierstr.']",
+        "Timestamp": 1476699000
+    },
+    "0374_1476699000": {
+        "Latitude": 48.13583333,
+        "Longitude": 11.54555556,
+        "Number": 374,
+        "Streets": "['Gollierstr.', 'Schie\u00dfst\u00e4ttstr.']",
+        "Timestamp": 1476699000
+    },
+    "0375_1476699000": {
+        "Latitude": 48.177467,
+        "Longitude": 11.56318,
+        "Number": 375,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0377_1476699000": {
+        "Latitude": 48.139862,
+        "Longitude": 11.540175,
+        "Number": 377,
+        "Streets": "['F\u00e4ustlestr.', 'LandsbergerStr.']",
+        "Timestamp": 1476699000
+    },
+    "0379_1476699000": {
+        "Latitude": 48.14972222,
+        "Longitude": 11.57805556,
+        "Number": 379,
+        "Streets": "['Amalienstr.', 'Schellingstr.']",
+        "Timestamp": 1476699000
+    },
+    "0382_1476699000": {
+        "Latitude": 48.150494,
+        "Longitude": 11.595174,
+        "Number": 382,
+        "Streets": "['HirschauerStr.', 'Oettingenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0385_1476699000": {
+        "Latitude": 48.14864,
+        "Longitude": 11.595329,
+        "Number": 385,
+        "Streets": "['Karolinenstr.', 'Lerchenfeldstr.']",
+        "Timestamp": 1476699000
+    },
+    "0386_1476699000": {
+        "Latitude": 48.13164,
+        "Longitude": 11.582514,
+        "Number": 386,
+        "Streets": "['Kohlstr.', 'Morassistr.']",
+        "Timestamp": 1476699000
+    },
+    "0392_1476699000": {
+        "Latitude": 48.169228,
+        "Longitude": 11.541901,
+        "Number": 392,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0393_1476699000": {
+        "Latitude": 48.18397,
+        "Longitude": 11.587421,
+        "Number": 393,
+        "Streets": "['Hans-D\u00f6llgastStr.26', 'NTTData']",
+        "Timestamp": 1476699000
+    },
+    "0399_1476699000": {
+        "Latitude": 48.137955,
+        "Longitude": 11.59209,
+        "Number": 399,
+        "Streets": "['Gew\u00fcrzm\u00fchlstr.', 'Widenmayerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0404_1476699000": {
+        "Latitude": 48.156815,
+        "Longitude": 11.576724,
+        "Number": 404,
+        "Streets": "['Hohenstaufenstr.', 'Kurf\u00fcrstenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0407_1476699000": {
+        "Latitude": 48.139038,
+        "Longitude": 11.581335,
+        "Number": 407,
+        "Streets": "['Marstallplatz', 'Marstallstr.']",
+        "Timestamp": 1476699000
+    },
+    "0410_1476699000": {
+        "Latitude": 48.128918,
+        "Longitude": 11.600799,
+        "Number": 410,
+        "Streets": "['PariserStr.', 'Sedanstr.']",
+        "Timestamp": 1476699000
+    },
+    "0414_1476699000": {
+        "Latitude": 48.125305,
+        "Longitude": 11.560279,
+        "Number": 414,
+        "Streets": "['Kapuzinerstr.', 'Maistr.']",
+        "Timestamp": 1476699000
+    },
+    "0418_1476699000": {
+        "Latitude": 48.136547,
+        "Longitude": 11.5554495,
+        "Number": 418,
+        "Streets": "['Landwehrstr.', 'Paul-Heyse-Str.']",
+        "Timestamp": 1476699000
+    },
+    "0423_1476699000": {
+        "Latitude": 48.17664,
+        "Longitude": 11.583868,
+        "Number": 423,
+        "Streets": "['Leopoldstr.', 'Petuelring']",
+        "Timestamp": 1476699000
+    },
+    "0429_1476699000": {
+        "Latitude": 48.143036,
+        "Longitude": 11.607263,
+        "Number": 429,
+        "Streets": "['Possartstr.', 'Shakespearplatz']",
+        "Timestamp": 1476699000
+    },
+    "0432_1476699000": {
+        "Latitude": 48.128193,
+        "Longitude": 11.60013,
+        "Number": 432,
+        "Streets": "['Gravelottestr.', 'PariserPlatz']",
+        "Timestamp": 1476699000
+    },
+    "0437_1476699000": {
+        "Latitude": 48.16838,
+        "Longitude": 11.566546,
+        "Number": 437,
+        "Streets": "['Bechsteinstr.', 'Brunnerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0438_1476699000": {
+        "Latitude": 48.12729,
+        "Longitude": 11.524756,
+        "Number": 438,
+        "Streets": "['GarmischerStr.', 'MittlererRing', 'SiegenburgerStrasse']",
+        "Timestamp": 1476699000
+    },
+    "0442_1476699000": {
+        "Latitude": 48.15693,
+        "Longitude": 11.579349,
+        "Number": 442,
+        "Streets": "['Friedrichstr.', 'Hohenstaufenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0445_1476699000": {
+        "Latitude": 48.166843,
+        "Longitude": 11.592549,
+        "Number": 445,
+        "Streets": "['Kunigundenstr.', 'Wiltrudenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0451_1476699000": {
+        "Latitude": 48.1563,
+        "Longitude": 11.547808,
+        "Number": 451,
+        "Streets": "['Funkerstr.', 'Pf\u00e4nderstr.']",
+        "Timestamp": 1476699000
+    },
+    "0452_1476699000": {
+        "Latitude": 48.14613,
+        "Longitude": 11.603579,
+        "Number": 452,
+        "Streets": "['IsmaningerStr.', 'Sternwartstr.']",
+        "Timestamp": 1476699000
+    },
+    "0456_1476699000": {
+        "Latitude": 48.154205,
+        "Longitude": 11.605646,
+        "Number": 456,
+        "Streets": "['Pienzenauerstr.', 'VilshofenerStr.']",
+        "Timestamp": 1476699000
+    },
+    "0457_1476699000": {
+        "Latitude": 48.16376,
+        "Longitude": 11.529183,
+        "Number": 457,
+        "Streets": "['Klugstr.', 'Waisenhausstr.']",
+        "Timestamp": 1476699000
+    },
+    "0458_1476699000": {
+        "Latitude": 48.12847,
+        "Longitude": 11.515123,
+        "Number": 458,
+        "Streets": "['Eduard-Stadler-Winkel', 'Westendstr.']",
+        "Timestamp": 1476699000
+    },
+    "0465_1476699000": {
+        "Latitude": 48.152447,
+        "Longitude": 11.578445,
+        "Number": 465,
+        "Streets": "['Adalbertstr.', 'T\u00fcrkenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0470_1476699000": {
+        "Latitude": 48.172363,
+        "Longitude": 11.562841,
+        "Number": 470,
+        "Streets": "['F\u00fcrstenbergstr.', 'Gartenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0472_1476699000": {
+        "Latitude": 48.110363,
+        "Longitude": 11.586856,
+        "Number": 472,
+        "Streets": "['FischbachauerStr.', 'PerlacherStr.']",
+        "Timestamp": 1476699000
+    },
+    "0474_1476699000": {
+        "Latitude": 48.163864,
+        "Longitude": 11.579433,
+        "Number": 474,
+        "Streets": "['Clemensstr.', 'Viktoriastr.']",
+        "Timestamp": 1476699000
+    },
+    "0475_1476699000": {
+        "Latitude": 48.11244,
+        "Longitude": 11.571739,
+        "Number": 475,
+        "Streets": "['Krumpterstr.', 'PilgersheimerStr.']",
+        "Timestamp": 1476699000
+    },
+    "0479_1476699000": {
+        "Latitude": 48.16773,
+        "Longitude": 11.59167,
+        "Number": 479,
+        "Streets": "['Ungererstr.', 'Wiltrudenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0483_1476699000": {
+        "Latitude": 48.1525,
+        "Longitude": 11.60555556,
+        "Number": 483,
+        "Streets": "['Mauerkircherstr.', 'Poschingerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0489_1476699000": {
+        "Latitude": 48.118534,
+        "Longitude": 11.540553,
+        "Number": 489,
+        "Streets": "['Lindenschmitstr.', 'Plinganserstr.']",
+        "Timestamp": 1476699000
+    },
+    "0490_1476699000": {
+        "Latitude": 48.14915,
+        "Longitude": 11.580833,
+        "Number": 490,
+        "Streets": "['Ludwigstr.', 'Schellingstr.']",
+        "Timestamp": 1476699000
+    },
+    "0492_1476699000": {
+        "Latitude": 48.140007,
+        "Longitude": 11.530456,
+        "Number": 492,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0493_1476699000": {
+        "Latitude": 48.150654,
+        "Longitude": 11.58113,
+        "Number": 493,
+        "Streets": "['Geschwister-Scholl-Platz1', 'Ludwigstr.']",
+        "Timestamp": 1476699000
+    },
+    "0496_1476699000": {
+        "Latitude": 48.12545,
+        "Longitude": 11.557187,
+        "Number": 496,
+        "Streets": "['Kapuzinerplatz', 'Tumblingerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0502_1476699000": {
+        "Latitude": 48.157833,
+        "Longitude": 11.567186,
+        "Number": 502,
+        "Streets": "['Adelheidstr.', 'Agnesstr.']",
+        "Timestamp": 1476699000
+    },
+    "0504_1476699000": {
+        "Latitude": 48.129948,
+        "Longitude": 11.56451,
+        "Number": 504,
+        "Streets": "['Frauenlobstr', 'Winckelstr.', 'LMUProjektstandort4']",
+        "Timestamp": 1476699000
+    },
+    "0506_1476699000": {
+        "Latitude": 48.131264,
+        "Longitude": 11.590196,
+        "Number": 506,
+        "Streets": "['Hochstr.', 'RosenheimerStr.']",
+        "Timestamp": 1476699000
+    },
+    "0512_1476699000": {
+        "Latitude": 48.151646,
+        "Longitude": 11.604725,
+        "Number": 512,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0516_1476699000": {
+        "Latitude": 48.1257,
+        "Longitude": 11.550741,
+        "Number": 516,
+        "Streets": "['G\u00fcllstr.', 'Lindwurmstr.']",
+        "Timestamp": 1476699000
+    },
+    "0519_1476699000": {
+        "Latitude": 48.15015,
+        "Longitude": 11.5798,
+        "Number": 519,
+        "Streets": "['Geschwister-Scholl-Platz1', 'Ludwigstr.']",
+        "Timestamp": 1476699000
+    },
+    "0521_1476699000": {
+        "Latitude": 48.14124,
+        "Longitude": 11.594579,
+        "Number": 521,
+        "Streets": "['Prinzregentenstr.', 'Widenmayerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0522_1476699000": {
+        "Latitude": 48.13194444,
+        "Longitude": 11.57638889,
+        "Number": 522,
+        "Streets": "['G\u00e4rtnerplatz', 'Klenzestr.']",
+        "Timestamp": 1476699000
+    },
+    "0523_1476699000": {
+        "Latitude": 48.143257,
+        "Longitude": 11.593981,
+        "Number": 523,
+        "Streets": "['AmGries', 'Reitmorstr.']",
+        "Timestamp": 1476699000
+    },
+    "0529_1476699000": {
+        "Latitude": 48.11244,
+        "Longitude": 11.54854,
+        "Number": 529,
+        "Streets": "['Bruderm\u00fchlstr.', 'Implerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0530_1476699000": {
+        "Latitude": 48.16198,
+        "Longitude": 11.540053,
+        "Number": 530,
+        "Streets": "['Sprunerstr.', 'Trivastr.']",
+        "Timestamp": 1476699000
+    },
+    "0531_1476699000": {
+        "Latitude": 48.163685,
+        "Longitude": 11.563395,
+        "Number": 531,
+        "Streets": "['Herzogstr.', 'Winzererstr.']",
+        "Timestamp": 1476699000
+    },
+    "0536_1476699000": {
+        "Latitude": 48.14389,
+        "Longitude": 11.558108,
+        "Number": 536,
+        "Streets": "['Marsstr.', 'Seidlstr.']",
+        "Timestamp": 1476699000
+    },
+    "0540_1476699000": {
+        "Latitude": 48.1467,
+        "Longitude": 11.594091,
+        "Number": 540,
+        "Streets": "['Lerchenfeldstr.', 'Paradiesstr.']",
+        "Timestamp": 1476699000
+    },
+    "0554_1476699000": {
+        "Latitude": 48.17423,
+        "Longitude": 11.592792,
+        "Number": 554,
+        "Streets": "['BerlinerStr.']",
+        "Timestamp": 1476699000
+    },
+    "0556_1476699000": {
+        "Latitude": 48.1597,
+        "Longitude": 11.557773,
+        "Number": 556,
+        "Streets": "['Kathi-Kobus-Str.', 'Theo-Prosel-Weg']",
+        "Timestamp": 1476699000
+    },
+    "0557_1476699000": {
+        "Latitude": 48.187054,
+        "Longitude": 11.581325,
+        "Number": 557,
+        "Streets": "['Langensalzastr.', 'SchmalkaldenerStr.']",
+        "Timestamp": 1476699000
+    },
+    "0564_1476699000": {
+        "Latitude": 48.141777,
+        "Longitude": 11.548338,
+        "Number": 564,
+        "Streets": "['Hackerbr\u00fccke', 'S-BahnstationHackerbr\u00fccke']",
+        "Timestamp": 1476699000
+    },
+    "0570_1476699000": {
+        "Latitude": 48.189663,
+        "Longitude": 11.578791,
+        "Number": 570,
+        "Streets": "['MagnaSteyr', 'Taunusstr.31']",
+        "Timestamp": 1476699000
+    },
+    "0574_1476699000": {
+        "Latitude": 48.136864,
+        "Longitude": 11.605476,
+        "Number": 574,
+        "Streets": "['Schneckenburgerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0576_1476699000": {
+        "Latitude": 48.146656,
+        "Longitude": 11.567144,
+        "Number": 576,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0584_1476699000": {
+        "Latitude": 48.149215,
+        "Longitude": 11.578547,
+        "Number": 584,
+        "Streets": "['LMUProjektstandort2', 'Schellingstr.5']",
+        "Timestamp": 1476699000
+    },
+    "0586_1476699000": {
+        "Latitude": 48.149036,
+        "Longitude": 11.505437,
+        "Number": 586,
+        "Streets": "['Fasoltstr.', 'Herthastr.']",
+        "Timestamp": 1476699000
+    },
+    "0587_1476699000": {
+        "Latitude": 48.1220822525,
+        "Longitude": 11.565257293,
+        "Number": 587,
+        "Streets": "['Auenstr.', 'Wittelsbacherstr.']",
+        "Timestamp": 1476699000
+    },
+    "0591_1476699000": {
+        "Latitude": 48.15037,
+        "Longitude": 11.548361,
+        "Number": 591,
+        "Streets": "['Lothstr.', 'Thorwaldsenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0592_1476699000": {
+        "Latitude": 48.18894,
+        "Longitude": 11.580728,
+        "Number": 592,
+        "Streets": "['BMWStation9', 'Taunusstr.43']",
+        "Timestamp": 1476699000
+    },
+    "0593_1476699000": {
+        "Latitude": 48.11995,
+        "Longitude": 11.540287,
+        "Number": 593,
+        "Streets": "['Margaretenplatz', 'Plinganserstr.']",
+        "Timestamp": 1476699000
+    },
+    "0597_1476699000": {
+        "Latitude": 48.187336,
+        "Longitude": 11.572919,
+        "Number": 597,
+        "Streets": "['Knorrstr.', 'U-BahnstationFrankfurterRingS\u00fcd']",
+        "Timestamp": 1476699000
+    },
+    "0602_1476699000": {
+        "Latitude": 48.17617,
+        "Longitude": 11.538721,
+        "Number": 602,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0607_1476699000": {
+        "Latitude": 48.157787,
+        "Longitude": 11.577574,
+        "Number": 607,
+        "Streets": "['Franz-Joseph-Str.', 'Habsburgerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0616_1476699000": {
+        "Latitude": 48.157604,
+        "Longitude": 11.56306,
+        "Number": 616,
+        "Streets": "['Keuslinstr.', 'Schlei\u00dfheimerStr.']",
+        "Timestamp": 1476699000
+    },
+    "0623_1476699000": {
+        "Latitude": 48.129364,
+        "Longitude": 11.559405,
+        "Number": 623,
+        "Streets": "['Goetheplatz', 'Waltherstr.']",
+        "Timestamp": 1476699000
+    },
+    "0629_1476699000": {
+        "Latitude": 48.166183,
+        "Longitude": 11.558791,
+        "Number": 629,
+        "Streets": "['Therese-Studer-Str.']",
+        "Timestamp": 1476699000
+    },
+    "0633_1476699000": {
+        "Latitude": 48.146046,
+        "Longitude": 11.582273,
+        "Number": 633,
+        "Streets": "['Kaulbachstr.']",
+        "Timestamp": 1476699000
+    },
+    "0634_1476699000": {
+        "Latitude": 48.159405,
+        "Longitude": 11.588556,
+        "Number": 634,
+        "Streets": "['Seestr.', 'Werneckstr.']",
+        "Timestamp": 1476699000
+    },
+    "0635_1476699000": {
+        "Latitude": 48.11111,
+        "Longitude": 11.567472,
+        "Number": 635,
+        "Streets": "['Salierstr.', 'Sch\u00f6nstr.']",
+        "Timestamp": 1476699000
+    },
+    "0641_1476699000": {
+        "Latitude": 48.143906,
+        "Longitude": 11.595297,
+        "Number": 641,
+        "Streets": "['Crusiusstr.', 'Widenmayerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0643_1476699000": {
+        "Latitude": 48.144455,
+        "Longitude": 11.591158,
+        "Number": 643,
+        "Streets": "['Lerchenfeldstr.', 'Seeaustr.']",
+        "Timestamp": 1476699000
+    },
+    "0647_1476699000": {
+        "Latitude": 48.14832,
+        "Longitude": 11.573717,
+        "Number": 647,
+        "Streets": "['Theresienstr.', 'T\u00fcrkenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0648_1476699000": {
+        "Latitude": 48.17685,
+        "Longitude": 11.5903,
+        "Number": 648,
+        "Streets": "['Endresstr.', 'Hittorfstr.']",
+        "Timestamp": 1476699000
+    },
+    "0651_1476699000": {
+        "Latitude": 48.146732,
+        "Longitude": 11.547131,
+        "Number": 651,
+        "Streets": "['Deroystr.', 'Marsstr.']",
+        "Timestamp": 1476699000
+    },
+    "0652_1476699000": {
+        "Latitude": 48.123386,
+        "Longitude": 11.548947,
+        "Number": 652,
+        "Streets": "['Implerstr.', 'Kapellenweg']",
+        "Timestamp": 1476699000
+    },
+    "0653_1476699000": {
+        "Latitude": 48.115322,
+        "Longitude": 11.609433,
+        "Number": 653,
+        "Streets": "['Wageneggerstr.', 'Wilramstr.']",
+        "Timestamp": 1476699000
+    },
+    "0655_1476699000": {
+        "Latitude": 48.177273,
+        "Longitude": 11.569231,
+        "Number": 655,
+        "Streets": "['Frohschammerstr.', 'Petuelring', 'MittlererRing']",
+        "Timestamp": 1476699000
+    },
+    "0656_1476699000": {
+        "Latitude": 48.16491,
+        "Longitude": 11.53824,
+        "Number": 656,
+        "Streets": "['DachauerStr.', 'LandshuterAllee', 'MittlererRing']",
+        "Timestamp": 1476699000
+    },
+    "0660_1476699000": {
+        "Latitude": 48.162304,
+        "Longitude": 11.565299,
+        "Number": 660,
+        "Streets": "['Farinellistr.', 'Friedrich-Loy-Str.']",
+        "Timestamp": 1476699000
+    },
+    "0664_1476699000": {
+        "Latitude": 48.156067,
+        "Longitude": 11.577114,
+        "Number": 664,
+        "Streets": "['Habsburgerstr.', 'Konradstr.']",
+        "Timestamp": 1476699000
+    },
+    "0669_1476699000": {
+        "Latitude": 48.15505,
+        "Longitude": 11.581605,
+        "Number": 669,
+        "Streets": "['Giselastr.', 'Leopoldstr.']",
+        "Timestamp": 1476699000
+    },
+    "0670_1476699000": {
+        "Latitude": 48.15805556,
+        "Longitude": 11.56444444,
+        "Number": 670,
+        "Streets": "['Agnesstr.', 'Zentnerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0676_1476699000": {
+        "Latitude": 48.148506,
+        "Longitude": 11.592817,
+        "Number": 676,
+        "Streets": "['Dianastr.', 'Oettingenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0678_1476699000": {
+        "Latitude": 48.12681,
+        "Longitude": 11.532092,
+        "Number": 678,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0679_1476699000": {
+        "Latitude": 48.159775,
+        "Longitude": 11.585464,
+        "Number": 679,
+        "Streets": "['Fendstr.', 'Leopoldstr.']",
+        "Timestamp": 1476699000
+    },
+    "0681_1476699000": {
+        "Latitude": 48.143475,
+        "Longitude": 11.551924,
+        "Number": 681,
+        "Streets": "['AugustinerBiergarten']",
+        "Timestamp": 1476699000
+    },
+    "0691_1476699000": {
+        "Latitude": 48.15166667,
+        "Longitude": 11.5625,
+        "Number": 691,
+        "Streets": "['Schwindstr.', 'Theresienstr.']",
+        "Timestamp": 1476699000
+    },
+    "0700_1476699000": {
+        "Latitude": 48.184002,
+        "Longitude": 11.587419,
+        "Number": 700,
+        "Streets": "['Hans-D\u00f6llgastStr.26', 'NTTData']",
+        "Timestamp": 1476699000
+    },
+    "0709_1476699000": {
+        "Latitude": 48.160248,
+        "Longitude": 11.568329,
+        "Number": 709,
+        "Streets": "['Adelheidstr.', 'Bauerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0713_1476699000": {
+        "Latitude": 48.140816,
+        "Longitude": 11.602112,
+        "Number": 713,
+        "Streets": "['Prinzregentenstr.', 'Schumannstr.']",
+        "Timestamp": 1476699000
+    },
+    "0718_1476699000": {
+        "Latitude": 48.129154,
+        "Longitude": 11.587099,
+        "Number": 718,
+        "Streets": "['Lilienstr.', 'Paulanerplatz']",
+        "Timestamp": 1476699000
+    },
+    "0724_1476699000": {
+        "Latitude": 48.104958,
+        "Longitude": 11.582692,
+        "Number": 724,
+        "Streets": "['Chiemgaustr.', 'MittlererRing', 'TegernseerLandstr.']",
+        "Timestamp": 1476699000
+    },
+    "0732_1476699000": {
+        "Latitude": 48.137997,
+        "Longitude": 11.576764,
+        "Number": 732,
+        "Streets": "['Dienerstr.', 'Landschaftstr.']",
+        "Timestamp": 1476699000
+    },
+    "0735_1476699000": {
+        "Latitude": 48.13444444,
+        "Longitude": 11.57416667,
+        "Number": 735,
+        "Streets": "['Pr\u00e4lat-Zistl-Str.', 'Sebastiansplatz']",
+        "Timestamp": 1476699000
+    },
+    "0738_1476699000": {
+        "Latitude": 48.141117,
+        "Longitude": 11.591483,
+        "Number": 738,
+        "Streets": "['Liebigstr.', 'Oettingenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0742_1476699000": {
+        "Latitude": 48.15777778,
+        "Longitude": 11.57388889,
+        "Number": 742,
+        "Streets": "['Elisabethplatz', 'Elisabethstr.']",
+        "Timestamp": 1476699000
+    },
+    "0745_1476699000": {
+        "Latitude": 48.128246,
+        "Longitude": 11.57272,
+        "Number": 745,
+        "Streets": "['Baaderstr.', 'Ickstattstr.']",
+        "Timestamp": 1476699000
+    },
+    "0746_1476699000": {
+        "Latitude": 48.153812,
+        "Longitude": 11.585498,
+        "Number": 746,
+        "Streets": "['Kaulbachstr.', 'Ohmstr.']",
+        "Timestamp": 1476699000
+    },
+    "0749_1476699000": {
+        "Latitude": 48.182987,
+        "Longitude": 11.594853,
+        "Number": 749,
+        "Streets": "['Alfred-Arndt-Str.', 'Domagkstr.']",
+        "Timestamp": 1476699000
+    },
+    "0751_1476699000": {
+        "Latitude": 48.166225,
+        "Longitude": 11.538546,
+        "Number": 751,
+        "Streets": "['DachauerStr.', 'LandshuterAllee']",
+        "Timestamp": 1476699000
+    },
+    "0756_1476699000": {
+        "Latitude": 48.15401,
+        "Longitude": 11.56532,
+        "Number": 756,
+        "Streets": "['Augustenstr.', 'Zieblandstr.']",
+        "Timestamp": 1476699000
+    },
+    "0758_1476699000": {
+        "Latitude": 48.161903,
+        "Longitude": 11.586716,
+        "Number": 758,
+        "Streets": "['Feilitzschstr.', 'M\u00fcnchenerFreiheit']",
+        "Timestamp": 1476699000
+    },
+    "0759_1476699000": {
+        "Latitude": 48.20274,
+        "Longitude": 11.612454,
+        "Number": 759,
+        "Streets": "['Bergkiefernweg', 'Kieferngartenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0769_1476699000": {
+        "Latitude": 48.11113,
+        "Longitude": 11.603535,
+        "Number": 769,
+        "Streets": "['Balanstr.', 'Jakob-B\u00f6hme-Str.']",
+        "Timestamp": 1476699000
+    },
+    "0778_1476699000": {
+        "Latitude": 48.16498,
+        "Longitude": 11.591004,
+        "Number": 778,
+        "Streets": "['Antonienstr.', 'Kunigundenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0779_1476699000": {
+        "Latitude": 48.137695,
+        "Longitude": 11.553596,
+        "Number": 779,
+        "Streets": "['Schwanthalerstr.', 'St.-Paul-Str.']",
+        "Timestamp": 1476699000
+    },
+    "0788_1476699000": {
+        "Latitude": 48.156662,
+        "Longitude": 11.584518,
+        "Number": 788,
+        "Streets": "['Franz-Joseph-Str.', 'Leopoldstr.']",
+        "Timestamp": 1476699000
+    },
+    "0790_1476699000": {
+        "Latitude": 48.09546,
+        "Longitude": 11.52471,
+        "Number": 790,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0791_1476699000": {
+        "Latitude": 48.16142,
+        "Longitude": 11.55626,
+        "Number": 791,
+        "Streets": "['Barbarastr.', 'Schwere-Reiter-Str.']",
+        "Timestamp": 1476699000
+    },
+    "0797_1476699000": {
+        "Latitude": 48.121544,
+        "Longitude": 11.584978,
+        "Number": 797,
+        "Streets": "['Regerstr.', 'Welfenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0798_1476699000": {
+        "Latitude": 48.16826,
+        "Longitude": 11.59581,
+        "Number": 798,
+        "Streets": "['Gundelindenstr.', 'Klementinenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0800_1476699000": {
+        "Latitude": 48.16947,
+        "Longitude": 11.562723,
+        "Number": 800,
+        "Streets": "['Hornstr.', 'Stauffenbergstr.']",
+        "Timestamp": 1476699000
+    },
+    "0803_1476699000": {
+        "Latitude": 48.149414,
+        "Longitude": 11.621557,
+        "Number": 803,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0810_1476699000": {
+        "Latitude": 48.161827,
+        "Longitude": 11.568026,
+        "Number": 810,
+        "Streets": "['Hohenzollernplatz', 'Mittermayrstr.']",
+        "Timestamp": 1476699000
+    },
+    "0811_1476699000": {
+        "Latitude": 48.1326,
+        "Longitude": 11.562202,
+        "Number": 811,
+        "Streets": "['Nu\u00dfbaumstr.', 'Ziemssenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0812_1476699000": {
+        "Latitude": 48.171528,
+        "Longitude": 11.547231,
+        "Number": 812,
+        "Streets": "['Spiridon-Louis-Ring', 'Wilhelm-D\u00f6rpfeld-Weg']",
+        "Timestamp": 1476699000
+    },
+    "0814_1476699000": {
+        "Latitude": 48.139946,
+        "Longitude": 11.592705,
+        "Number": 814,
+        "Streets": "['Liebigstr.', 'Reitmorstr.']",
+        "Timestamp": 1476699000
+    },
+    "0820_1476699000": {
+        "Latitude": 48.126575,
+        "Longitude": 11.53422,
+        "Number": 820,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0821_1476699000": {
+        "Latitude": 48.12747,
+        "Longitude": 11.581546,
+        "Number": 821,
+        "Streets": "['Corneliusbr\u00fccke', 'Eduard-Schmid-Str.']",
+        "Timestamp": 1476699000
+    },
+    "0825_1476699000": {
+        "Latitude": 48.08037,
+        "Longitude": 11.551462,
+        "Number": 825,
+        "Streets": "['Geiselgasteigstr.', 'Menterschweigstr.']",
+        "Timestamp": 1476699000
+    },
+    "0829_1476699000": {
+        "Latitude": 48.114952,
+        "Longitude": 11.569777,
+        "Number": 829,
+        "Streets": "['Hans-Mielich-Str.', 'Konradinstr.']",
+        "Timestamp": 1476699000
+    },
+    "0833_1476699000": {
+        "Latitude": 48.159714,
+        "Longitude": 11.584486,
+        "Number": 833,
+        "Streets": "['Leopoldstr.', 'Nikolaistr.']",
+        "Timestamp": 1476699000
+    },
+    "0834_1476699000": {
+        "Latitude": 48.132935,
+        "Longitude": 11.579152,
+        "Number": 834,
+        "Streets": "['Aventinstr.', 'Klenzestr.']",
+        "Timestamp": 1476699000
+    },
+    "0842_1476699000": {
+        "Latitude": 48.111115,
+        "Longitude": 11.533997,
+        "Number": 842,
+        "Streets": "['Konrad-Celtis-Str.', 'Passauerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0843_1476699000": {
+        "Latitude": 48.1274,
+        "Longitude": 11.597755,
+        "Number": 843,
+        "Streets": "['LothringerStr.', 'PariserStr.']",
+        "Timestamp": 1476699000
+    },
+    "0846_1476699000": {
+        "Latitude": 48.176662,
+        "Longitude": 11.538735,
+        "Number": 846,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0847_1476699000": {
+        "Latitude": 48.133713,
+        "Longitude": 11.576117,
+        "Number": 847,
+        "Streets": "['Reichenbachstr.', 'Utzschneiderstr.']",
+        "Timestamp": 1476699000
+    },
+    "0848_1476699000": {
+        "Latitude": 48.174984,
+        "Longitude": 11.584231,
+        "Number": 848,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0863_1476699000": {
+        "Latitude": 48.152073,
+        "Longitude": 11.583819,
+        "Number": 863,
+        "Streets": "['Kaulbachstr.', 'Schackstr.']",
+        "Timestamp": 1476699000
+    },
+    "0865_1476699000": {
+        "Latitude": 48.189037,
+        "Longitude": 11.573644,
+        "Number": 865,
+        "Streets": "['BMWLauchst\u00e4dterstr.5Station4', 'Knorrstr.']",
+        "Timestamp": 1476699000
+    },
+    "0876_1476699000": {
+        "Latitude": 48.16799,
+        "Longitude": 11.593751,
+        "Number": 876,
+        "Streets": "['Helmtrudenstr.', 'Kunigundenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0878_1476699000": {
+        "Latitude": 48.156258,
+        "Longitude": 11.557091,
+        "Number": 878,
+        "Streets": "['Lothstr.', 'Schellingstr.']",
+        "Timestamp": 1476699000
+    },
+    "0895_1476699000": {
+        "Latitude": 48.136395,
+        "Longitude": 11.589726,
+        "Number": 895,
+        "Streets": "['Praterinsel', 'Praterwehrbr\u00fccke']",
+        "Timestamp": 1476699000
+    },
+    "0900_1476699000": {
+        "Latitude": 48.128742,
+        "Longitude": 11.596373,
+        "Number": 900,
+        "Streets": "['Metzstr.', 'Wei\u00dfenburgerPlatz']",
+        "Timestamp": 1476699000
+    },
+    "0902_1476699000": {
+        "Latitude": 48.164433,
+        "Longitude": 11.594343,
+        "Number": 902,
+        "Streets": "['BiedersteinerStr.', 'Dietlindenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0904_1476699000": {
+        "Latitude": 48.14539,
+        "Longitude": 11.594012,
+        "Number": 904,
+        "Streets": "['Emil-Riedel-Str.', 'Rosenbuschstr.']",
+        "Timestamp": 1476699000
+    },
+    "0905_1476699000": {
+        "Latitude": 48.127064,
+        "Longitude": 11.581978,
+        "Number": 905,
+        "Streets": "['Schweigerstr.', 'Zeppelinstr.']",
+        "Timestamp": 1476699000
+    },
+    "0908_1476699000": {
+        "Latitude": 48.15778,
+        "Longitude": 11.548202,
+        "Number": 908,
+        "Streets": "['DachauerStr.', 'Hilblestr.']",
+        "Timestamp": 1476699000
+    },
+    "0909_1476699000": {
+        "Latitude": 48.162918,
+        "Longitude": 11.573195,
+        "Number": 909,
+        "Streets": "['Apianstr.', 'Herzogstr.']",
+        "Timestamp": 1476699000
+    },
+    "0922_1476699000": {
+        "Latitude": 48.12909,
+        "Longitude": 11.5718355,
+        "Number": 922,
+        "Streets": "['Ickstattstr.', 'Klenzestr.']",
+        "Timestamp": 1476699000
+    },
+    "0925_1476699000": {
+        "Latitude": 48.129715,
+        "Longitude": 11.537031,
+        "Number": 925,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0926_1476699000": {
+        "Latitude": 48.168247,
+        "Longitude": 11.538894,
+        "Number": 926,
+        "Streets": "['Sapporobogen', 'Willi-Gebhardt-Ufer']",
+        "Timestamp": 1476699000
+    },
+    "0931_1476699000": {
+        "Latitude": 48.163204,
+        "Longitude": 11.587493,
+        "Number": 931,
+        "Streets": "['Hesseloherstr.', 'M\u00fcnchenerFreiheit']",
+        "Timestamp": 1476699000
+    },
+    "0932_1476699000": {
+        "Latitude": 48.173454,
+        "Longitude": 11.597779,
+        "Number": 932,
+        "Streets": "['Schenkendorfstr.', 'MittlererRing', 'Ungererstr.']",
+        "Timestamp": 1476699000
+    },
+    "0934_1476699000": {
+        "Latitude": 48.12629,
+        "Longitude": 11.5217495,
+        "Number": 934,
+        "Streets": "['GarmischerStr.', 'MittlererRing', 'Gr\u00fcntenstr.']",
+        "Timestamp": 1476699000
+    },
+    "0963_1476699000": {
+        "Latitude": 48.1508,
+        "Longitude": 11.578317,
+        "Number": 963,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0964_1476699000": {
+        "Latitude": 48.160145,
+        "Longitude": 11.558034,
+        "Number": 964,
+        "Streets": "['Kathi-Kobus-Str.', 'Theo-Prosel-Weg']",
+        "Timestamp": 1476699000
+    },
+    "0969_1476699000": {
+        "Latitude": 48.159065,
+        "Longitude": 11.555852,
+        "Number": 969,
+        "Streets": "['Infanteriestr.', 'Kathi-Kobus-Str.']",
+        "Timestamp": 1476699000
+    },
+    "0970_1476699000": {
+        "Latitude": 48.133503,
+        "Longitude": 11.579401,
+        "Number": 970,
+        "Streets": "['Rumfordstr.', 'Zwingerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0975_1476699000": {
+        "Latitude": 48.1879,
+        "Longitude": 11.655061,
+        "Number": 975,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "0976_1476699000": {
+        "Latitude": 48.13221,
+        "Longitude": 11.610061,
+        "Number": 976,
+        "Streets": "['Haidenauplatz', 'Orleansstr.']",
+        "Timestamp": 1476699000
+    },
+    "0987_1476699000": {
+        "Latitude": 48.138103,
+        "Longitude": 11.574779,
+        "Number": 987,
+        "Streets": "['Sporerstr.', 'Weinstr.']",
+        "Timestamp": 1476699000
+    },
+    "0988_1476699000": {
+        "Latitude": 48.13888889,
+        "Longitude": 11.58138889,
+        "Number": 988,
+        "Streets": "['Marstallstr.', 'Maximilianstr.']",
+        "Timestamp": 1476699000
+    },
+    "0995_1476699000": {
+        "Latitude": 48.168907,
+        "Longitude": 11.566485,
+        "Number": 995,
+        "Streets": "['Bechsteinstr.', 'Brunnerstr.']",
+        "Timestamp": 1476699000
+    },
+    "0997_1476699000": {
+        "Latitude": 48.165012,
+        "Longitude": 11.587365,
+        "Number": 997,
+        "Streets": "['Freystr.', 'Ungererstr.']",
+        "Timestamp": 1476699000
+    },
+    "1001_1476699000": {
+        "Latitude": 48.150864,
+        "Longitude": 11.569356,
+        "Number": 1001,
+        "Streets": "['Arcisstr.', 'He\u00dfstr.']",
+        "Timestamp": 1476699000
+    },
+    "1006_1476699000": {
+        "Latitude": 48.15568,
+        "Longitude": 11.608073,
+        "Number": 1006,
+        "Streets": "['Isarring', 'MittlererRing', 'Pienzenauerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1008_1476699000": {
+        "Latitude": 48.15233,
+        "Longitude": 11.567114,
+        "Number": 1008,
+        "Streets": "['Luisenstr.', 'Schellingstr.']",
+        "Timestamp": 1476699000
+    },
+    "1010_1476699000": {
+        "Latitude": 48.185677,
+        "Longitude": 11.584626,
+        "Number": 1010,
+        "Streets": "['BMWStation19', 'Ingolst\u00e4dterStr.16-18']",
+        "Timestamp": 1476699000
+    },
+    "1012_1476699000": {
+        "Latitude": 48.149155,
+        "Longitude": 11.575491,
+        "Number": 1012,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1016_1476699000": {
+        "Latitude": 48.105453,
+        "Longitude": 11.591105,
+        "Number": 1016,
+        "Streets": "['Chiemgaustr.', 'MittlererRing', 'P\u00f6llatstr.']",
+        "Timestamp": 1476699000
+    },
+    "1017_1476699000": {
+        "Latitude": 48.139286,
+        "Longitude": 11.56124,
+        "Number": 1017,
+        "Streets": "['Bayerstr.', 'Schillerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1020_1476699000": {
+        "Latitude": 48.145172,
+        "Longitude": 11.533187,
+        "Number": 1020,
+        "Streets": "['DB-AGZentraleMUC']",
+        "Timestamp": 1476699000
+    },
+    "1021_1476699000": {
+        "Latitude": 48.18699,
+        "Longitude": 11.534724,
+        "Number": 1021,
+        "Streets": "['HanauerStr.', 'Triebstr.']",
+        "Timestamp": 1476699000
+    },
+    "1022_1476699000": {
+        "Latitude": 48.15243,
+        "Longitude": 11.61478,
+        "Number": 1022,
+        "Streets": "['B\u00fclowstr.', 'Effnerplatz']",
+        "Timestamp": 1476699000
+    },
+    "1023_1476699000": {
+        "Latitude": 48.133495,
+        "Longitude": 11.583388,
+        "Number": 1023,
+        "Streets": "['Thierschstr.', 'Zweibr\u00fcckenstr.']",
+        "Timestamp": 1476699000
+    },
+    "1025_1476699000": {
+        "Latitude": 48.182926,
+        "Longitude": 11.596004,
+        "Number": 1025,
+        "Streets": "['Alfred-Arndt-Str.', 'Domagkstr.']",
+        "Timestamp": 1476699000
+    },
+    "1029_1476699000": {
+        "Latitude": 48.16373,
+        "Longitude": 11.560687,
+        "Number": 1029,
+        "Streets": "['Adam-Lehmann-Str.', 'Saarstr.']",
+        "Timestamp": 1476699000
+    },
+    "1030_1476699000": {
+        "Latitude": 48.120678,
+        "Longitude": 11.525621,
+        "Number": 1030,
+        "Streets": "['Alpspitzstr.', 'Hinterb\u00e4renbadstr.']",
+        "Timestamp": 1476699000
+    },
+    "1034_1476699000": {
+        "Latitude": 48.1678044793,
+        "Longitude": 11.5590375424,
+        "Number": 1034,
+        "Streets": "['Ackermannstr.']",
+        "Timestamp": 1476699000
+    },
+    "1045_1476699000": {
+        "Latitude": 48.16228,
+        "Longitude": 11.563892,
+        "Number": 1045,
+        "Streets": "['Mitterwieserstr.', 'Schlei\u00dfheimerStr.']",
+        "Timestamp": 1476699000
+    },
+    "1047_1476699000": {
+        "Latitude": 48.130127,
+        "Longitude": 11.573449,
+        "Number": 1047,
+        "Streets": "['Fraunhoferstr.', 'Klenzestr.']",
+        "Timestamp": 1476699000
+    },
+    "1049_1476699000": {
+        "Latitude": 48.15916667,
+        "Longitude": 11.54083333,
+        "Number": 1049,
+        "Streets": "['Fasaneriestr.', 'H\u00fcbnerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1051_1476699000": {
+        "Latitude": 48.15471,
+        "Longitude": 11.569933,
+        "Number": 1051,
+        "Streets": "['Adalbertstr.', 'Isabellastr.']",
+        "Timestamp": 1476699000
+    },
+    "1056_1476699000": {
+        "Latitude": 48.177124,
+        "Longitude": 11.533197,
+        "Number": 1056,
+        "Streets": "['D\u00fcrrstr.', 'G\u00e4rtnerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1061_1476699000": {
+        "Latitude": 48.13323,
+        "Longitude": 11.534266,
+        "Number": 1061,
+        "Streets": "['Heimeranplatz', 'Ridlerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1064_1476699000": {
+        "Latitude": 48.10526,
+        "Longitude": 11.591481,
+        "Number": 1064,
+        "Streets": "['Chiemgaustr.', 'MittlererRing', 'Schlo\u00df-Berg-Str.']",
+        "Timestamp": 1476699000
+    },
+    "1065_1476699000": {
+        "Latitude": 48.16305,
+        "Longitude": 11.599227,
+        "Number": 1065,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1068_1476699000": {
+        "Latitude": 48.139942,
+        "Longitude": 11.536548,
+        "Number": 1068,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1075_1476699000": {
+        "Latitude": 48.15366,
+        "Longitude": 11.582248,
+        "Number": 1075,
+        "Streets": "['Leopoldstrasse3', 'LMUProjekstandort1']",
+        "Timestamp": 1476699000
+    },
+    "1077_1476699000": {
+        "Latitude": 48.175827,
+        "Longitude": 11.608232,
+        "Number": 1077,
+        "Streets": "['Crailsheimstr.', 'Osterwaldstr.']",
+        "Timestamp": 1476699000
+    },
+    "1078_1476699000": {
+        "Latitude": 48.140263,
+        "Longitude": 11.516379,
+        "Number": 1078,
+        "Streets": "['Mitterhoferstr.', 'Sch\u00e4ufeleinstr.']",
+        "Timestamp": 1476699000
+    },
+    "1080_1476699000": {
+        "Latitude": 48.10547,
+        "Longitude": 11.584343,
+        "Number": 1080,
+        "Streets": "['Bacherstr.', 'Bodelschwinghstr.']",
+        "Timestamp": 1476699000
+    },
+    "1082_1476699000": {
+        "Latitude": 48.141613,
+        "Longitude": 11.571673,
+        "Number": 1082,
+        "Streets": "['Maximiliansplatz', 'Prannerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1086_1476699000": {
+        "Latitude": 48.15365,
+        "Longitude": 11.582282,
+        "Number": 1086,
+        "Streets": "['Leopoldstrasse3', 'LMUProjekstandort1']",
+        "Timestamp": 1476699000
+    },
+    "1089_1476699000": {
+        "Latitude": 48.15879,
+        "Longitude": 11.58057,
+        "Number": 1089,
+        "Streets": "['Ainmillerstr.', 'Habsburgerplatz']",
+        "Timestamp": 1476699000
+    },
+    "1094_1476699000": {
+        "Latitude": 48.144882,
+        "Longitude": 11.594303,
+        "Number": 1094,
+        "Streets": "['Reitmorstr.', 'Rosenbuschstr.']",
+        "Timestamp": 1476699000
+    },
+    "1097_1476699000": {
+        "Latitude": 48.1693,
+        "Longitude": 11.592992,
+        "Number": 1097,
+        "Streets": "['Gundelindenstr.', 'Ungererstr.']",
+        "Timestamp": 1476699000
+    },
+    "1098_1476699000": {
+        "Latitude": 48.135036,
+        "Longitude": 11.588127,
+        "Number": 1098,
+        "Streets": "['Mariannenplatz', 'Steinsdorfstr.']",
+        "Timestamp": 1476699000
+    },
+    "1103_1476699000": {
+        "Latitude": 48.183186,
+        "Longitude": 11.596185,
+        "Number": 1103,
+        "Streets": "['Alfred-Arndt-Str.', 'Domagkstr.']",
+        "Timestamp": 1476699000
+    },
+    "1108_1476699000": {
+        "Latitude": 48.13568,
+        "Longitude": 11.540892,
+        "Number": 1108,
+        "Streets": "['Ganghoferstr.', 'Gollierstr.']",
+        "Timestamp": 1476699000
+    },
+    "1110_1476699000": {
+        "Latitude": 48.162983,
+        "Longitude": 11.599268,
+        "Number": 1110,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1117_1476699000": {
+        "Latitude": 48.10545,
+        "Longitude": 11.591139,
+        "Number": 1117,
+        "Streets": "['Chiemgaustr.', 'MittlererRing', 'P\u00f6llatstr.']",
+        "Timestamp": 1476699000
+    },
+    "1119_1476699000": {
+        "Latitude": 48.131466,
+        "Longitude": 11.581604,
+        "Number": 1119,
+        "Streets": "['Kohlstr.', 'Morassistr.']",
+        "Timestamp": 1476699000
+    },
+    "1121_1476699000": {
+        "Latitude": 48.16716,
+        "Longitude": 11.600544,
+        "Number": 1121,
+        "Streets": "['Etschweg', 'Imhofstr.']",
+        "Timestamp": 1476699000
+    },
+    "1132_1476699000": {
+        "Latitude": 48.115196,
+        "Longitude": 11.570006,
+        "Number": 1132,
+        "Streets": "['Hans-Mielich-Str.', 'Konradinstr.']",
+        "Timestamp": 1476699000
+    },
+    "1134_1476699000": {
+        "Latitude": 48.120388,
+        "Longitude": 11.615225,
+        "Number": 1134,
+        "Streets": "['Bad-Schachener-Str.', 'Birkkarspitzstr.']",
+        "Timestamp": 1476699000
+    },
+    "1135_1476699000": {
+        "Latitude": 48.173374,
+        "Longitude": 11.593113,
+        "Number": 1135,
+        "Streets": "['BerlinerStr.']",
+        "Timestamp": 1476699000
+    },
+    "1136_1476699000": {
+        "Latitude": 48.11117,
+        "Longitude": 11.603183,
+        "Number": 1136,
+        "Streets": "['Balanstr.', 'MaikammererStr.']",
+        "Timestamp": 1476699000
+    },
+    "1139_1476699000": {
+        "Latitude": 48.152138,
+        "Longitude": 11.565076,
+        "Number": 1139,
+        "Streets": "['Augustenstr.', 'He\u00dfstr.']",
+        "Timestamp": 1476699000
+    },
+    "1142_1476699000": {
+        "Latitude": 48.15955,
+        "Longitude": 11.562774,
+        "Number": 1142,
+        "Streets": "['Elisabethstr.', 'Schlei\u00dfheimerStr.']",
+        "Timestamp": 1476699000
+    },
+    "1143_1476699000": {
+        "Latitude": 48.168896,
+        "Longitude": 11.566771,
+        "Number": 1143,
+        "Streets": "['Bechsteinstr.', 'Brunnerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1147_1476699000": {
+        "Latitude": 48.15794,
+        "Longitude": 11.581182,
+        "Number": 1147,
+        "Streets": "['Franz-Joseph-Str.', 'Habsburgerplatz']",
+        "Timestamp": 1476699000
+    },
+    "1153_1476699000": {
+        "Latitude": 48.16732,
+        "Longitude": 11.585097,
+        "Number": 1153,
+        "Streets": "['Rheinstr.', 'SulzbacherStr.']",
+        "Timestamp": 1476699000
+    },
+    "1155_1476699000": {
+        "Latitude": 48.141747,
+        "Longitude": 11.594166,
+        "Number": 1155,
+        "Streets": "['Prinzregentenstr.', 'Widenmayerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1158_1476699000": {
+        "Latitude": 48.137875,
+        "Longitude": 11.59052,
+        "Number": 1158,
+        "Streets": "['Gew\u00fcrzm\u00fchlstr.', 'Widenmayerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1166_1476699000": {
+        "Latitude": 48.137592,
+        "Longitude": 11.554891,
+        "Number": 1166,
+        "Streets": "['Paul-Heyse-Str.', 'Schwanthalerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1173_1476699000": {
+        "Latitude": 48.15555556,
+        "Longitude": 11.53972222,
+        "Number": 1173,
+        "Streets": "['Albrechtstr.', 'Leonrodstr.']",
+        "Timestamp": 1476699000
+    },
+    "1178_1476699000": {
+        "Latitude": 48.150505,
+        "Longitude": 11.594913,
+        "Number": 1178,
+        "Streets": "['LMUProjektstandort5', 'Oettingenstr.67Innenhof']",
+        "Timestamp": 1476699000
+    },
+    "1179_1476699000": {
+        "Latitude": 48.160027,
+        "Longitude": 11.585586,
+        "Number": 1179,
+        "Streets": "['Kaiserstr.', 'Leopoldstr.']",
+        "Timestamp": 1476699000
+    },
+    "1180_1476699000": {
+        "Latitude": 48.1846,
+        "Longitude": 11.564632,
+        "Number": 1180,
+        "Streets": "['Haggenmillerstr.', 'StrelitzerStr.']",
+        "Timestamp": 1476699000
+    },
+    "1181_1476699000": {
+        "Latitude": 48.140953,
+        "Longitude": 11.582509,
+        "Number": 1181,
+        "Streets": "['Franz-Josef-Strau\u00df-Ring', 'Hofgartenstr.']",
+        "Timestamp": 1476699000
+    },
+    "1187_1476699000": {
+        "Latitude": 48.10101,
+        "Longitude": 11.547723,
+        "Number": 1187,
+        "Streets": "['ThalkirchnerBr\u00fccke(Tierparkstr.)', 'Zentrall\u00e4nderstr.']",
+        "Timestamp": 1476699000
+    },
+    "1192_1476699000": {
+        "Latitude": 48.133987,
+        "Longitude": 11.575917,
+        "Number": 1192,
+        "Streets": "['Reichenbachstr.', 'Utzschneiderstr.']",
+        "Timestamp": 1476699000
+    },
+    "1193_1476699000": {
+        "Latitude": 48.107628,
+        "Longitude": 11.55982,
+        "Number": 1193,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1196_1476699000": {
+        "Latitude": 48.148304,
+        "Longitude": 11.573306,
+        "Number": 1196,
+        "Streets": "['Theresienstr.', 'T\u00fcrkenstr.']",
+        "Timestamp": 1476699000
+    },
+    "1200_1476699000": {
+        "Latitude": 48.12764,
+        "Longitude": 11.581427,
+        "Number": 1200,
+        "Streets": "['Corneliusbr\u00fccke', 'Eduard-Schmid-Str.']",
+        "Timestamp": 1476699000
+    },
+    "1202_1476699000": {
+        "Latitude": 48.15417,
+        "Longitude": 11.605605,
+        "Number": 1202,
+        "Streets": "['Pienzenauerstr.', 'VilshofenerStr.']",
+        "Timestamp": 1476699000
+    },
+    "1207_1476699000": {
+        "Latitude": 48.13934,
+        "Longitude": 11.606049,
+        "Number": 1207,
+        "Streets": "['Lucile-Grahn-Str.', 'Prinzregentenplatz']",
+        "Timestamp": 1476699000
+    },
+    "1214_1476699000": {
+        "Latitude": 48.167847,
+        "Longitude": 11.591513,
+        "Number": 1214,
+        "Streets": "['Ungererstr.', 'Wiltrudenstr.']",
+        "Timestamp": 1476699000
+    },
+    "1220_1476699000": {
+        "Latitude": 48.15806,
+        "Longitude": 11.549,
+        "Number": 1220,
+        "Streets": "['DachauerStr.', 'Hilblestr.']",
+        "Timestamp": 1476699000
+    },
+    "1226_1476699000": {
+        "Latitude": 48.160988,
+        "Longitude": 11.563561,
+        "Number": 1226,
+        "Streets": "['Hohenzollernstr.', 'Schlei\u00dfheimerStr.']",
+        "Timestamp": 1476699000
+    },
+    "1227_1476699000": {
+        "Latitude": 48.169212,
+        "Longitude": 11.588254,
+        "Number": 1227,
+        "Streets": "['Germaniastr.', 'Johann-Fichte-Str.']",
+        "Timestamp": 1476699000
+    },
+    "1233_1476699000": {
+        "Latitude": 48.164207,
+        "Longitude": 11.582072,
+        "Number": 1233,
+        "Streets": "['Bismarckstr.', 'Clemensstr.']",
+        "Timestamp": 1476699000
+    },
+    "1235_1476699000": {
+        "Latitude": 48.16295,
+        "Longitude": 11.586271,
+        "Number": 1235,
+        "Streets": "['Clemensstr.', 'Leopoldstr.']",
+        "Timestamp": 1476699000
+    },
+    "1238_1476699000": {
+        "Latitude": 48.162117,
+        "Longitude": 11.58671,
+        "Number": 1238,
+        "Streets": "['Herzogstr.', 'Leopoldstr.']",
+        "Timestamp": 1476699000
+    },
+    "1245_1476699000": {
+        "Latitude": 48.163017,
+        "Longitude": 11.57117,
+        "Number": 1245,
+        "Streets": "['Fallmerayerstr.', 'Herzogstr.']",
+        "Timestamp": 1476699000
+    },
+    "1249_1476699000": {
+        "Latitude": 48.11278,
+        "Longitude": 11.56876,
+        "Number": 1249,
+        "Streets": "['Arminiusstr.', 'Krumpterstr.']",
+        "Timestamp": 1476699000
+    },
+    "1257_1476699000": {
+        "Latitude": 48.16084,
+        "Longitude": 11.598442,
+        "Number": 1257,
+        "Streets": "['Gy\u00dflingstr.', 'Isarring', 'MittlererRing']",
+        "Timestamp": 1476699000
+    },
+    "1258_1476699000": {
+        "Latitude": 48.14138,
+        "Longitude": 11.582474,
+        "Number": 1258,
+        "Streets": "['Franz-Josef-Strau\u00df-Ring', 'Hofgartenstr.']",
+        "Timestamp": 1476699000
+    },
+    "1260_1476699000": {
+        "Latitude": 48.123802,
+        "Longitude": 11.540122,
+        "Number": 1260,
+        "Streets": "['Maronstr.', 'Paul-Meisel-Weg']",
+        "Timestamp": 1476699000
+    },
+    "1261_1476699000": {
+        "Latitude": 48.1301,
+        "Longitude": 11.529066,
+        "Number": 1261,
+        "Streets": "['GarmischerStrasse', 'MittlererRing', 'Leonhard-Moll-Bogen']",
+        "Timestamp": 1476699000
+    },
+    "1262_1476699000": {
+        "Latitude": 48.148422,
+        "Longitude": 11.575055,
+        "Number": 1262,
+        "Streets": "['Theresienstr.', 'T\u00fcrkenstr.']",
+        "Timestamp": 1476699000
+    },
+    "1267_1476699000": {
+        "Latitude": 48.14272,
+        "Longitude": 11.572697,
+        "Number": 1267,
+        "Streets": "['Maximiliansplatz', 'PlatzderNS-Opfer']",
+        "Timestamp": 1476699000
+    },
+    "1274_1476699000": {
+        "Latitude": 48.153027,
+        "Longitude": 11.584789,
+        "Number": 1274,
+        "Streets": "['Kaulbachstr.', 'Ohmstr.']",
+        "Timestamp": 1476699000
+    },
+    "1275_1476699000": {
+        "Latitude": 48.127792,
+        "Longitude": 11.554656,
+        "Number": 1275,
+        "Streets": "['Hermann-Schmid-Str.', 'Lindwurmstr.']",
+        "Timestamp": 1476699000
+    },
+    "1277_1476699000": {
+        "Latitude": 48.17064,
+        "Longitude": 11.537577,
+        "Number": 1277,
+        "Streets": "['Hengelerstr.', 'L\u00f6fftzstr.']",
+        "Timestamp": 1476699000
+    },
+    "1279_1476699000": {
+        "Latitude": 48.14499,
+        "Longitude": 11.559719,
+        "Number": 1279,
+        "Streets": "['DachauerStr.', 'Karlstr.']",
+        "Timestamp": 1476699000
+    },
+    "1283_1476699000": {
+        "Latitude": 48.170116,
+        "Longitude": 11.586307,
+        "Number": 1283,
+        "Streets": "['Leopoldstr.', 'Montsalvatstr.']",
+        "Timestamp": 1476699000
+    },
+    "1285_1476699000": {
+        "Latitude": 48.129982,
+        "Longitude": 11.573326,
+        "Number": 1285,
+        "Streets": "['Fraunhoferstr.', 'Klenzestr.']",
+        "Timestamp": 1476699000
+    },
+    "1288_1476699000": {
+        "Latitude": 48.158997,
+        "Longitude": 11.555706,
+        "Number": 1288,
+        "Streets": "['Infanteriestr.', 'Kathi-Kobus-Str.']",
+        "Timestamp": 1476699000
+    },
+    "1303_1476699000": {
+        "Latitude": 48.14506,
+        "Longitude": 11.533166,
+        "Number": 1303,
+        "Streets": "['DB-AGZentraleMUC']",
+        "Timestamp": 1476699000
+    },
+    "1312_1476699000": {
+        "Latitude": 48.149933,
+        "Longitude": 11.62034,
+        "Number": 1312,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1313_1476699000": {
+        "Latitude": 48.126392,
+        "Longitude": 11.583962,
+        "Number": 1313,
+        "Streets": "['Mariahilfplatz', 'Schweigerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1315_1476699000": {
+        "Latitude": 48.171684,
+        "Longitude": 11.598104,
+        "Number": 1315,
+        "Streets": "['AntwerpenerStr.', 'Hollandstr.']",
+        "Timestamp": 1476699000
+    },
+    "1316_1476699000": {
+        "Latitude": 48.162632,
+        "Longitude": 11.584717,
+        "Number": 1316,
+        "Streets": "['Clemensstr.', 'Morawitzkystr.']",
+        "Timestamp": 1476699000
+    },
+    "1323_1476699000": {
+        "Latitude": 48.16869,
+        "Longitude": 11.5491705,
+        "Number": 1323,
+        "Streets": "['GesundheitsparkVolkshochschuleimOlympiapark']",
+        "Timestamp": 1476699000
+    },
+    "1325_1476699000": {
+        "Latitude": 48.166286,
+        "Longitude": 11.581342,
+        "Number": 1325,
+        "Streets": "['Karl-Theodor-Str.', 'MainzerStr.']",
+        "Timestamp": 1476699000
+    },
+    "1328_1476699000": {
+        "Latitude": 48.1301,
+        "Longitude": 11.573304,
+        "Number": 1328,
+        "Streets": "['Fraunhoferstr.', 'Klenzestr.']",
+        "Timestamp": 1476699000
+    },
+    "1331_1476699000": {
+        "Latitude": 48.136803,
+        "Longitude": 11.58087,
+        "Number": 1331,
+        "Streets": "['Hochbr\u00fcckenstr.', 'Marienstr.']",
+        "Timestamp": 1476699000
+    },
+    "1332_1476699000": {
+        "Latitude": 48.163517,
+        "Longitude": 11.587581,
+        "Number": 1332,
+        "Streets": "['Marschallstr.', 'M\u00fcnchenerFreiheit']",
+        "Timestamp": 1476699000
+    },
+    "1339_1476699000": {
+        "Latitude": 48.143322,
+        "Longitude": 11.568307,
+        "Number": 1339,
+        "Streets": "['BarerStr.', 'Karlstr.']",
+        "Timestamp": 1476699000
+    },
+    "1343_1476699000": {
+        "Latitude": 48.17611,
+        "Longitude": 11.58043,
+        "Number": 1343,
+        "Streets": "['Klopstockstr.', 'R\u00fcmannstr.']",
+        "Timestamp": 1476699000
+    },
+    "1345_1476699000": {
+        "Latitude": 48.153572,
+        "Longitude": 11.582268,
+        "Number": 1345,
+        "Streets": "['Leopoldstrasse3', 'LMUProjekstandort1']",
+        "Timestamp": 1476699000
+    },
+    "1347_1476699000": {
+        "Latitude": 48.166798,
+        "Longitude": 11.570926,
+        "Number": 1347,
+        "Streets": "['Angererstr.', 'Karl-Theodor-Str.']",
+        "Timestamp": 1476699000
+    },
+    "1349_1476699000": {
+        "Latitude": 48.120667,
+        "Longitude": 11.620184,
+        "Number": 1349,
+        "Streets": "['Bad-Schachener-Str.', 'InnsbruckerRing']",
+        "Timestamp": 1476699000
+    },
+    "1351_1476699000": {
+        "Latitude": 48.143276,
+        "Longitude": 11.535789,
+        "Number": 1351,
+        "Streets": "['Donnersbergerbr\u00fccke', 'MittlererRing', 'LandshuterAllee']",
+        "Timestamp": 1476699000
+    },
+    "1358_1476699000": {
+        "Latitude": 48.189102,
+        "Longitude": 11.573686,
+        "Number": 1358,
+        "Streets": "['BMWLauchst\u00e4dterstr.5Station4', 'Knorrstr.']",
+        "Timestamp": 1476699000
+    },
+    "1359_1476699000": {
+        "Latitude": 48.140472,
+        "Longitude": 11.58032,
+        "Number": 1359,
+        "Streets": "['Marstallplatz']",
+        "Timestamp": 1476699000
+    },
+    "1369_1476699000": {
+        "Latitude": 48.12311,
+        "Longitude": 11.584409,
+        "Number": 1369,
+        "Streets": "['Hochstr.', 'Josef-Holzer-Weg']",
+        "Timestamp": 1476699000
+    },
+    "1372_1476699000": {
+        "Latitude": 48.163654,
+        "Longitude": 11.562386,
+        "Number": 1372,
+        "Streets": "['Herzogstr.', 'Winzererstr.']",
+        "Timestamp": 1476699000
+    },
+    "1375_1476699000": {
+        "Latitude": 48.156693,
+        "Longitude": 11.589194,
+        "Number": 1375,
+        "Streets": "['K\u00f6niginstr.', 'Thiemestr.']",
+        "Timestamp": 1476699000
+    },
+    "1378_1476699000": {
+        "Latitude": 48.18406,
+        "Longitude": 11.58779,
+        "Number": 1378,
+        "Streets": "['Hans-D\u00f6llgastStr.26', 'NTTData']",
+        "Timestamp": 1476699000
+    },
+    "1380_1476699000": {
+        "Latitude": 48.116413,
+        "Longitude": 11.57439,
+        "Number": 1380,
+        "Streets": "['Cannabichstr.', 'Waldeckstr.']",
+        "Timestamp": 1476699000
+    },
+    "1381_1476699000": {
+        "Latitude": 48.120556,
+        "Longitude": 11.525577,
+        "Number": 1381,
+        "Streets": "['Alpspitzstr.', 'Hinterb\u00e4renbadstr.']",
+        "Timestamp": 1476699000
+    },
+    "1383_1476699000": {
+        "Latitude": 48.1325,
+        "Longitude": 11.599483,
+        "Number": 1383,
+        "Streets": "['ObereJohannisstr.', 'Walserstr.']",
+        "Timestamp": 1476699000
+    },
+    "1384_1476699000": {
+        "Latitude": 48.182808,
+        "Longitude": 11.552978,
+        "Number": 1384,
+        "Streets": "['Helene-Mayer-Ring', 'Stra\u00dfbergerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1387_1476699000": {
+        "Latitude": 48.140606,
+        "Longitude": 11.583627,
+        "Number": 1387,
+        "Streets": "['Karl-Scharnagl-Ring', 'Marstallstr.']",
+        "Timestamp": 1476699000
+    },
+    "1389_1476699000": {
+        "Latitude": 48.091473,
+        "Longitude": 11.544044,
+        "Number": 1389,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1392_1476699000": {
+        "Latitude": 48.157406,
+        "Longitude": 11.543231,
+        "Number": 1392,
+        "Streets": "['Fasaneriestr.', 'Leonrodstr.']",
+        "Timestamp": 1476699000
+    },
+    "1397_1476699000": {
+        "Latitude": 48.17363,
+        "Longitude": 11.588054,
+        "Number": 1397,
+        "Streets": "['BerlinerStr.', 'Schl\u00fcterstr.']",
+        "Timestamp": 1476699000
+    },
+    "1400_1476699000": {
+        "Latitude": 48.16199,
+        "Longitude": 11.600277,
+        "Number": 1400,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1401_1476699000": {
+        "Latitude": 48.136192,
+        "Longitude": 11.579243,
+        "Number": 1401,
+        "Streets": "['Hochbr\u00fcckenstr.', 'Tal']",
+        "Timestamp": 1476699000
+    },
+    "1404_1476699000": {
+        "Latitude": 48.13027778,
+        "Longitude": 11.55333333,
+        "Number": 1404,
+        "Streets": "['Esperantoplatz', 'Mozartstr.']",
+        "Timestamp": 1476699000
+    },
+    "1410_1476699000": {
+        "Latitude": 48.13371,
+        "Longitude": 11.565841,
+        "Number": 1410,
+        "Streets": "['Nu\u00dfbaumstr.', 'Pettenkoferstr.']",
+        "Timestamp": 1476699000
+    },
+    "1411_1476699000": {
+        "Latitude": 48.126034,
+        "Longitude": 11.587012,
+        "Number": 1411,
+        "Streets": "['Fischerweg', 'Hochstr.']",
+        "Timestamp": 1476699000
+    },
+    "1413_1476699000": {
+        "Latitude": 48.13027778,
+        "Longitude": 11.56,
+        "Number": 1413,
+        "Streets": "['Lindwurmstr.', 'Ringseisstr.']",
+        "Timestamp": 1476699000
+    },
+    "1414_1476699000": {
+        "Latitude": 48.12694444,
+        "Longitude": 11.57916667,
+        "Number": 1414,
+        "Streets": "['Bereiteranger', 'Eduard-Schmid-Str.']",
+        "Timestamp": 1476699000
+    },
+    "1416_1476699000": {
+        "Latitude": 48.148468,
+        "Longitude": 11.573351,
+        "Number": 1416,
+        "Streets": "['Theresienstr.', 'T\u00fcrkenstr.']",
+        "Timestamp": 1476699000
+    },
+    "1426_1476699000": {
+        "Latitude": 48.1462,
+        "Longitude": 11.593158,
+        "Number": 1426,
+        "Streets": "['Lerchenfeldstr.', 'Oettingenstr.']",
+        "Timestamp": 1476699000
+    },
+    "1431_1476699000": {
+        "Latitude": 48.14224,
+        "Longitude": 11.593156,
+        "Number": 1431,
+        "Streets": "['Prinzregentenstr.', 'Reitmorstr.']",
+        "Timestamp": 1476699000
+    },
+    "1442_1476699000": {
+        "Latitude": 48.13392,
+        "Longitude": 11.581566,
+        "Number": 1442,
+        "Streets": "['Baaderstr.', 'Rumfordstr.']",
+        "Timestamp": 1476699000
+    },
+    "1452_1476699000": {
+        "Latitude": 48.141197,
+        "Longitude": 11.573245,
+        "Number": 1452,
+        "Streets": "['Rochusberg', 'Salvatorstr.']",
+        "Timestamp": 1476699000
+    },
+    "1456_1476699000": {
+        "Latitude": 48.150723,
+        "Longitude": 11.595186,
+        "Number": 1456,
+        "Streets": "['HirschauerStr.', 'Oettingenstr.']",
+        "Timestamp": 1476699000
+    },
+    "1458_1476699000": {
+        "Latitude": 48.118675,
+        "Longitude": 11.576628,
+        "Number": 1458,
+        "Streets": "['GiesingerBerg', 'Plattnerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1459_1476699000": {
+        "Latitude": 48.15239,
+        "Longitude": 11.567296,
+        "Number": 1459,
+        "Streets": "['Luisenstr.', 'Schellingstr.']",
+        "Timestamp": 1476699000
+    },
+    "1461_1476699000": {
+        "Latitude": 48.125366,
+        "Longitude": 11.525366,
+        "Number": 1461,
+        "Streets": "['Grasweg', 'Rudi-Sedlmayerhalle']",
+        "Timestamp": 1476699000
+    },
+    "1462_1476699000": {
+        "Latitude": 48.18294,
+        "Longitude": 11.55286,
+        "Number": 1462,
+        "Streets": "['Helene-Mayer-Ring', 'Stra\u00dfbergerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1463_1476699000": {
+        "Latitude": 48.167862,
+        "Longitude": 11.591544,
+        "Number": 1463,
+        "Streets": "['Ungererstr.', 'Wiltrudenstr.']",
+        "Timestamp": 1476699000
+    },
+    "1467_1476699000": {
+        "Latitude": 48.163727,
+        "Longitude": 11.55806,
+        "Number": 1467,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1469_1476699000": {
+        "Latitude": 48.154263,
+        "Longitude": 11.585426,
+        "Number": 1469,
+        "Streets": "['Kaulbachstr.', 'Ohmstr.']",
+        "Timestamp": 1476699000
+    },
+    "1470_1476699000": {
+        "Latitude": 48.16583333,
+        "Longitude": 11.57888889,
+        "Number": 1470,
+        "Streets": "['Unertlstr.', 'Viktoriaplatz']",
+        "Timestamp": 1476699000
+    },
+    "1471_1476699000": {
+        "Latitude": 48.14166667,
+        "Longitude": 11.59555556,
+        "Number": 1471,
+        "Streets": "['Prinzregentenstr.']",
+        "Timestamp": 1476699000
+    },
+    "1477_1476699000": {
+        "Latitude": 48.117805,
+        "Longitude": 11.576485,
+        "Number": 1477,
+        "Streets": "['AmM\u00fchlbach', 'Kupferhammerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1480_1476699000": {
+        "Latitude": 48.135715,
+        "Longitude": 11.5573435,
+        "Number": 1480,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1485_1476699000": {
+        "Latitude": 48.166553,
+        "Longitude": 11.578982,
+        "Number": 1485,
+        "Streets": "['BonnerPlatz', 'Viktoriastr.']",
+        "Timestamp": 1476699000
+    },
+    "1487_1476699000": {
+        "Latitude": 48.164665,
+        "Longitude": 11.558812,
+        "Number": 1487,
+        "Streets": "['Saarstr.', 'Therese-Studer-Str.']",
+        "Timestamp": 1476699000
+    },
+    "1489_1476699000": {
+        "Latitude": 48.142433,
+        "Longitude": 11.592073,
+        "Number": 1489,
+        "Streets": "['Oettingenstr.', 'Prinzregentenstr.']",
+        "Timestamp": 1476699000
+    },
+    "1494_1476699000": {
+        "Latitude": 48.118465,
+        "Longitude": 11.567086,
+        "Number": 1494,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1499_1476699000": {
+        "Latitude": 48.15051,
+        "Longitude": 11.594822,
+        "Number": 1499,
+        "Streets": "['LMUProjektstandort5', 'Oettingenstr.67Innenhof']",
+        "Timestamp": 1476699000
+    },
+    "1505_1476699000": {
+        "Latitude": 48.159966,
+        "Longitude": 11.591999,
+        "Number": 1505,
+        "Streets": "['BiedersteinerStr.', 'Gunezrainerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1511_1476699000": {
+        "Latitude": 48.173504,
+        "Longitude": 11.593995,
+        "Number": 1511,
+        "Streets": "['BerlinerStr.', 'Theodor-Dombart-Str.']",
+        "Timestamp": 1476699000
+    },
+    "1513_1476699000": {
+        "Latitude": 48.12773,
+        "Longitude": 11.581301,
+        "Number": 1513,
+        "Streets": "['Corneliusbr\u00fccke', 'Eduard-Schmid-Str.']",
+        "Timestamp": 1476699000
+    },
+    "1515_1476699000": {
+        "Latitude": 48.153248,
+        "Longitude": 11.57834,
+        "Number": 1515,
+        "Streets": "['Akademiestr.', 'T\u00fcrkenstr.']",
+        "Timestamp": 1476699000
+    },
+    "1517_1476699000": {
+        "Latitude": 48.111057,
+        "Longitude": 11.584301,
+        "Number": 1517,
+        "Streets": "['PerlacherStr.', 'Valeppstr.']",
+        "Timestamp": 1476699000
+    },
+    "1519_1476699000": {
+        "Latitude": 48.113243,
+        "Longitude": 11.615906,
+        "Number": 1519,
+        "Streets": "['Aribonenstr.', 'InnsbruckerRing']",
+        "Timestamp": 1476699000
+    },
+    "1520_1476699000": {
+        "Latitude": 48.14062,
+        "Longitude": 11.587966,
+        "Number": 1520,
+        "Streets": "['St.-Anna-Platz']",
+        "Timestamp": 1476699000
+    },
+    "1521_1476699000": {
+        "Latitude": 48.13522,
+        "Longitude": 11.574408,
+        "Number": 1521,
+        "Streets": "['Nieserstr.', 'Rosental']",
+        "Timestamp": 1476699000
+    },
+    "1522_1476699000": {
+        "Latitude": 48.169247,
+        "Longitude": 11.541915,
+        "Number": 1522,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1541_1476699000": {
+        "Latitude": 48.191486,
+        "Longitude": 11.569289,
+        "Number": 1541,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1542_1476699000": {
+        "Latitude": 48.13472222,
+        "Longitude": 11.5675,
+        "Number": 1542,
+        "Streets": "['Herzog-Wilhelm-Str.', 'Kreuzstr.']",
+        "Timestamp": 1476699000
+    },
+    "1543_1476699000": {
+        "Latitude": 48.13888889,
+        "Longitude": 11.59166667,
+        "Number": 1543,
+        "Streets": "['Reitmorstr.', 'Robert-Koch-Str.']",
+        "Timestamp": 1476699000
+    },
+    "1546_1476699000": {
+        "Latitude": 48.1258520942,
+        "Longitude": 11.5244067323,
+        "Number": 1546,
+        "Streets": "['Grasweg', 'Rudi-Sedlmayerhalle']",
+        "Timestamp": 1476699000
+    },
+    "1547_1476699000": {
+        "Latitude": 48.112312,
+        "Longitude": 11.531229,
+        "Number": 1547,
+        "Streets": "['Arnimstr.', 'K\u00fcrnbergstr.']",
+        "Timestamp": 1476699000
+    },
+    "1552_1476699000": {
+        "Latitude": 48.136425,
+        "Longitude": 11.556573,
+        "Number": 1552,
+        "Streets": "['Landwehrstr.', 'Paul-Heyse-Str.']",
+        "Timestamp": 1476699000
+    },
+    "1553_1476699000": {
+        "Latitude": 48.10868,
+        "Longitude": 11.472528,
+        "Number": 1553,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1558_1476699000": {
+        "Latitude": 48.126102,
+        "Longitude": 11.562464,
+        "Number": 1558,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1561_1476699000": {
+        "Latitude": 48.17916667,
+        "Longitude": 11.56722222,
+        "Number": 1561,
+        "Streets": "['Schlei\u00dfheimerStr.', 'Schopenhauerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1564_1476699000": {
+        "Latitude": 48.18416,
+        "Longitude": 11.587674,
+        "Number": 1564,
+        "Streets": "['Hans-D\u00f6llgastStr.26', 'NTTData']",
+        "Timestamp": 1476699000
+    },
+    "1570_1476699000": {
+        "Latitude": 48.14666667,
+        "Longitude": 11.57944444,
+        "Number": 1570,
+        "Streets": "['Ludwigstr.', 'Theresienstr.']",
+        "Timestamp": 1476699000
+    },
+    "1576_1476699000": {
+        "Latitude": 48.126728,
+        "Longitude": 11.582699,
+        "Number": 1576,
+        "Streets": "['Schweigerstr.', 'Zeppelinstr.']",
+        "Timestamp": 1476699000
+    },
+    "1577_1476699000": {
+        "Latitude": 48.181736,
+        "Longitude": 11.597476,
+        "Number": 1577,
+        "Streets": "['Marcel-Breuer-Str.', 'Walther-Gropius-Str.']",
+        "Timestamp": 1476699000
+    },
+    "1579_1476699000": {
+        "Latitude": 48.16947,
+        "Longitude": 11.562875,
+        "Number": 1579,
+        "Streets": "['Hornstr.', 'Stauffenbergstr.']",
+        "Timestamp": 1476699000
+    },
+    "1580_1476699000": {
+        "Latitude": 48.140656,
+        "Longitude": 11.573846,
+        "Number": 1580,
+        "Streets": "['Kardinal-Faulhaber-Str.', 'Prannerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1582_1476699000": {
+        "Latitude": 48.1414,
+        "Longitude": 11.593744,
+        "Number": 1582,
+        "Streets": "['Prinzregentenstr.', 'Reitmorstr.']",
+        "Timestamp": 1476699000
+    },
+    "1584_1476699000": {
+        "Latitude": 48.132587,
+        "Longitude": 11.59029,
+        "Number": 1584,
+        "Streets": "['AmGasteig', 'InnereWienerStr.']",
+        "Timestamp": 1476699000
+    },
+    "1590_1476699000": {
+        "Latitude": 48.124912,
+        "Longitude": 11.556355,
+        "Number": 1590,
+        "Streets": "['Adlzreiterstr.', 'Tumblingerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1592_1476699000": {
+        "Latitude": 48.153572,
+        "Longitude": 11.519985,
+        "Number": 1592,
+        "Streets": "['Hubertusstr.', 'Nibelungenstr.']",
+        "Timestamp": 1476699000
+    },
+    "1609_1476699000": {
+        "Latitude": 48.15702,
+        "Longitude": 11.571922,
+        "Number": 1609,
+        "Streets": "['Agnesstr.', 'Isabellastr.']",
+        "Timestamp": 1476699000
+    },
+    "1611_1476699000": {
+        "Latitude": 48.135513,
+        "Longitude": 11.585523,
+        "Number": 1611,
+        "Streets": "['Adelgundenstr.', 'Mannhardtstr.']",
+        "Timestamp": 1476699000
+    },
+    "1612_1476699000": {
+        "Latitude": 48.14435,
+        "Longitude": 11.57312,
+        "Number": 1612,
+        "Streets": "['Finkenstr.', 'Oskar-von-Miller-Ring']",
+        "Timestamp": 1476699000
+    },
+    "1620_1476699000": {
+        "Latitude": 48.134552,
+        "Longitude": 11.587181,
+        "Number": 1620,
+        "Streets": "['Mariannenplatz', 'Steinsdorferstr.']",
+        "Timestamp": 1476699000
+    },
+    "1622_1476699000": {
+        "Latitude": 48.151024,
+        "Longitude": 11.581512,
+        "Number": 1622,
+        "Streets": "['Ludwigstr.', 'Professor-Huber-Platz']",
+        "Timestamp": 1476699000
+    },
+    "1628_1476699000": {
+        "Latitude": 48.177338,
+        "Longitude": 11.5322695,
+        "Number": 1628,
+        "Streets": "['BMWStation12', 'Georg-BrauchleRing23-25Uptown']",
+        "Timestamp": 1476699000
+    },
+    "1633_1476699000": {
+        "Latitude": 48.130997,
+        "Longitude": 11.579991,
+        "Number": 1633,
+        "Streets": "['Kohlstr.', 'Morassistr.']",
+        "Timestamp": 1476699000
+    },
+    "1638_1476699000": {
+        "Latitude": 48.163353,
+        "Longitude": 11.564655,
+        "Number": 1638,
+        "Streets": "['Herzogstr.', 'Schlei\u00dfheimerStr.']",
+        "Timestamp": 1476699000
+    },
+    "1643_1476699000": {
+        "Latitude": 48.169388,
+        "Longitude": 11.533477,
+        "Number": 1643,
+        "Streets": "['DachauerStr.', 'Franz-Marc-Str.']",
+        "Timestamp": 1476699000
+    },
+    "1646_1476699000": {
+        "Latitude": 48.15153,
+        "Longitude": 11.565585,
+        "Number": 1646,
+        "Streets": "['He\u00dfstr.', 'Steinickeweg']",
+        "Timestamp": 1476699000
+    },
+    "1656_1476699000": {
+        "Latitude": 48.11209,
+        "Longitude": 11.570501,
+        "Number": 1656,
+        "Streets": "['Candidplatz', 'PilgersheimerStr.']",
+        "Timestamp": 1476699000
+    },
+    "1657_1476699000": {
+        "Latitude": 48.14847,
+        "Longitude": 11.56476,
+        "Number": 1657,
+        "Streets": "['Gabelsbergerstr.', 'Luisenstr.']",
+        "Timestamp": 1476699000
+    },
+    "1658_1476699000": {
+        "Latitude": 48.14865,
+        "Longitude": 11.568993,
+        "Number": 1658,
+        "Streets": "['Arcisstr.21TU-M\u00fcnchenHauptgeb\u00e4ude']",
+        "Timestamp": 1476699000
+    },
+    "1666_1476699000": {
+        "Latitude": 48.139145,
+        "Longitude": 11.568825,
+        "Number": 1666,
+        "Streets": "['Kapellenstr.', 'NeuhauserStr.']",
+        "Timestamp": 1476699000
+    },
+    "1670_1476699000": {
+        "Latitude": 48.11754,
+        "Longitude": 11.572023,
+        "Number": 1670,
+        "Streets": "['Birkenau', 'ObereWeidenstr.']",
+        "Timestamp": 1476699000
+    },
+    "1673_1476699000": {
+        "Latitude": 48.127037,
+        "Longitude": 11.58267,
+        "Number": 1673,
+        "Streets": "['Schweigerstr.', 'Zeppelinstr.']",
+        "Timestamp": 1476699000
+    },
+    "1676_1476699000": {
+        "Latitude": 48.15234,
+        "Longitude": 11.533794,
+        "Number": 1676,
+        "Streets": "['NymphenburgerStr.', 'Schulstr.']",
+        "Timestamp": 1476699000
+    },
+    "1682_1476699000": {
+        "Latitude": 48.140835,
+        "Longitude": 11.592969,
+        "Number": 1682,
+        "Streets": "['Liebigstr.', 'Reitmorstr.']",
+        "Timestamp": 1476699000
+    },
+    "1686_1476699000": {
+        "Latitude": 48.15555556,
+        "Longitude": 11.58361111,
+        "Number": 1686,
+        "Streets": "['Giselastr.', 'Leopoldstr.']",
+        "Timestamp": 1476699000
+    },
+    "1688_1476699000": {
+        "Latitude": 48.13428,
+        "Longitude": 11.5624075,
+        "Number": 1688,
+        "Streets": "['Mathildenstr.', 'Pettenkoferstr.']",
+        "Timestamp": 1476699000
+    },
+    "1690_1476699000": {
+        "Latitude": 48.138447,
+        "Longitude": 11.580708,
+        "Number": 1690,
+        "Streets": "['AmKosstor', 'Falkenturmstr.']",
+        "Timestamp": 1476699000
+    },
+    "1691_1476699000": {
+        "Latitude": 48.14557,
+        "Longitude": 11.58208,
+        "Number": 1691,
+        "Streets": "['Hahnenstr.', 'Sch\u00f6nfeldstr.']",
+        "Timestamp": 1476699000
+    },
+    "1693_1476699000": {
+        "Latitude": 48.112118,
+        "Longitude": 11.54924,
+        "Number": 1693,
+        "Streets": "['Bruderm\u00fchlstr.', 'ThalkirchnerStr.']",
+        "Timestamp": 1476699000
+    },
+    "1694_1476699000": {
+        "Latitude": 48.173668,
+        "Longitude": 11.5941515,
+        "Number": 1694,
+        "Streets": "['BerlinerStr.', 'Theodor-Dombart-Str.']",
+        "Timestamp": 1476699000
+    },
+    "1697_1476699000": {
+        "Latitude": 48.189663,
+        "Longitude": 11.580721,
+        "Number": 1697,
+        "Streets": "['BMWStation9', 'Taunusstr.43']",
+        "Timestamp": 1476699000
+    },
+    "1700_1476699000": {
+        "Latitude": 48.14744,
+        "Longitude": 11.57456,
+        "Number": 1700,
+        "Streets": "['Theresienstr.', 'T\u00fcrkenstr.']",
+        "Timestamp": 1476699000
+    },
+    "1703_1476699000": {
+        "Latitude": 48.133137,
+        "Longitude": 11.5763645,
+        "Number": 1703,
+        "Streets": "['Buttermelcherstr.', 'Reichenbachstr.']",
+        "Timestamp": 1476699000
+    },
+    "1708_1476699000": {
+        "Latitude": 48.14249,
+        "Longitude": 11.590951,
+        "Number": 1708,
+        "Streets": "['Alexandrastr.', 'Prinzregentenstr.']",
+        "Timestamp": 1476699000
+    },
+    "1719_1476699000": {
+        "Latitude": 48.192924,
+        "Longitude": 11.626223,
+        "Number": 1719,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1720_1476699000": {
+        "Latitude": 48.120205,
+        "Longitude": 11.558968,
+        "Number": 1720,
+        "Streets": "['Dreim\u00fchlenstr.', 'Reifenstuelerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1721_1476699000": {
+        "Latitude": 48.16597,
+        "Longitude": 11.574013,
+        "Number": 1721,
+        "Streets": "['Belgradstr.', 'Unertlstr.']",
+        "Timestamp": 1476699000
+    },
+    "1722_1476699000": {
+        "Latitude": 48.147346,
+        "Longitude": 11.56479,
+        "Number": 1722,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1724_1476699000": {
+        "Latitude": 48.1284,
+        "Longitude": 11.600406,
+        "Number": 1724,
+        "Streets": "['PariserPlatz', 'Wei\u00dfenburgerStr.']",
+        "Timestamp": 1476699000
+    },
+    "1725_1476699000": {
+        "Latitude": 48.132854,
+        "Longitude": 11.541423,
+        "Number": 1725,
+        "Streets": "['FranziskaBilekWeg(Neugebaut)', 'Petra-Moll-Weg']",
+        "Timestamp": 1476699000
+    },
+    "1730_1476699000": {
+        "Latitude": 48.11444444,
+        "Longitude": 11.58694444,
+        "Number": 1730,
+        "Streets": "['Rotwandstr.', 'WarngauerStr.']",
+        "Timestamp": 1476699000
+    },
+    "1732_1476699000": {
+        "Latitude": 48.14176,
+        "Longitude": 11.587212,
+        "Number": 1732,
+        "Streets": "['Liebigstr.', 'St.-Anna-Str.']",
+        "Timestamp": 1476699000
+    },
+    "1737_1476699000": {
+        "Latitude": 48.11362,
+        "Longitude": 11.568721,
+        "Number": 1737,
+        "Streets": "['Krumpterstr.']",
+        "Timestamp": 1476699000
+    },
+    "1738_1476699000": {
+        "Latitude": 48.183117,
+        "Longitude": 11.608097,
+        "Number": 1738,
+        "Streets": "['Grasmeierstr.', 'U-BahnhofStudentenstadt']",
+        "Timestamp": 1476699000
+    },
+    "1745_1476699000": {
+        "Latitude": 48.13312,
+        "Longitude": 11.536546,
+        "Number": 1745,
+        "Streets": "['Anglerstr.', 'Bergmannstr.']",
+        "Timestamp": 1476699000
+    },
+    "1750_1476699000": {
+        "Latitude": 48.126244,
+        "Longitude": 11.581733,
+        "Number": 1750,
+        "Streets": "['Mariahilfstr.', 'Zeppelinstr.']",
+        "Timestamp": 1476699000
+    },
+    "1751_1476699000": {
+        "Latitude": 48.114567,
+        "Longitude": 11.544644,
+        "Number": 1751,
+        "Streets": "['Demleitnerstr.', 'Gai\u00dfacherStr.']",
+        "Timestamp": 1476699000
+    },
+    "1761_1476699000": {
+        "Latitude": 48.1318997138,
+        "Longitude": 11.5888638033,
+        "Number": 1761,
+        "Streets": "['M\u00fcllerschesVolksbad']",
+        "Timestamp": 1476699000
+    },
+    "1762_1476699000": {
+        "Latitude": 48.115288,
+        "Longitude": 11.617482,
+        "Number": 1762,
+        "Streets": "['InnsbruckerRing', 'KirchseeonerStr.']",
+        "Timestamp": 1476699000
+    },
+    "1763_1476699000": {
+        "Latitude": 48.15027778,
+        "Longitude": 11.54472222,
+        "Number": 1763,
+        "Streets": "['Lazarettstr.', 'NymphenburgerStr.']",
+        "Timestamp": 1476699000
+    },
+    "1765_1476699000": {
+        "Latitude": 48.117584,
+        "Longitude": 11.553182,
+        "Number": 1765,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1767_1476699000": {
+        "Latitude": 48.17777778,
+        "Longitude": 11.57305556,
+        "Number": 1767,
+        "Streets": "['Belgradstr.', 'Petuelring', 'MittlererRing']",
+        "Timestamp": 1476699000
+    },
+    "1770_1476699000": {
+        "Latitude": 48.169094,
+        "Longitude": 11.5666275,
+        "Number": 1770,
+        "Streets": "['Bechsteinstr.', 'Brunnerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1779_1476699000": {
+        "Latitude": 48.13596,
+        "Longitude": 11.579576,
+        "Number": 1779,
+        "Streets": "['K\u00fcchelb\u00e4ckerstr.', 'Tal']",
+        "Timestamp": 1476699000
+    },
+    "1783_1476699000": {
+        "Latitude": 48.149685,
+        "Longitude": 11.600806,
+        "Number": 1783,
+        "Streets": "['KufsteinerPlatz', 'Mauerkircherstr.']",
+        "Timestamp": 1476699000
+    },
+    "1793_1476699000": {
+        "Latitude": 48.110405,
+        "Longitude": 11.460933,
+        "Number": 1793,
+        "Streets": "['Gro\u00dfhadernerstra\u00dfe', 'LMUProjektstandort7']",
+        "Timestamp": 1476699000
+    },
+    "1799_1476699000": {
+        "Latitude": 48.125336,
+        "Longitude": 11.551868,
+        "Number": 1799,
+        "Streets": "['Lindwurmstr.', 'Schmellerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1803_1476699000": {
+        "Latitude": 48.160984,
+        "Longitude": 11.582009,
+        "Number": 1803,
+        "Streets": "['Kaiserplatz', 'Kaiserstr.']",
+        "Timestamp": 1476699000
+    },
+    "1805_1476699000": {
+        "Latitude": 48.17294,
+        "Longitude": 11.543064,
+        "Number": 1805,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1806_1476699000": {
+        "Latitude": 48.107082,
+        "Longitude": 11.596227,
+        "Number": 1806,
+        "Streets": "['Chiemgaustr.', 'MittlererRing', 'Schwanseestr.']",
+        "Timestamp": 1476699000
+    },
+    "1815_1476699000": {
+        "Latitude": 48.11926,
+        "Longitude": 11.60258,
+        "Number": 1815,
+        "Streets": "['St.-Cajetan-Str.', 'St.-Martin-Str.']",
+        "Timestamp": 1476699000
+    },
+    "1817_1476699000": {
+        "Latitude": 48.114574,
+        "Longitude": 11.533151,
+        "Number": 1817,
+        "Streets": "['Euckenstr.', 'Passauerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1846_1476699000": {
+        "Latitude": 48.126125,
+        "Longitude": 11.5264845,
+        "Number": 1846,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "1854_1476699000": {
+        "Latitude": 48.176334,
+        "Longitude": 11.564868,
+        "Number": 1854,
+        "Streets": "['Petuelring', 'MittlererRing', 'Riesenfeldstr.']",
+        "Timestamp": 1476699000
+    },
+    "1857_1476699000": {
+        "Latitude": 48.120323,
+        "Longitude": 11.617216,
+        "Number": 1857,
+        "Streets": "['Bad-Schachener-Str.', 'InnsbruckerRing']",
+        "Timestamp": 1476699000
+    },
+    "1858_1476699000": {
+        "Latitude": 48.16641,
+        "Longitude": 11.532649,
+        "Number": 1858,
+        "Streets": "['Hohenlohestr.', 'Paschstr.']",
+        "Timestamp": 1476699000
+    },
+    "1867_1476699000": {
+        "Latitude": 48.143055,
+        "Longitude": 11.53529,
+        "Number": 1867,
+        "Streets": "['Donnersbergerbr\u00fccke', 'MittlererRing', 'LandshuterAllee']",
+        "Timestamp": 1476699000
+    },
+    "1869_1476699000": {
+        "Latitude": 48.13,
+        "Longitude": 11.57333333,
+        "Number": 1869,
+        "Streets": "['Fraunhoferstr.', 'Klenzestr.']",
+        "Timestamp": 1476699000
+    },
+    "1874_1476699000": {
+        "Latitude": 48.13522,
+        "Longitude": 11.554179,
+        "Number": 1874,
+        "Streets": "['Pettenkoferstr.', 'St.-Paul-Str.']",
+        "Timestamp": 1476699000
+    },
+    "1876_1476699000": {
+        "Latitude": 48.133022,
+        "Longitude": 11.558906,
+        "Number": 1876,
+        "Streets": "['Goethestr.', 'Nu\u00dfbaumstr.']",
+        "Timestamp": 1476699000
+    },
+    "1879_1476699000": {
+        "Latitude": 48.150993,
+        "Longitude": 11.58182,
+        "Number": 1879,
+        "Streets": "['Ludwigstr.', 'Professor-Huber-Platz']",
+        "Timestamp": 1476699000
+    },
+    "1880_1476699000": {
+        "Latitude": 48.15333333,
+        "Longitude": 11.56083333,
+        "Number": 1880,
+        "Streets": "['He\u00dfstr.', 'Schlei\u00dfheimerStr.']",
+        "Timestamp": 1476699000
+    },
+    "1882_1476699000": {
+        "Latitude": 48.167255,
+        "Longitude": 11.562001,
+        "Number": 1882,
+        "Streets": "['Hildeboldstr.', 'Winzererstr.']",
+        "Timestamp": 1476699000
+    },
+    "1885_1476699000": {
+        "Latitude": 48.15162,
+        "Longitude": 11.605132,
+        "Number": 1885,
+        "Streets": "['Mauerkircherstr.', 'Poschingerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1888_1476699000": {
+        "Latitude": 48.1799,
+        "Longitude": 11.54856,
+        "Number": 1888,
+        "Streets": "['Conollystr.', 'KusocinskiDamm']",
+        "Timestamp": 1476699000
+    },
+    "1892_1476699000": {
+        "Latitude": 48.181637,
+        "Longitude": 11.562867,
+        "Number": 1892,
+        "Streets": "['Keferloherstr.', 'Riesenfeldstr.']",
+        "Timestamp": 1476699000
+    },
+    "1909_1476699000": {
+        "Latitude": 48.142693,
+        "Longitude": 11.594343,
+        "Number": 1909,
+        "Streets": "['AmGries', 'Reitmorstr.']",
+        "Timestamp": 1476699000
+    },
+    "1910_1476699000": {
+        "Latitude": 48.126957,
+        "Longitude": 11.582437,
+        "Number": 1910,
+        "Streets": "['Schweigerstr.', 'Zeppelinstr.']",
+        "Timestamp": 1476699000
+    },
+    "1911_1476699000": {
+        "Latitude": 48.176777,
+        "Longitude": 11.590302,
+        "Number": 1911,
+        "Streets": "['Endresstr.', 'Hittorfstr.']",
+        "Timestamp": 1476699000
+    },
+    "1916_1476699000": {
+        "Latitude": 48.14795,
+        "Longitude": 11.594692,
+        "Number": 1916,
+        "Streets": "['Dianastr.', 'Lerchenfeldstr.']",
+        "Timestamp": 1476699000
+    },
+    "1918_1476699000": {
+        "Latitude": 48.148342,
+        "Longitude": 11.556671,
+        "Number": 1918,
+        "Streets": "['NymphenburgerStr.', 'Sandstr.']",
+        "Timestamp": 1476699000
+    },
+    "1919_1476699000": {
+        "Latitude": 48.184105,
+        "Longitude": 11.587985,
+        "Number": 1919,
+        "Streets": "['Hans-D\u00f6llgastStr.26', 'NTTData']",
+        "Timestamp": 1476699000
+    },
+    "1920_1476699000": {
+        "Latitude": 48.113323,
+        "Longitude": 11.576208,
+        "Number": 1920,
+        "Streets": "['Martin-Luther-Str.', 'Wirtstr.']",
+        "Timestamp": 1476699000
+    },
+    "1922_1476699000": {
+        "Latitude": 48.140194,
+        "Longitude": 11.5825405,
+        "Number": 1922,
+        "Streets": "['Marstallstr.', 'Wurzerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1926_1476699000": {
+        "Latitude": 48.153152,
+        "Longitude": 11.582483,
+        "Number": 1926,
+        "Streets": "['Leopoldstrasse3', 'LMUProjekstandort1']",
+        "Timestamp": 1476699000
+    },
+    "1932_1476699000": {
+        "Latitude": 48.159645,
+        "Longitude": 11.567497,
+        "Number": 1932,
+        "Streets": "['Elisabethstr.', 'Hiltenspergerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1934_1476699000": {
+        "Latitude": 48.147552,
+        "Longitude": 11.596119,
+        "Number": 1934,
+        "Streets": "['Emil-Riedel-Str.', 'Widenmayerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1938_1476699000": {
+        "Latitude": 48.141136,
+        "Longitude": 11.610693,
+        "Number": 1938,
+        "Streets": "['M\u00fchlbaurstr.', 'Stuckstr.']",
+        "Timestamp": 1476699000
+    },
+    "1942_1476699000": {
+        "Latitude": 48.16115,
+        "Longitude": 11.581022,
+        "Number": 1942,
+        "Streets": "['Kaiserplatz', 'Kaiserstr.']",
+        "Timestamp": 1476699000
+    },
+    "1945_1476699000": {
+        "Latitude": 48.129128,
+        "Longitude": 11.544205,
+        "Number": 1945,
+        "Streets": "['August-K\u00fchnstr.', 'Oda-Sch\u00e4fer-Weg']",
+        "Timestamp": 1476699000
+    },
+    "1959_1476699000": {
+        "Latitude": 48.137787,
+        "Longitude": 11.5907955,
+        "Number": 1959,
+        "Streets": "['Gew\u00fcrzm\u00fchlstr.', 'Widenmayerstr.']",
+        "Timestamp": 1476699000
+    },
+    "1972_1476699000": {
+        "Latitude": 48.172,
+        "Longitude": 11.598696,
+        "Number": 1972,
+        "Streets": "['Brandenburgerstr.', 'Isarring', 'MittlererRing']",
+        "Timestamp": 1476699000
+    },
+    "1973_1476699000": {
+        "Latitude": 48.173763,
+        "Longitude": 11.5975275,
+        "Number": 1973,
+        "Streets": "['Schenkendorfstr.', 'MittlererRing', 'Ungererstr.']",
+        "Timestamp": 1476699000
+    },
+    "1976_1476699000": {
+        "Latitude": 48.162937,
+        "Longitude": 11.596368,
+        "Number": 1976,
+        "Streets": "['Isarring', 'MittlererRing']",
+        "Timestamp": 1476699000
+    },
+    "1997_1476699000": {
+        "Latitude": 48.15386,
+        "Longitude": 11.572627,
+        "Number": 1997,
+        "Streets": "['Adalbertstr.', 'Arcisstr.']",
+        "Timestamp": 1476699000
+    },
+    "2015_1476699000": {
+        "Latitude": 48.178566,
+        "Longitude": 11.5406885,
+        "Number": 2015,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "2017_1476699000": {
+        "Latitude": 48.144955,
+        "Longitude": 11.577142,
+        "Number": 2017,
+        "Streets": "['Gl\u00fcckstr.', 'Kardinal-D\u00f6pfner-Str.']",
+        "Timestamp": 1476699000
+    },
+    "2025_1476699000": {
+        "Latitude": 48.111046,
+        "Longitude": 11.584059,
+        "Number": 2025,
+        "Streets": "['PerlacherStr.', 'Valeppstr.']",
+        "Timestamp": 1476699000
+    },
+    "2037_1476699000": {
+        "Latitude": 48.173813,
+        "Longitude": 11.593364,
+        "Number": 2037,
+        "Streets": "['BerlinerStr.']",
+        "Timestamp": 1476699000
+    },
+    "2038_1476699000": {
+        "Latitude": 48.13991,
+        "Longitude": 11.592654,
+        "Number": 2038,
+        "Streets": "['Liebigstr.', 'Reitmorstr.']",
+        "Timestamp": 1476699000
+    },
+    "2051_1476699000": {
+        "Latitude": 48.13027778,
+        "Longitude": 11.55333333,
+        "Number": 2051,
+        "Streets": "['Bavariaring', 'Mozartstr.']",
+        "Timestamp": 1476699000
+    },
+    "2062_1476699000": {
+        "Latitude": 48.143475,
+        "Longitude": 11.535279,
+        "Number": 2062,
+        "Streets": "['Donnersbergerbr\u00fccke', 'MittlererRing', 'LandshuterAllee']",
+        "Timestamp": 1476699000
+    },
+    "2065_1476699000": {
+        "Latitude": 48.128025,
+        "Longitude": 11.538939,
+        "Number": 2065,
+        "Streets": "['Ganghoferstr.', 'Max-HirschbergWeg']",
+        "Timestamp": 1476699000
+    },
+    "2067_1476699000": {
+        "Latitude": 48.160797,
+        "Longitude": 11.559142,
+        "Number": 2067,
+        "Streets": "['BSCMUC', 'Kathi-Kobus-Str.']",
+        "Timestamp": 1476699000
+    },
+    "2075_1476699000": {
+        "Latitude": 48.13357,
+        "Longitude": 11.577861,
+        "Number": 2075,
+        "Streets": "['Reichenbachstr.', 'Rumfordstr.']",
+        "Timestamp": 1476699000
+    },
+    "2077_1476699000": {
+        "Latitude": 48.164677,
+        "Longitude": 11.560766,
+        "Number": 2077,
+        "Streets": "['DeidesheimerStr.', 'Saarstr.']",
+        "Timestamp": 1476699000
+    },
+    "2078_1476699000": {
+        "Latitude": 48.1104,
+        "Longitude": 11.461,
+        "Number": 2078,
+        "Streets": "['Gro\u00dfhadernerstra\u00dfe', 'LMUProjektstandort7']",
+        "Timestamp": 1476699000
+    },
+    "2090_1476699000": {
+        "Latitude": 48.148422,
+        "Longitude": 11.568891,
+        "Number": 2090,
+        "Streets": "['Arcisstr.21TU-M\u00fcnchenHauptgeb\u00e4ude']",
+        "Timestamp": 1476699000
+    },
+    "2092_1476699000": {
+        "Latitude": 48.127163,
+        "Longitude": 11.578598,
+        "Number": 2092,
+        "Streets": "['Bereiteranger', 'Eduard-Schmid-Str.']",
+        "Timestamp": 1476699000
+    },
+    "2099_1476699000": {
+        "Latitude": 48.165974,
+        "Longitude": 11.538297,
+        "Number": 2099,
+        "Streets": "['DachauerStr.', 'LandshuterAllee']",
+        "Timestamp": 1476699000
+    },
+    "2100_1476699000": {
+        "Latitude": 48.10717,
+        "Longitude": 11.596512,
+        "Number": 2100,
+        "Streets": "['Chiemgaustr.', 'MittlererRing', 'GiesingerBahnhofstr.']",
+        "Timestamp": 1476699000
+    },
+    "2117_1476699000": {
+        "Latitude": 48.164825,
+        "Longitude": 11.572479,
+        "Number": 2117,
+        "Streets": "['Angererstr.', 'Destouchesstr.']",
+        "Timestamp": 1476699000
+    },
+    "2121_1476699000": {
+        "Latitude": 48.12853,
+        "Longitude": 11.600019,
+        "Number": 2121,
+        "Streets": "['PariserStr.', 'Sedanstr.']",
+        "Timestamp": 1476699000
+    },
+    "2127_1476699000": {
+        "Latitude": 48.157154,
+        "Longitude": 11.572596,
+        "Number": 2127,
+        "Streets": "['Agnesstr.', 'Arcisstr.']",
+        "Timestamp": 1476699000
+    },
+    "2133_1476699000": {
+        "Latitude": 48.144077,
+        "Longitude": 11.59527,
+        "Number": 2133,
+        "Streets": "['Crusiusstr.', 'Widenmayerstr.']",
+        "Timestamp": 1476699000
+    },
+    "2137_1476699000": {
+        "Latitude": 48.1206,
+        "Longitude": 11.617429,
+        "Number": 2137,
+        "Streets": "['Bad-Schachener-Str.', 'InnsbruckerRing']",
+        "Timestamp": 1476699000
+    },
+    "2148_1476699000": {
+        "Latitude": 48.150322,
+        "Longitude": 11.550544,
+        "Number": 2148,
+        "Streets": "['Loristr.', 'Thorwaldsenstr.']",
+        "Timestamp": 1476699000
+    },
+    "2153_1476699000": {
+        "Latitude": 48.16117,
+        "Longitude": 11.538209,
+        "Number": 2153,
+        "Streets": "['Heideckstr.', 'LandshuterAllee', 'MittlererRing']",
+        "Timestamp": 1476699000
+    },
+    "2156_1476699000": {
+        "Latitude": 48.14021,
+        "Longitude": 11.590972,
+        "Number": 2156,
+        "Streets": "['Liebigstr.', 'Sternstr.']",
+        "Timestamp": 1476699000
+    },
+    "2158_1476699000": {
+        "Latitude": 48.136326,
+        "Longitude": 11.566463,
+        "Number": 2158,
+        "Streets": "['Herzog-Wilhelm-Str.', 'Josephspitalstr.']",
+        "Timestamp": 1476699000
+    },
+    "2180_1476699000": {
+        "Latitude": 48.12555556,
+        "Longitude": 11.57916667,
+        "Number": 2180,
+        "Streets": "['Asamstr.', 'Ohlm\u00fcllerstr.']",
+        "Timestamp": 1476699000
+    },
+    "2210_1476699000": {
+        "Latitude": 48.192455,
+        "Longitude": 11.578864,
+        "Number": 2210,
+        "Streets": "['BMWAnton-Ditt-BogenStation7', 'Hufelandstr.24']",
+        "Timestamp": 1476699000
+    },
+    "2228_1476699000": {
+        "Latitude": 48.148937,
+        "Longitude": 11.649163,
+        "Number": 2228,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "2231_1476699000": {
+        "Latitude": 48.167217,
+        "Longitude": 11.575313,
+        "Number": 2231,
+        "Streets": "['D\u00fcsseldorferStr.', 'Karl-Theodor-Str.']",
+        "Timestamp": 1476699000
+    },
+    "2237_1476699000": {
+        "Latitude": 48.12043,
+        "Longitude": 11.617315,
+        "Number": 2237,
+        "Streets": "['Bad-Schachener-Str.', 'InnsbruckerRing']",
+        "Timestamp": 1476699000
+    },
+    "2260_1476699000": {
+        "Latitude": 48.163937,
+        "Longitude": 11.5694895,
+        "Number": 2260,
+        "Streets": "['Clemensstr.', 'Erich-K\u00e4stner-Str.']",
+        "Timestamp": 1476699000
+    },
+    "2265_1476699000": {
+        "Latitude": 48.125275,
+        "Longitude": 11.525188,
+        "Number": 2265,
+        "Streets": "['Grasweg', 'Rudi-Sedlmayerhalle']",
+        "Timestamp": 1476699000
+    },
+    "2282_1476699000": {
+        "Latitude": 48.150368,
+        "Longitude": 11.563854,
+        "Number": 2282,
+        "Streets": "['Augustenstr.', 'Steinheilstr.']",
+        "Timestamp": 1476699000
+    },
+    "2289_1476699000": {
+        "Latitude": 48.176304,
+        "Longitude": 11.537657,
+        "Number": 2289,
+        "Streets": "['Georg-Brauchle-Ring', 'Riesstr.']",
+        "Timestamp": 1476699000
+    },
+    "2303_1476699000": {
+        "Latitude": 48.1916,
+        "Longitude": 11.572491,
+        "Number": 2303,
+        "Streets": "['Hufelandstr.', 'Knorrstr.']",
+        "Timestamp": 1476699000
+    },
+    "2318_1476699000": {
+        "Latitude": 48.16222222,
+        "Longitude": 11.54,
+        "Number": 2318,
+        "Streets": "['Sprunerstr.', 'Trivastr.']",
+        "Timestamp": 1476699000
+    },
+    "2351_1476699000": {
+        "Latitude": 48.149723,
+        "Longitude": 11.601855,
+        "Number": 2351,
+        "Streets": "['KufsteinerPlatz', 'KufsteinerStr.']",
+        "Timestamp": 1476699000
+    },
+    "2368_1476699000": {
+        "Latitude": 48.147568,
+        "Longitude": 11.567844,
+        "Number": 2368,
+        "Streets": "['Arcisstr.', 'Gabelsbergerstr.']",
+        "Timestamp": 1476699000
+    },
+    "2429_1476699000": {
+        "Latitude": 48.11705,
+        "Longitude": 11.543743,
+        "Number": 2429,
+        "Streets": "['Daiserstr.', 'Valleystr.']",
+        "Timestamp": 1476699000
+    },
+    "2564_1476699000": {
+        "Latitude": 48.136597,
+        "Longitude": 11.578012,
+        "Number": 2564,
+        "Streets": "['Heiliggeiststr.', 'Tal']",
+        "Timestamp": 1476699000
+    },
+    "2773_1476699000": {
+        "Latitude": 48.1671,
+        "Longitude": 11.600624,
+        "Number": 2773,
+        "Streets": "['Etschweg', 'Imhofstr.']",
+        "Timestamp": 1476699000
+    },
+    "2829_1476699000": {
+        "Latitude": 48.11244,
+        "Longitude": 11.552406,
+        "Number": 2829,
+        "Streets": "['Bruderm\u00fchlstr.', 'Sch\u00e4ftlarnstr.']",
+        "Timestamp": 1476699000
+    },
+    "2854_1476699000": {
+        "Latitude": 48.15253,
+        "Longitude": 11.614918,
+        "Number": 2854,
+        "Streets": "['B\u00fclowstr.', 'Effnerplatz']",
+        "Timestamp": 1476699000
+    },
+    "2911_1476699000": {
+        "Latitude": 48.171864,
+        "Longitude": 11.542092,
+        "Number": 2911,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "2929_1476699000": {
+        "Latitude": 48.114983,
+        "Longitude": 11.533016,
+        "Number": 2929,
+        "Streets": "['Euckenstr.', 'Passauerstr.']",
+        "Timestamp": 1476699000
+    },
+    "2938_1476699000": {
+        "Latitude": 48.173267,
+        "Longitude": 11.5968685,
+        "Number": 2938,
+        "Streets": "['Schenkendorfstr.', 'MittlererRing', 'Ungererstr.']",
+        "Timestamp": 1476699000
+    },
+    "3004_1476699000": {
+        "Latitude": 48.164436,
+        "Longitude": 11.565079,
+        "Number": 3004,
+        "Streets": "['Clemensstr.', 'Schlei\u00dfheimerStr.']",
+        "Timestamp": 1476699000
+    },
+    "3161_1476699000": {
+        "Latitude": 48.17352,
+        "Longitude": 11.594073,
+        "Number": 3161,
+        "Streets": "['BerlinerStr.', 'Theodor-Dombart-Str.']",
+        "Timestamp": 1476699000
+    },
+    "3660_1476699000": {
+        "Latitude": 48.161686,
+        "Longitude": 11.5570135,
+        "Number": 3660,
+        "Streets": "['Barbarastr.', 'Schwere-Reiter-Str.']",
+        "Timestamp": 1476699000
+    },
+    "3710_1476699000": {
+        "Latitude": 48.11338,
+        "Longitude": 11.46696,
+        "Number": 3710,
+        "Streets": "['Feodorlynenstra\u00dfe', 'LMUProjektstandort6']",
+        "Timestamp": 1476699000
+    },
+    "3730_1476699000": {
+        "Latitude": 48.1841,
+        "Longitude": 11.58752,
+        "Number": 3730,
+        "Streets": "['Hans-D\u00f6llgastStr.26', 'NTTData']",
+        "Timestamp": 1476699000
+    },
+    "3744_1476699000": {
+        "Latitude": 48.1206,
+        "Longitude": 11.620007,
+        "Number": 3744,
+        "Streets": "['Bad-Schachener-Str.', 'InnsbruckerRing']",
+        "Timestamp": 1476699000
+    },
+    "3844_1476699000": {
+        "Latitude": 48.147938,
+        "Longitude": 11.576243,
+        "Number": 3844,
+        "Streets": "['Amalienstr.', 'Theresienstr.']",
+        "Timestamp": 1476699000
+    },
+    "3870_1476699000": {
+        "Latitude": 48.115303,
+        "Longitude": 11.617409,
+        "Number": 3870,
+        "Streets": "['InnsbruckerRing', 'KirchseeonerStr.']",
+        "Timestamp": 1476699000
+    },
+    "3972_1476699000": {
+        "Latitude": 48.147343,
+        "Longitude": 11.594638,
+        "Number": 3972,
+        "Streets": "['Dianastr.', 'Lerchenfeldstr.']",
+        "Timestamp": 1476699000
+    },
+    "3983_1476699000": {
+        "Latitude": 48.12316,
+        "Longitude": 11.584315,
+        "Number": 3983,
+        "Streets": "['Hochstr.', 'Josef-Holzer-Weg']",
+        "Timestamp": 1476699000
+    },
+    "4098_1476699000": {
+        "Latitude": 48.15188,
+        "Longitude": 11.591791,
+        "Number": 4098,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "4106_1476699000": {
+        "Latitude": 48.1422171752,
+        "Longitude": 11.5353953547,
+        "Number": 4106,
+        "Streets": "['Donnersbergerbr\u00fccke', 'MittlererRing', 'S-Bahnhof(kann\u00fcberoderunterBr\u00fcckestehen)']",
+        "Timestamp": 1476699000
+    },
+    "4181_1476699000": {
+        "Latitude": 48.1749,
+        "Longitude": 11.579122,
+        "Number": 4181,
+        "Streets": "['Isoldenstr.', 'Mildred-Scheel-Bogen']",
+        "Timestamp": 1476699000
+    },
+    "4254_1476699000": {
+        "Latitude": 48.166325,
+        "Longitude": 11.581161,
+        "Number": 4254,
+        "Streets": "['Karl-Theodor-Str.', 'Moltkestr.']",
+        "Timestamp": 1476699000
+    },
+    "4263_1476699000": {
+        "Latitude": 48.172314,
+        "Longitude": 11.595918,
+        "Number": 4263,
+        "Streets": "['Fritz-Hommel-Weg', 'Ungererstr.']",
+        "Timestamp": 1476699000
+    },
+    "4302_1476699000": {
+        "Latitude": 48.161366,
+        "Longitude": 11.589096,
+        "Number": 4302,
+        "Streets": "['Occamstr.', 'Wedekindplatz']",
+        "Timestamp": 1476699000
+    },
+    "4311_1476699000": {
+        "Latitude": 48.17333333,
+        "Longitude": 11.59722222,
+        "Number": 4311,
+        "Streets": "['Schenkendorfstr.', 'MittlererRing', 'Ungererstr.']",
+        "Timestamp": 1476699000
+    },
+    "4401_1476699000": {
+        "Latitude": 48.143158,
+        "Longitude": 11.534459,
+        "Number": 4401,
+        "Streets": "['Donnersbergerbr\u00fccke', 'MittlererRing', 'LandshuterAllee']",
+        "Timestamp": 1476699000
+    },
+    "4647_1476699000": {
+        "Latitude": 48.151516,
+        "Longitude": 11.618749,
+        "Number": 4647,
+        "Streets": "['Arabellastr.', 'Salomeweg']",
+        "Timestamp": 1476699000
+    },
+    "4660_1476699000": {
+        "Latitude": 48.141674,
+        "Longitude": 11.594201,
+        "Number": 4660,
+        "Streets": "['Prinzregentenstr.', 'Widenmayerstr.']",
+        "Timestamp": 1476699000
+    },
+    "4665_1476699000": {
+        "Latitude": 48.20273,
+        "Longitude": 11.612464,
+        "Number": 4665,
+        "Streets": "['Bergkiefernweg', 'Kieferngartenstr.']",
+        "Timestamp": 1476699000
+    },
+    "4685_1476699000": {
+        "Latitude": 48.172146,
+        "Longitude": 11.5964575,
+        "Number": 4685,
+        "Streets": "['Brandenburgerstr.', 'Ungererstr.']",
+        "Timestamp": 1476699000
+    },
+    "4687_1476699000": {
+        "Latitude": 48.139675,
+        "Longitude": 11.5775,
+        "Number": 4687,
+        "Streets": "['Maximilianstr.', 'Residenzstr.']",
+        "Timestamp": 1476699000
+    },
+    "4697_1476699000": {
+        "Latitude": 48.142956,
+        "Longitude": 11.590371,
+        "Number": 4697,
+        "Streets": "['Alexandrastr.', 'Prinzregentenstr.']",
+        "Timestamp": 1476699000
+    },
+    "4726_1476699000": {
+        "Latitude": 48.115276,
+        "Longitude": 11.573137,
+        "Number": 4726,
+        "Streets": "['PilgersheimerStr.', 'Winterstr.']",
+        "Timestamp": 1476699000
+    },
+    "4738_1476699000": {
+        "Latitude": 48.17784,
+        "Longitude": 11.532066,
+        "Number": 4738,
+        "Streets": "['BMWStation12', 'Georg-BrauchleRing23-25Uptown']",
+        "Timestamp": 1476699000
+    },
+    "4752_1476699000": {
+        "Latitude": 48.122894,
+        "Longitude": 11.54024,
+        "Number": 4752,
+        "Streets": "['NeuhauserWeg', 'Spitzweg']",
+        "Timestamp": 1476699000
+    },
+    "4776_1476699000": {
+        "Latitude": 48.180992,
+        "Longitude": 11.588431,
+        "Number": 4776,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "4777_1476699000": {
+        "Latitude": 48.12064,
+        "Longitude": 11.584354,
+        "Number": 4777,
+        "Streets": "['Hiendlmayrstr.', 'TegernseerLandstr.']",
+        "Timestamp": 1476699000
+    },
+    "4823_1476699000": {
+        "Latitude": 48.11038,
+        "Longitude": 11.461001,
+        "Number": 4823,
+        "Streets": "['Gro\u00dfhadernerstra\u00dfe', 'LMUProjektstandort7']",
+        "Timestamp": 1476699000
+    },
+    "4892_1476699000": {
+        "Latitude": 48.11888,
+        "Longitude": 11.560994,
+        "Number": 4892,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "4899_1476699000": {
+        "Latitude": 48.12444444,
+        "Longitude": 11.58111111,
+        "Number": 4899,
+        "Streets": "['Mariahilfplatz', 'Ohlm\u00fcllerstr.']",
+        "Timestamp": 1476699000
+    },
+    "4926_1476699000": {
+        "Latitude": 48.150043,
+        "Longitude": 11.555791,
+        "Number": 4926,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "4963_1476699000": {
+        "Latitude": 48.15053,
+        "Longitude": 11.595153,
+        "Number": 4963,
+        "Streets": "['HirschauerStr.', 'Oettingenstr.']",
+        "Timestamp": 1476699000
+    },
+    "5191_1476699000": {
+        "Latitude": 48.14426,
+        "Longitude": 11.575336,
+        "Number": 5191,
+        "Streets": "['Finkenstr.', 'J\u00e4gerstr.']",
+        "Timestamp": 1476699000
+    },
+    "5193_1476699000": {
+        "Latitude": 48.130585,
+        "Longitude": 11.538974,
+        "Number": 5193,
+        "Streets": "['Ganghoferstr.', 'Ridlerstr.']",
+        "Timestamp": 1476699000
+    },
+    "5194_1476699000": {
+        "Latitude": 48.158413,
+        "Longitude": 11.541883,
+        "Number": 5194,
+        "Streets": "['Fasaneriestr.', 'Volkartstr.']",
+        "Timestamp": 1476699000
+    },
+    "5197_1476699000": {
+        "Latitude": 48.12654,
+        "Longitude": 11.58416,
+        "Number": 5197,
+        "Streets": "['Mariahilfplatz', 'Sammtstr.']",
+        "Timestamp": 1476699000
+    },
+    "5201_1476699000": {
+        "Latitude": 48.139782,
+        "Longitude": 11.599986,
+        "Number": 5201,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "5202_1476699000": {
+        "Latitude": 48.150375,
+        "Longitude": 11.575275,
+        "Number": 5202,
+        "Streets": "['Schellingstr.', 'T\u00fcrkenstr.']",
+        "Timestamp": 1476699000
+    },
+    "5210_1476699000": {
+        "Latitude": 48.15066,
+        "Longitude": 11.579459,
+        "Number": 5210,
+        "Streets": "['Geschwister-Scholl-Platz1', 'Ludwigstr.']",
+        "Timestamp": 1476699000
+    },
+    "5216_1476699000": {
+        "Latitude": 48.131927,
+        "Longitude": 11.598322,
+        "Number": 5216,
+        "Streets": "['Preysingstr.', 'W\u00f6rthstr.']",
+        "Timestamp": 1476699000
+    },
+    "5218_1476699000": {
+        "Latitude": 48.164482,
+        "Longitude": 11.56787,
+        "Number": 5218,
+        "Streets": "['Clemensstr.', 'Mittermayrstr.']",
+        "Timestamp": 1476699000
+    },
+    "5219_1476699000": {
+        "Latitude": 48.163986,
+        "Longitude": 11.586155,
+        "Number": 5219,
+        "Streets": "['Erwin-Planck-Weg', 'Leopoldstr.']",
+        "Timestamp": 1476699000
+    },
+    "5221_1476699000": {
+        "Latitude": 48.129925,
+        "Longitude": 11.564166,
+        "Number": 5221,
+        "Streets": "['Frauenlobstr', 'Winckelstr.', 'LMUProjektstandort4']",
+        "Timestamp": 1476699000
+    },
+    "5225_1476699000": {
+        "Latitude": 48.128445,
+        "Longitude": 11.600414,
+        "Number": 5225,
+        "Streets": "['PariserPlatz', 'Wei\u00dfenburgerStr.']",
+        "Timestamp": 1476699000
+    },
+    "5226_1476699000": {
+        "Latitude": 48.17592,
+        "Longitude": 11.588767,
+        "Number": 5226,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "5228_1476699000": {
+        "Latitude": 48.17944,
+        "Longitude": 11.529316,
+        "Number": 5228,
+        "Streets": "['BMWStation15', 'Hanauerstr.46']",
+        "Timestamp": 1476699000
+    },
+    "5230_1476699000": {
+        "Latitude": 48.1389,
+        "Longitude": 11.538878,
+        "Number": 5230,
+        "Streets": "['F\u00e4ustlestr.', 'Westendstr.']",
+        "Timestamp": 1476699000
+    },
+    "5236_1476699000": {
+        "Latitude": 48.1239,
+        "Longitude": 11.608518,
+        "Number": 5236,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "5246_1476699000": {
+        "Latitude": 48.13001,
+        "Longitude": 11.573186,
+        "Number": 5246,
+        "Streets": "['Fraunhoferstr.', 'Klenzestr.']",
+        "Timestamp": 1476699000
+    },
+    "5250_1476699000": {
+        "Latitude": 48.11692,
+        "Longitude": 11.538559,
+        "Number": 5250,
+        "Streets": "['Albert-Ro\u00dfhaupter-Str.', 'AmHarras']",
+        "Timestamp": 1476699000
+    },
+    "5264_1476699000": {
+        "Latitude": 48.111877,
+        "Longitude": 11.544332,
+        "Number": 5264,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "5265_1476699000": {
+        "Latitude": 48.18326,
+        "Longitude": 11.607737,
+        "Number": 5265,
+        "Streets": "['Grasmeierstr.', 'U-BahnhofStudentenstadt']",
+        "Timestamp": 1476699000
+    },
+    "5268_1476699000": {
+        "Latitude": 48.17407,
+        "Longitude": 11.582448,
+        "Number": 5268,
+        "Streets": "['EisenacherStr.', 'Isoldenstr.']",
+        "Timestamp": 1476699000
+    },
+    "5293_1476699000": {
+        "Latitude": 48.13765,
+        "Longitude": 11.581688,
+        "Number": 5293,
+        "Streets": "['Falckenbergstr.', 'Hildegardstr.']",
+        "Timestamp": 1476699000
+    },
+    "5335_1476699000": {
+        "Latitude": 48.1125,
+        "Longitude": 11.55527778,
+        "Number": 5335,
+        "Streets": "['Bruderm\u00fchlstr.', 'Hans-Prei\u00dfinger-Str.']",
+        "Timestamp": 1476699000
+    },
+    "5343_1476699000": {
+        "Latitude": 48.176254,
+        "Longitude": 11.579231,
+        "Number": 5343,
+        "Streets": "['Klopstockstr.', 'R\u00fcmannstr.']",
+        "Timestamp": 1476699000
+    },
+    "5511_1476699000": {
+        "Latitude": 48.13445,
+        "Longitude": 11.556349,
+        "Number": 5511,
+        "Streets": "['Herzog-Heinrich-Str.', 'Lessingstr.']",
+        "Timestamp": 1476699000
+    },
+    "5635_1476699000": {
+        "Latitude": 48.148384,
+        "Longitude": 11.568672,
+        "Number": 5635,
+        "Streets": "['Arcisstr.21TU-M\u00fcnchenHauptgeb\u00e4ude']",
+        "Timestamp": 1476699000
+    },
+    "5638_1476699000": {
+        "Latitude": 48.19333,
+        "Longitude": 11.569557,
+        "Number": 5638,
+        "Streets": "['BMWAllee', 'BMWFIZProjekthausStation8']",
+        "Timestamp": 1476699000
+    },
+    "5641_1476699000": {
+        "Latitude": 48.12833333,
+        "Longitude": 11.58805556,
+        "Number": 5641,
+        "Streets": "['Hochstr.', 'Rablstr.']",
+        "Timestamp": 1476699000
+    },
+    "5644_1476699000": {
+        "Latitude": 48.12888,
+        "Longitude": 11.594589,
+        "Number": 5644,
+        "Streets": "['RosenheimerPlatz', 'Wei\u00dfenburgerStr.']",
+        "Timestamp": 1476699000
+    },
+    "5647_1476699000": {
+        "Latitude": 48.138844,
+        "Longitude": 11.579195,
+        "Number": 5647,
+        "Streets": "['Hofgraben', 'Maximilianstr.']",
+        "Timestamp": 1476699000
+    },
+    "5671_1476699000": {
+        "Latitude": 48.13241,
+        "Longitude": 11.61509,
+        "Number": 5671,
+        "Streets": "['Deggendorferstr(neu)', 'DingolfingerStr.']",
+        "Timestamp": 1476699000
+    },
+    "5676_1476699000": {
+        "Latitude": 48.15107,
+        "Longitude": 11.581839,
+        "Number": 5676,
+        "Streets": "['Ludwigstr.', 'Professor-Huber-Platz']",
+        "Timestamp": 1476699000
+    },
+    "5680_1476699000": {
+        "Latitude": 48.17354,
+        "Longitude": 11.593496,
+        "Number": 5680,
+        "Streets": "['BerlinerStr.']",
+        "Timestamp": 1476699000
+    },
+    "5730_1476699000": {
+        "Latitude": 48.152054,
+        "Longitude": 11.565863,
+        "Number": 5730,
+        "Streets": "['He\u00dfstr.', 'Steinickeweg']",
+        "Timestamp": 1476699000
+    },
+    "5745_1476699000": {
+        "Latitude": 48.174202,
+        "Longitude": 11.592874,
+        "Number": 5745,
+        "Streets": "['BerlinerStr.']",
+        "Timestamp": 1476699000
+    },
+    "5809_1476699000": {
+        "Latitude": 48.15545,
+        "Longitude": 11.583905,
+        "Number": 5809,
+        "Streets": "['Giselastr.', 'Leopoldstr.']",
+        "Timestamp": 1476699000
+    },
+    "5810_1476699000": {
+        "Latitude": 48.152985,
+        "Longitude": 11.604342,
+        "Number": 5810,
+        "Streets": "['Pienzenauerstr.', 'Poschingerstr.']",
+        "Timestamp": 1476699000
+    },
+    "5832_1476699000": {
+        "Latitude": 48.18406,
+        "Longitude": 11.58779,
+        "Number": 5832,
+        "Streets": "['Hans-D\u00f6llgastStr.26', 'NTTData']",
+        "Timestamp": 1476699000
+    },
+    "5867_1476699000": {
+        "Latitude": 48.158337,
+        "Longitude": 11.564373,
+        "Number": 5867,
+        "Streets": "['Agnesstr.', 'Zentnerstr.']",
+        "Timestamp": 1476699000
+    },
+    "5870_1476699000": {
+        "Latitude": 48.167225,
+        "Longitude": 11.575485,
+        "Number": 5870,
+        "Streets": "['D\u00fcsseldorferStr.', 'Karl-Theodor-Str.']",
+        "Timestamp": 1476699000
+    },
+    "5871_1476699000": {
+        "Latitude": 48.131645,
+        "Longitude": 11.577265,
+        "Number": 5871,
+        "Streets": "['Corneluisstr.', 'G\u00e4rtnerplatz']",
+        "Timestamp": 1476699000
+    },
+    "5872_1476699000": {
+        "Latitude": 48.177166,
+        "Longitude": 11.584788,
+        "Number": 5872,
+        "Streets": "['Leopoldstr.', 'Petuelring']",
+        "Timestamp": 1476699000
+    },
+    "5882_1476699000": {
+        "Latitude": 48.158367,
+        "Longitude": 11.582967,
+        "Number": 5882,
+        "Streets": "['Ainmillerstr.', 'Wilhelmstr.']",
+        "Timestamp": 1476699000
+    },
+    "5886_1476699000": {
+        "Latitude": 48.182377,
+        "Longitude": 11.588817,
+        "Number": 5886,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "5893_1476699000": {
+        "Latitude": 48.117195,
+        "Longitude": 11.607316,
+        "Number": 5893,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "5907_1476699000": {
+        "Latitude": 48.154198,
+        "Longitude": 11.5756645,
+        "Number": 5907,
+        "Streets": "['BarerStr.', 'Nordendstr.']",
+        "Timestamp": 1476699000
+    },
+    "5908_1476699000": {
+        "Latitude": 48.12749,
+        "Longitude": 11.580573,
+        "Number": 5908,
+        "Streets": "['Corneliusbr\u00fccke', 'Schweigerstr.']",
+        "Timestamp": 1476699000
+    },
+    "5915_1476699000": {
+        "Latitude": 48.181835,
+        "Longitude": 11.597393,
+        "Number": 5915,
+        "Streets": "['Marcel-Breuer-Str.', 'Walther-Gropius-Str.']",
+        "Timestamp": 1476699000
+    },
+    "5947_1476699000": {
+        "Latitude": 48.146877,
+        "Longitude": 11.579599,
+        "Number": 5947,
+        "Streets": "['Ludwigstr.', 'Theresienstr.']",
+        "Timestamp": 1476699000
+    },
+    "5952_1476699000": {
+        "Latitude": 48.138847,
+        "Longitude": 11.572478,
+        "Number": 5952,
+        "Streets": "['Hartmannstr.', 'L\u00f6wengrube']",
+        "Timestamp": 1476699000
+    },
+    "5955_1476699000": {
+        "Latitude": 48.137016,
+        "Longitude": 11.614926,
+        "Number": 5955,
+        "Streets": "['Einsteinstr.', 'Leuchtenbergring', 'MittlererRing']",
+        "Timestamp": 1476699000
+    },
+    "5970_1476699000": {
+        "Latitude": 48.148884,
+        "Longitude": 11.575433,
+        "Number": 5970,
+        "Streets": "['Theresienstr.', 'T\u00fcrkenstr.']",
+        "Timestamp": 1476699000
+    },
+    "5982_1476699000": {
+        "Latitude": 48.119938,
+        "Longitude": 11.543497,
+        "Number": 5982,
+        "Streets": "['Daiserstr.', 'Oberl\u00e4nderstr.']",
+        "Timestamp": 1476699000
+    },
+    "5986_1476699000": {
+        "Latitude": 48.133564,
+        "Longitude": 11.578151,
+        "Number": 5986,
+        "Streets": "['Aventinstr.', 'Klenzestr.']",
+        "Timestamp": 1476699000
+    },
+    "6122_1476699000": {
+        "Latitude": 48.18705,
+        "Longitude": 11.602273,
+        "Number": 6122,
+        "Streets": "['FrankfurterRing', 'Lilienthalallee']",
+        "Timestamp": 1476699000
+    },
+    "6123_1476699000": {
+        "Latitude": 48.184143,
+        "Longitude": 11.5781975,
+        "Number": 6123,
+        "Streets": "['Abtstr.', 'MilbertshofenerStr.']",
+        "Timestamp": 1476699000
+    },
+    "6132_1476699000": {
+        "Latitude": 48.18406,
+        "Longitude": 11.58779,
+        "Number": 6132,
+        "Streets": "['Hans-D\u00f6llgastStr.26', 'NTTData']",
+        "Timestamp": 1476699000
+    },
+    "6141_1476699000": {
+        "Latitude": 48.16868,
+        "Longitude": 11.587918,
+        "Number": 6141,
+        "Streets": "['Germaniastr.', 'Virchowstr.']",
+        "Timestamp": 1476699000
+    },
+    "6149_1476699000": {
+        "Latitude": 48.116837,
+        "Longitude": 11.539343,
+        "Number": 6149,
+        "Streets": "['Albert-Ro\u00dfhaupter-Str.', 'AmHarras']",
+        "Timestamp": 1476699000
+    },
+    "6158_1476699000": {
+        "Latitude": 48.165874,
+        "Longitude": 11.578015,
+        "Number": 6158,
+        "Streets": "['Unertlstr.', 'Viktoriaplatz']",
+        "Timestamp": 1476699000
+    },
+    "6174_1476699000": {
+        "Latitude": 48.124256,
+        "Longitude": 11.541108,
+        "Number": 6174,
+        "Streets": "['Kraelerstr.', 'Pfeuferstr.']",
+        "Timestamp": 1476699000
+    },
+    "6212_1476699000": {
+        "Latitude": 48.140648,
+        "Longitude": 11.572291,
+        "Number": 6212,
+        "Streets": "['Pacellistr.', 'Promenadeplatz']",
+        "Timestamp": 1476699000
+    },
+    "6269_1476699000": {
+        "Latitude": 48.15091,
+        "Longitude": 11.579196,
+        "Number": 6269,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "6307_1476699000": {
+        "Latitude": 48.13564,
+        "Longitude": 11.557056,
+        "Number": 6307,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "6340_1476699000": {
+        "Latitude": 48.162457,
+        "Longitude": 11.564042,
+        "Number": 6340,
+        "Streets": "['Mitterwieserstr.', 'Schlei\u00dfheimerStr.']",
+        "Timestamp": 1476699000
+    },
+    "6343_1476699000": {
+        "Latitude": 48.145054,
+        "Longitude": 11.458579,
+        "Number": 6343,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "6364_1476699000": {
+        "Latitude": 48.118206,
+        "Longitude": 11.538951,
+        "Number": 6364,
+        "Streets": "['Lindenschmitstr.', 'Meindlstr.']",
+        "Timestamp": 1476699000
+    },
+    "6366_1476699000": {
+        "Latitude": 48.15538,
+        "Longitude": 11.584053,
+        "Number": 6366,
+        "Streets": "['Giselastr.', 'Leopoldstr.']",
+        "Timestamp": 1476699000
+    },
+    "6367_1476699000": {
+        "Latitude": 48.11977,
+        "Longitude": 11.613067,
+        "Number": 6367,
+        "Streets": "['F\u00fchrichstr.', 'Rupertigaustr.']",
+        "Timestamp": 1476699000
+    },
+    "6371_1476699000": {
+        "Latitude": 48.145412,
+        "Longitude": 11.574231,
+        "Number": 6371,
+        "Streets": "['Gabelsbergerstr.', 'Oskar-von-Miller-Ring']",
+        "Timestamp": 1476699000
+    },
+    "6379_1476699000": {
+        "Latitude": 48.14613,
+        "Longitude": 11.593124,
+        "Number": 6379,
+        "Streets": "['Lerchenfeldstr.', 'Oettingenstr.']",
+        "Timestamp": 1476699000
+    },
+    "6412_1476699000": {
+        "Latitude": 48.151066,
+        "Longitude": 11.578387,
+        "Number": 6412,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "6413_1476699000": {
+        "Latitude": 48.166344,
+        "Longitude": 11.571823,
+        "Number": 6413,
+        "Streets": "['Angererstr.', 'Karl-Theodor-Str.']",
+        "Timestamp": 1476699000
+    },
+    "6416_1476699000": {
+        "Latitude": 48.13772,
+        "Longitude": 11.581544,
+        "Number": 6416,
+        "Streets": "['Falckenbergstr.', 'Hildegardstr.']",
+        "Timestamp": 1476699000
+    },
+    "6442_1476699000": {
+        "Latitude": 48.16195,
+        "Longitude": 11.529477,
+        "Number": 6442,
+        "Streets": "['Tizianstr.', 'Waisenhausstr.']",
+        "Timestamp": 1476699000
+    },
+    "6449_1476699000": {
+        "Latitude": 48.165615,
+        "Longitude": 11.533501,
+        "Number": 6449,
+        "Streets": "['Klugstr.', 'Paschstr.']",
+        "Timestamp": 1476699000
+    },
+    "6453_1476699000": {
+        "Latitude": 48.152557,
+        "Longitude": 11.574174,
+        "Number": 6453,
+        "Streets": "['BarerStr.', 'Schnorrstr.']",
+        "Timestamp": 1476699000
+    },
+    "6470_1476699000": {
+        "Latitude": 48.12407,
+        "Longitude": 11.528147,
+        "Number": 6470,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "6474_1476699000": {
+        "Latitude": 48.191666,
+        "Longitude": 11.577169,
+        "Number": 6474,
+        "Streets": "['Anton-Ditt-Bogen', 'Hufelandstr.']",
+        "Timestamp": 1476699000
+    },
+    "6482_1476699000": {
+        "Latitude": 48.112606,
+        "Longitude": 11.554769,
+        "Number": 6482,
+        "Streets": "['Hans-Prei\u00dfinger-Str.', 'Isartalstr.']",
+        "Timestamp": 1476699000
+    },
+    "6513_1476699000": {
+        "Latitude": 48.110252,
+        "Longitude": 11.608858,
+        "Number": 6513,
+        "Streets": "['Frauenchiemseestr.', 'HohenaschauerStr.']",
+        "Timestamp": 1476699000
+    },
+    "6535_1476699000": {
+        "Latitude": 48.1358,
+        "Longitude": 11.600468,
+        "Number": 6535,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "6540_1476699000": {
+        "Latitude": 48.16375,
+        "Longitude": 11.559141,
+        "Number": 6540,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "6559_1476699000": {
+        "Latitude": 48.11093,
+        "Longitude": 11.536859,
+        "Number": 6559,
+        "Streets": "['Heckenstallerstrasse', 'MittlererRing', 'Karwendelstr.']",
+        "Timestamp": 1476699000
+    },
+    "6577_1476699000": {
+        "Latitude": 48.139202,
+        "Longitude": 11.568617,
+        "Number": 6577,
+        "Streets": "['Kapellenstr.', 'NeuhauserStr.']",
+        "Timestamp": 1476699000
+    },
+    "6583_1476699000": {
+        "Latitude": 48.127728,
+        "Longitude": 11.581145,
+        "Number": 6583,
+        "Streets": "['Corneliusbr\u00fccke', 'Eduard-Schmid-Str.']",
+        "Timestamp": 1476699000
+    },
+    "6593_1476699000": {
+        "Latitude": 48.15004,
+        "Longitude": 11.56802,
+        "Number": 6593,
+        "Streets": "['Theresienstr.']",
+        "Timestamp": 1476699000
+    },
+    "6595_1476699000": {
+        "Latitude": 48.140488,
+        "Longitude": 11.573746,
+        "Number": 6595,
+        "Streets": "['HotelBayerischerHof', 'Promenadeplatz']",
+        "Timestamp": 1476699000
+    },
+    "6605_1476699000": {
+        "Latitude": 48.154564,
+        "Longitude": 11.5804825,
+        "Number": 6605,
+        "Streets": "['Friedrichstr.', 'Georgenstr.']",
+        "Timestamp": 1476699000
+    },
+    "6618_1476699000": {
+        "Latitude": 48.137985,
+        "Longitude": 11.590754,
+        "Number": 6618,
+        "Streets": "['Gew\u00fcrzm\u00fchlstr.', 'Widenmayerstr.']",
+        "Timestamp": 1476699000
+    },
+    "6624_1476699000": {
+        "Latitude": 48.135136,
+        "Longitude": 11.554029,
+        "Number": 6624,
+        "Streets": "['Pettenkoferstr.', 'St.-Paul-Str.']",
+        "Timestamp": 1476699000
+    },
+    "6631_1476699000": {
+        "Latitude": 48.15403,
+        "Longitude": 11.541633,
+        "Number": 6631,
+        "Streets": "['Albrechtstr.', 'Hedwigstr.']",
+        "Timestamp": 1476699000
+    },
+    "6652_1476699000": {
+        "Latitude": 48.154644,
+        "Longitude": 11.58557,
+        "Number": 6652,
+        "Streets": "['Giselastr.', 'Kaulbachstr.']",
+        "Timestamp": 1476699000
+    },
+    "6659_1476699000": {
+        "Latitude": 48.10155,
+        "Longitude": 11.536753,
+        "Number": 6659,
+        "Streets": "['Portenstr.', 'T\u00f6lzerstr.']",
+        "Timestamp": 1476699000
+    },
+    "6667_1476699000": {
+        "Latitude": 48.12898,
+        "Longitude": 11.593878,
+        "Number": 6667,
+        "Streets": "['RosenheimerPlatz', 'Wei\u00dfenburgerStr.']",
+        "Timestamp": 1476699000
+    },
+    "6674_1476699000": {
+        "Latitude": 48.193516,
+        "Longitude": 11.5688715,
+        "Number": 6674,
+        "Streets": "['BMWAllee', 'BMWFIZProjekthausStation8']",
+        "Timestamp": 1476699000
+    },
+    "6677_1476699000": {
+        "Latitude": 48.128647,
+        "Longitude": 11.60934,
+        "Number": 6677,
+        "Streets": "['Friedenstr.', 'M\u00fchldorfstr.']",
+        "Timestamp": 1476699000
+    },
+    "6687_1476699000": {
+        "Latitude": 48.149338,
+        "Longitude": 11.579841,
+        "Number": 6687,
+        "Streets": "['Ludwigstr.', 'Schellingstr.']",
+        "Timestamp": 1476699000
+    },
+    "6691_1476699000": {
+        "Latitude": 48.16562,
+        "Longitude": 11.533667,
+        "Number": 6691,
+        "Streets": "['Klugstr.', 'Paschstr.']",
+        "Timestamp": 1476699000
+    },
+    "6699_1476699000": {
+        "Latitude": 48.1103,
+        "Longitude": 11.53984,
+        "Number": 6699,
+        "Streets": "['Bruderm\u00fchlstr.', 'Plinganserstr.']",
+        "Timestamp": 1476699000
+    },
+    "6844_1476699000": {
+        "Latitude": 48.15518,
+        "Longitude": 11.583872,
+        "Number": 6844,
+        "Streets": "['Giselastr.', 'Leopoldstr.']",
+        "Timestamp": 1476699000
+    },
+    "6846_1476699000": {
+        "Latitude": 48.143845,
+        "Longitude": 11.59528,
+        "Number": 6846,
+        "Streets": "['AmGries', 'Crusiusstr.']",
+        "Timestamp": 1476699000
+    },
+    "6847_1476699000": {
+        "Latitude": 48.176647,
+        "Longitude": 11.579171,
+        "Number": 6847,
+        "Streets": "['Barlachstr.', 'Klopstockstr.']",
+        "Timestamp": 1476699000
+    },
+    "6852_1476699000": {
+        "Latitude": 48.11387,
+        "Longitude": 11.544813,
+        "Number": 6852,
+        "Streets": "['Demleitnerstr.', 'Gai\u00dfacherStr.']",
+        "Timestamp": 1476699000
+    },
+    "6861_1476699000": {
+        "Latitude": 48.17447,
+        "Longitude": 11.590408,
+        "Number": 6861,
+        "Streets": "['Schl\u00fcterstr.']",
+        "Timestamp": 1476699000
+    },
+    "6866_1476699000": {
+        "Latitude": 48.168354,
+        "Longitude": 11.578055,
+        "Number": 6866,
+        "Streets": "['Bonnerstr.', 'SpeyererStr.']",
+        "Timestamp": 1476699000
+    },
+    "6867_1476699000": {
+        "Latitude": 48.13743,
+        "Longitude": 11.555823,
+        "Number": 6867,
+        "Streets": "['Paul-Heyse-Str.', 'Schwanthalerstr.']",
+        "Timestamp": 1476699000
+    },
+    "6884_1476699000": {
+        "Latitude": 48.147224,
+        "Longitude": 11.569972,
+        "Number": 6884,
+        "Streets": "['BarerStr.', 'Gabelsbergerstr.']",
+        "Timestamp": 1476699000
+    },
+    "6888_1476699000": {
+        "Latitude": 48.14268,
+        "Longitude": 11.5777855,
+        "Number": 6888,
+        "Streets": "['Hofgartenstr.', 'Odeonsplatz']",
+        "Timestamp": 1476699000
+    },
+    "6898_1476699000": {
+        "Latitude": 48.148983,
+        "Longitude": 11.505326,
+        "Number": 6898,
+        "Streets": "['Fasoltstr.', 'Herthastr.']",
+        "Timestamp": 1476699000
+    },
+    "6903_1476699000": {
+        "Latitude": 48.170002,
+        "Longitude": 11.588097,
+        "Number": 6903,
+        "Streets": "['Germaniastr.', 'Johann-Fichte-Str.']",
+        "Timestamp": 1476699000
+    },
+    "6925_1476699000": {
+        "Latitude": 48.18177,
+        "Longitude": 11.577527,
+        "Number": 6925,
+        "Streets": "['Abtstr.', 'Keferloherstr.']",
+        "Timestamp": 1476699000
+    },
+    "6927_1476699000": {
+        "Latitude": 48.14228,
+        "Longitude": 11.588657,
+        "Number": 6927,
+        "Streets": "['Uns\u00f6ldstr.', 'Wagm\u00fcllerstr.']",
+        "Timestamp": 1476699000
+    },
+    "6937_1476699000": {
+        "Latitude": 48.158554,
+        "Longitude": 11.534179,
+        "Number": 6937,
+        "Streets": "['Frundsbergstr.', 'Johann-Pez-Str.']",
+        "Timestamp": 1476699000
+    },
+    "6946_1476699000": {
+        "Latitude": 48.147408,
+        "Longitude": 11.618867,
+        "Number": 6946,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "6949_1476699000": {
+        "Latitude": 48.1294870152,
+        "Longitude": 11.622424293,
+        "Number": 6949,
+        "Streets": "['Berg-am-Laim-Str.', 'Schl\u00fcsselbergstr.']",
+        "Timestamp": 1476699000
+    },
+    "6952_1476699000": {
+        "Latitude": 48.148758,
+        "Longitude": 11.595509,
+        "Number": 6952,
+        "Streets": "['Karolinenstr.', 'Lerchenfeldstr.']",
+        "Timestamp": 1476699000
+    },
+    "6963_1476699000": {
+        "Latitude": 48.138462,
+        "Longitude": 11.536329,
+        "Number": 6963,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "6972_1476699000": {
+        "Latitude": 48.117184,
+        "Longitude": 11.551678,
+        "Number": 6972,
+        "Streets": "['K\u00f6nigsdorferStr.', 'ThalkirchnerStr.']",
+        "Timestamp": 1476699000
+    },
+    "6994_1476699000": {
+        "Latitude": 48.150322,
+        "Longitude": 11.595408,
+        "Number": 6994,
+        "Streets": "['HirschauerStr.', 'Oettingenstr.']",
+        "Timestamp": 1476699000
+    },
+    "6998_1476699000": {
+        "Latitude": 48.111168,
+        "Longitude": 11.569828,
+        "Number": 6998,
+        "Streets": "['Candidstr.', 'Sch\u00f6nstr.']",
+        "Timestamp": 1476699000
+    },
+    "7015_1476699000": {
+        "Latitude": 48.171093,
+        "Longitude": 11.594665,
+        "Number": 7015,
+        "Streets": "['Soxhletstr.', 'Ungererstr.']",
+        "Timestamp": 1476699000
+    },
+    "7019_1476699000": {
+        "Latitude": 48.080276,
+        "Longitude": 11.551472,
+        "Number": 7019,
+        "Streets": "['Geiselgasteigstr.', 'Menterschweigstr.']",
+        "Timestamp": 1476699000
+    },
+    "7027_1476699000": {
+        "Latitude": 48.1815,
+        "Longitude": 11.585161,
+        "Number": 7027,
+        "Streets": "['Griegstr.', 'Leopoldstrasse']",
+        "Timestamp": 1476699000
+    },
+    "7034_1476699000": {
+        "Latitude": 48.136665,
+        "Longitude": 11.567286,
+        "Number": 7034,
+        "Streets": "['Herzog-Wilhelm-Str.', 'Josephspitalstr.']",
+        "Timestamp": 1476699000
+    },
+    "7043_1476699000": {
+        "Latitude": 48.18406,
+        "Longitude": 11.58779,
+        "Number": 7043,
+        "Streets": "['Hans-D\u00f6llgastStr.26', 'NTTData']",
+        "Timestamp": 1476699000
+    },
+    "7044_1476699000": {
+        "Latitude": 48.146217,
+        "Longitude": 11.592963,
+        "Number": 7044,
+        "Streets": "['Lerchenfeldstr.', 'Oettingenstr.']",
+        "Timestamp": 1476699000
+    },
+    "7072_1476699000": {
+        "Latitude": 48.175117,
+        "Longitude": 11.572835,
+        "Number": 7072,
+        "Streets": "['Belgradstr.', 'R\u00fcmannstr.']",
+        "Timestamp": 1476699000
+    },
+    "7081_1476699000": {
+        "Latitude": 48.122845,
+        "Longitude": 11.57551,
+        "Number": 7081,
+        "Streets": "['Kolumbusstr.', 'Sommerstr.']",
+        "Timestamp": 1476699000
+    },
+    "7116_1476699000": {
+        "Latitude": 48.127487,
+        "Longitude": 11.581736,
+        "Number": 7116,
+        "Streets": "['Corneliusbr\u00fccke', 'Eduard-Schmid-Str.']",
+        "Timestamp": 1476699000
+    },
+    "7198_1476699000": {
+        "Latitude": 48.130867,
+        "Longitude": 11.561109,
+        "Number": 7198,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "7200_1476699000": {
+        "Latitude": 48.133045,
+        "Longitude": 11.572644,
+        "Number": 7200,
+        "Streets": "['Blumenstr.', 'Theklastr.']",
+        "Timestamp": 1476699000
+    },
+    "7201_1476699000": {
+        "Latitude": 48.125114,
+        "Longitude": 11.556901,
+        "Number": 7201,
+        "Streets": "['Adlzreiterstr.', 'Tumblingerstr.']",
+        "Timestamp": 1476699000
+    },
+    "7204_1476699000": {
+        "Latitude": 48.1385,
+        "Longitude": 11.583775,
+        "Number": 7204,
+        "Streets": "['Maximilianstr.', 'Stollbergstr.']",
+        "Timestamp": 1476699000
+    },
+    "7215_1476699000": {
+        "Latitude": 48.161182,
+        "Longitude": 11.5834465,
+        "Number": 7215,
+        "Streets": "['Kaiserstr.', 'Wilhelmstr.']",
+        "Timestamp": 1476699000
+    },
+    "7228_1476699000": {
+        "Latitude": 48.12877,
+        "Longitude": 11.5556555,
+        "Number": 7228,
+        "Streets": "['Herzog-Heinrich-Str.', 'Kobellstr.']",
+        "Timestamp": 1476699000
+    },
+    "7229_1476699000": {
+        "Latitude": 48.125366,
+        "Longitude": 11.525579,
+        "Number": 7229,
+        "Streets": "['Grasweg', 'Rudi-Sedlmayerhalle']",
+        "Timestamp": 1476699000
+    },
+    "7244_1476699000": {
+        "Latitude": 48.168293,
+        "Longitude": 11.595521,
+        "Number": 7244,
+        "Streets": "['Gundelindenstr.', 'Klementinenstr.']",
+        "Timestamp": 1476699000
+    },
+    "7250_1476699000": {
+        "Latitude": 48.191128,
+        "Longitude": 11.55273,
+        "Number": 7250,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "7255_1476699000": {
+        "Latitude": 48.1712,
+        "Longitude": 11.563034,
+        "Number": 7255,
+        "Streets": "['LerchenauerStr.', 'Schlei\u00dfheimerStr.']",
+        "Timestamp": 1476699000
+    },
+    "7258_1476699000": {
+        "Latitude": 48.153522,
+        "Longitude": 11.608428,
+        "Number": 7258,
+        "Streets": "['Sch\u00f6nbergstr.', 'VilshofenerStr.']",
+        "Timestamp": 1476699000
+    },
+    "7260_1476699000": {
+        "Latitude": 48.13027778,
+        "Longitude": 11.57194444,
+        "Number": 7260,
+        "Streets": "['Jahnstr.', 'Kolosseumstr.']",
+        "Timestamp": 1476699000
+    },
+    "7271_1476699000": {
+        "Latitude": 48.12534,
+        "Longitude": 11.525385,
+        "Number": 7271,
+        "Streets": "['Grasweg', 'Rudi-Sedlmayerhalle']",
+        "Timestamp": 1476699000
+    },
+    "7274_1476699000": {
+        "Latitude": 48.128105,
+        "Longitude": 11.608852,
+        "Number": 7274,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "7279_1476699000": {
+        "Latitude": 48.173706,
+        "Longitude": 11.58809,
+        "Number": 7279,
+        "Streets": "['BerlinerStr.', 'Schl\u00fcterstr.']",
+        "Timestamp": 1476699000
+    },
+    "7281_1476699000": {
+        "Latitude": 48.188923,
+        "Longitude": 11.580613,
+        "Number": 7281,
+        "Streets": "['BMWStation9', 'Taunusstr.43']",
+        "Timestamp": 1476699000
+    },
+    "7285_1476699000": {
+        "Latitude": 48.190926,
+        "Longitude": 11.580637,
+        "Number": 7285,
+        "Streets": "['Anton-Ditt-Bogen5', '6Geb.12.0', '1.0', 'BMWStation14']",
+        "Timestamp": 1476699000
+    },
+    "7319_1476699000": {
+        "Latitude": 48.12989,
+        "Longitude": 11.564137,
+        "Number": 7319,
+        "Streets": "['Frauenlobstr', 'Winckelstr.', 'LMUProjektstandort4']",
+        "Timestamp": 1476699000
+    },
+    "7357_1476699000": {
+        "Latitude": 48.108727,
+        "Longitude": 11.597374,
+        "Number": 7357,
+        "Streets": "['FrankenthalerStr.', 'PerlacherWeg']",
+        "Timestamp": 1476699000
+    },
+    "7374_1476699000": {
+        "Latitude": 48.17704,
+        "Longitude": 11.578762,
+        "Number": 7374,
+        "Streets": "['Barlachstr.', 'Klopstockstr.']",
+        "Timestamp": 1476699000
+    },
+    "7382_1476699000": {
+        "Latitude": 48.13788,
+        "Longitude": 11.569121,
+        "Number": 7382,
+        "Streets": "['Eisenmannstr.', 'Herzogspitalstr.']",
+        "Timestamp": 1476699000
+    },
+    "7392_1476699000": {
+        "Latitude": 48.129105,
+        "Longitude": 11.600821,
+        "Number": 7392,
+        "Streets": "['Bordeauxplatz', 'PariserStr.']",
+        "Timestamp": 1476699000
+    },
+    "7719_1476699000": {
+        "Latitude": 48.147255,
+        "Longitude": 11.574015,
+        "Number": 7719,
+        "Streets": "['Theresienstr.', 'T\u00fcrkenstr.']",
+        "Timestamp": 1476699000
+    },
+    "7754_1476699000": {
+        "Latitude": 48.139122,
+        "Longitude": 11.573851,
+        "Number": 7754,
+        "Streets": "['Sch\u00e4fflerstr.', 'Windenmacherstr.']",
+        "Timestamp": 1476699000
+    },
+    "7755_1476699000": {
+        "Latitude": 48.136944,
+        "Longitude": 11.598499,
+        "Number": 7755,
+        "Streets": "['IsmaningerStr.', 'Langerstr.']",
+        "Timestamp": 1476699000
+    },
+    "7756_1476699000": {
+        "Latitude": 48.149433,
+        "Longitude": 11.588456,
+        "Number": 7756,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "7760_1476699000": {
+        "Latitude": 48.16714,
+        "Longitude": 11.60049,
+        "Number": 7760,
+        "Streets": "['Etschweg', 'Imhofstr.']",
+        "Timestamp": 1476699000
+    },
+    "7761_1476699000": {
+        "Latitude": 48.12971,
+        "Longitude": 11.564193,
+        "Number": 7761,
+        "Streets": "['Frauenlobstr', 'Winckelstr.', 'LMUProjektstandort4']",
+        "Timestamp": 1476699000
+    },
+    "7762_1476699000": {
+        "Latitude": 48.1866,
+        "Longitude": 11.566121,
+        "Number": 7762,
+        "Streets": "['FrankfurterRing', 'Schlei\u00dfheimerStr.']",
+        "Timestamp": 1476699000
+    },
+    "7764_1476699000": {
+        "Latitude": 48.12931,
+        "Longitude": 11.586866,
+        "Number": 7764,
+        "Streets": "['Lilienstr.', 'Paulanerplatz']",
+        "Timestamp": 1476699000
+    },
+    "7766_1476699000": {
+        "Latitude": 48.16174,
+        "Longitude": 11.568087,
+        "Number": 7766,
+        "Streets": "['Hohenzollernplatz', 'Mittermayrstr.']",
+        "Timestamp": 1476699000
+    },
+    "7767_1476699000": {
+        "Latitude": 48.148785,
+        "Longitude": 11.616208,
+        "Number": 7767,
+        "Streets": "['DenningerStr.', 'Richard-Strauss-Str.']",
+        "Timestamp": 1476699000
+    },
+    "7768_1476699000": {
+        "Latitude": 48.125046,
+        "Longitude": 11.549504,
+        "Number": 7768,
+        "Streets": "['Lindwurmstr.', 'Ruppertstr.']",
+        "Timestamp": 1476699000
+    },
+    "7769_1476699000": {
+        "Latitude": 48.12388889,
+        "Longitude": 11.54333333,
+        "Number": 7769,
+        "Streets": "['Berlepschstr.', 'Lipowskystr.']",
+        "Timestamp": 1476699000
+    },
+    "7770_1476699000": {
+        "Latitude": 48.109352,
+        "Longitude": 11.579597,
+        "Number": 7770,
+        "Streets": "['Otkerstr.', 'TegernseerLandstr.']",
+        "Timestamp": 1476699000
+    },
+    "7777_1476699000": {
+        "Latitude": 48.144073,
+        "Longitude": 11.594506,
+        "Number": 7777,
+        "Streets": "['AmGries', 'Reitmorstr.']",
+        "Timestamp": 1476699000
+    },
+    "7780_1476699000": {
+        "Latitude": 48.14074,
+        "Longitude": 11.5744095,
+        "Number": 7780,
+        "Streets": "['Kardinal-Faulhaber-Str.', 'Prannerstr.']",
+        "Timestamp": 1476699000
+    },
+    "7781_1476699000": {
+        "Latitude": 48.151466,
+        "Longitude": 11.547925,
+        "Number": 7781,
+        "Streets": "['Lothstr.', 'Thorwaldsenstr.']",
+        "Timestamp": 1476699000
+    },
+    "7782_1476699000": {
+        "Latitude": 48.13968,
+        "Longitude": 11.574379,
+        "Number": 7782,
+        "Streets": "['Kardinal-Faulhaber-Str.', 'Maffeistr.']",
+        "Timestamp": 1476699000
+    },
+    "7783_1476699000": {
+        "Latitude": 48.189007,
+        "Longitude": 11.591345,
+        "Number": 7783,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "7784_1476699000": {
+        "Latitude": 48.14425,
+        "Longitude": 11.576799,
+        "Number": 7784,
+        "Streets": "['J\u00e4gerstr.', 'Kardinal-D\u00f6pfner-Str.']",
+        "Timestamp": 1476699000
+    },
+    "7786_1476699000": {
+        "Latitude": 48.15224,
+        "Longitude": 11.583642,
+        "Number": 7786,
+        "Streets": "['Kaulbachstr.', 'Schackstr.']",
+        "Timestamp": 1476699000
+    },
+    "7789_1476699000": {
+        "Latitude": 48.139366,
+        "Longitude": 11.609417,
+        "Number": 7789,
+        "Streets": "['Wilhelm-Tell-Str.', 'Zaubzerstr.']",
+        "Timestamp": 1476699000
+    },
+    "7790_1476699000": {
+        "Latitude": 48.129932,
+        "Longitude": 11.564033,
+        "Number": 7790,
+        "Streets": "['Frauenlobstr.', 'Winckelstrasse']",
+        "Timestamp": 1476699000
+    },
+    "7793_1476699000": {
+        "Latitude": 48.15873,
+        "Longitude": 11.542332,
+        "Number": 7793,
+        "Streets": "['Fasaneriestr.', 'Volkartstr.']",
+        "Timestamp": 1476699000
+    },
+    "7794_1476699000": {
+        "Latitude": 48.151752,
+        "Longitude": 11.537637,
+        "Number": 7794,
+        "Streets": "['LandshuterAllee', 'MittlererRing', 'NymphenburgerStr.']",
+        "Timestamp": 1476699000
+    },
+    "7796_1476699000": {
+        "Latitude": 48.14785,
+        "Longitude": 11.594586,
+        "Number": 7796,
+        "Streets": "['Dianastr.', 'Lerchenfeldstr.']",
+        "Timestamp": 1476699000
+    },
+    "7805_1476699000": {
+        "Latitude": 48.12833333,
+        "Longitude": 11.55611111,
+        "Number": 7805,
+        "Streets": "['Kapuzinerstr.', 'Lindwurmstr.']",
+        "Timestamp": 1476699000
+    },
+    "7839_1476699000": {
+        "Latitude": 48.150787,
+        "Longitude": 11.5786915,
+        "Number": 7839,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "7855_1476699000": {
+        "Latitude": 48.14271,
+        "Longitude": 11.588243,
+        "Number": 7855,
+        "Streets": "['Lerchenfeldstr.', 'Prinzregentenstr.']",
+        "Timestamp": 1476699000
+    },
+    "7878_1476699000": {
+        "Latitude": 48.156467,
+        "Longitude": 11.557236,
+        "Number": 7878,
+        "Streets": "['Lothstr.', 'Schellingstr.']",
+        "Timestamp": 1476699000
+    },
+    "7891_1476699000": {
+        "Latitude": 48.11964,
+        "Longitude": 11.541118,
+        "Number": 7891,
+        "Streets": "['Oberl\u00e4nderstr.', 'Plinganserstr.']",
+        "Timestamp": 1476699000
+    },
+    "7892_1476699000": {
+        "Latitude": 48.161777,
+        "Longitude": 11.540297,
+        "Number": 7892,
+        "Streets": "['Heideckstr.', 'Trivastr.']",
+        "Timestamp": 1476699000
+    },
+    "8006_1476699000": {
+        "Latitude": 48.15406,
+        "Longitude": 11.599109,
+        "Number": 8006,
+        "Streets": "['AmEisbach', 'Sederanger']",
+        "Timestamp": 1476699000
+    },
+    "8066_1476699000": {
+        "Latitude": 48.133965,
+        "Longitude": 11.577968,
+        "Number": 8066,
+        "Streets": "['Frauenstr.', 'Westenriederstr.']",
+        "Timestamp": 1476699000
+    },
+    "8070_1476699000": {
+        "Latitude": 48.114468,
+        "Longitude": 11.544666,
+        "Number": 8070,
+        "Streets": "['Demleitnerstr.', 'Gai\u00dfacherStr.']",
+        "Timestamp": 1476699000
+    },
+    "8099_1476699000": {
+        "Latitude": 48.152473,
+        "Longitude": 11.564872,
+        "Number": 8099,
+        "Streets": "['Augustenstr.', 'He\u00dfstr.']",
+        "Timestamp": 1476699000
+    },
+    "8126_1476699000": {
+        "Latitude": 48.132244,
+        "Longitude": 11.572673,
+        "Number": 8126,
+        "Streets": "['M\u00fcllerstr.', 'Theklastr.']",
+        "Timestamp": 1476699000
+    },
+    "8127_1476699000": {
+        "Latitude": 48.12425,
+        "Longitude": 11.534356,
+        "Number": 8127,
+        "Streets": "['AmWestpark', 'Faberstr.']",
+        "Timestamp": 1476699000
+    },
+    "8234_1476699000": {
+        "Latitude": 48.17707,
+        "Longitude": 11.585616,
+        "Number": 8234,
+        "Streets": "['Leopoldstr.', 'Schenkendorfstrasse', 'MittlererRing']",
+        "Timestamp": 1476699000
+    },
+    "9498_1476699000": {
+        "Latitude": 48.17123,
+        "Longitude": 11.587745,
+        "Number": 9498,
+        "Streets": "['Bike-Standort']",
+        "Timestamp": 1476699000
+    },
+    "9555_1476699000": {
+        "Latitude": 48.15107,
+        "Longitude": 11.581273,
+        "Number": 9555,
+        "Streets": "['Ludwigstr.', 'Professor-Huber-Platz']",
+        "Timestamp": 1476699000
+    }
+    ]
+}

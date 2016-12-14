@@ -4,36 +4,146 @@
 <head>
 <meta charset="utf-8">
 <title>Frequently Visited Locations</title>
-<script src="https://d3js.org/d3.v3.min.js"></script>
-<script src="http://d3js.org/topojson.v1.min.js"></script>
-
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3-geo.v1.min.js"></script>
+<script src="https://d3js.org/d3-polygon.v1.min.js"></script>
 </head>
 <body>
+	<div><h1>Fahrradstandorte</h1></div>
+	<div id="filter">
+		<p>Wähle ein Datum aus!</p>
+		<select id="day" onchange="setDay(this.value)">
+			<option selected disabled>Tag</option>
+			<option value="01">1</option>
+			<option value="02">2</option>
+			<option value="03">3</option>
+			<option value="04">4</option>
+			<option value="05">5</option>
+			<option value="06">6</option>
+			<option value="07">7</option>
+			<option value="08">8</option>
+			<option value="09">9</option>
+			<option value="10">10</option>
+			<option value="11">11</option>
+			<option value="12">12</option>
+			<option value="13">13</option>
+			<option value="14">14</option>
+			<option value="15">15</option>
+			<option value="16">16</option>
+			<option value="17">17</option>
+			<option value="18">18</option>
+			<option value="19">19</option>
+			<option value="20">20</option>
+			<option value="21">21</option>
+			<option value="22">22</option>
+			<option value="23">23</option>
+			<option value="24">24</option>
+			<option value="25">25</option>
+			<option value="26">26</option>
+			<option value="27">27</option>
+			<option value="28">28</option>
+			<option value="29">29</option>
+			<option value="30">30</option>
+			<option value="31">31</option>
+		</select>
+		<select id="month" onchange="setMonth(this.value)">
+			<option selected disabled>Monat</option>
+			<option value="01">Januar</option>
+			<option value="02">Februar</option>
+			<option value="03">März</option>
+			<option value="04">April</option>
+			<option value="05">Mai</option>
+			<option value="06">Juni</option>
+			<option value="07">Juli</option>
+			<option value="08">August</option>
+			<option value="09">September</option>
+			<option value="10">Oktober</option>
+			<option value="11">November</option>
+			<option value="12">Dezember</option>
+		</select>
+		<button id="start" onclick="showMap()">Start</button>
+	</div>
+	
+	<div id="map"></div>
+
+	
+
 	<script type="text/javascript">
-		var width = 1000;
-		var height = 700;
+	
+	
+	var day;
+	var month;
+	var year = "2016";
+	
+	function setDay(value){
+		day = value;
+	}
+	
+	function setMonth(value){
+		month = value;
+	}
 
-		var svg = d3.select("body").append("svg").attr("width", width).attr(
+	
+	var width = 1000;
+		var height = 700;	
+		var svg = d3.select("#map").append("svg").attr("width", width).attr(
 				"height", height);
+		
+	
+	
+		
 
-		d3.json("munich.geojson", function(data) {
+		function showMap(){
+		
+		svg.selectAll("*").remove();
+		
+		var filePath = "bikes/"+year + "/"+month+"/";
+		var fileName = year + "-" + month + "-" + day + ".json";
+		var bikes = filePath + fileName;
+		
+		
+		var scale = 100000;
+		var offset = [ width * (-19.7), height * 137.8 ];
+		//var center = d3.geoCentroid(data);
 
-			var group = svg.selectAll("g").data(data.features).enter().append(
-					"g");
+		//var scale = 1000;
+		//var offset = [ width / 2, height  ];
 
-			var center = d3.geo.centroid(data);
-			var scale = 90000;
-			var offset = [ width / 2, height / 2 ];
+		//.center(center)
 
-			var projection = d3.geo.mercator().scale(scale).center(center)
-					.translate(offset);
+		var projection = d3.geoMercator().scale(scale).translate(offset);
+		var path = d3.geoPath(projection);
 
-			var path = d3.geo.path().projection(projection);
+		
+		
 
-			var areas = group.append("path").attr("d", path).attr("class",
-					"area").attr("fill", "none").attr("stroke", "black");
+		d3.queue().defer(d3.json, "districts.json").defer(d3.json,
+				bikes).await(makeMyMap);
 
-		});
+		function makeMyMap(error, districts, bikes) {
+
+			var group = svg.selectAll("g").data(districts.features).enter()
+					.append("g");
+
+			var areas = group.append("path").attr("class", "district").attr(
+					"d", path).attr("fill", "none").attr("stroke", "black");
+
+			
+
+			//if (d3.polygonContains()) {
+				var points = group.selectAll(".bike").data(bikes.features)
+						.enter().append("path").attr("class", "bike").attr("d",
+								path.pointRadius(3)).attr("fill", "red");
+			//}
+
+		}
+
+		
+		
+		}
+
+
+
 	</script>
 
 </body>

@@ -1,0 +1,28 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    	{
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [11.61469, 48.113125]
+                },
+                "properties": {
+                    "number": 3,
+                    "streets": "['Frauenchiemseestr.', 'RosenheimerStr.']",
+                    "timestamp": 1476699000
+                }
+        }, {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [11.567181, 48.17029]
+                },
+                "properties": {
+                    "number": 13,
+        			"streets": "['Pr\u00e4lat-Zistl-Str.', 'Rosental']",
+        			"timestamp": 1476699000
+                }
+        }
+    ]
+}
