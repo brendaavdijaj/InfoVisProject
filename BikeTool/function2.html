@@ -113,8 +113,6 @@
 
 		var projection = d3.geoMercator().scale(scale).translate(offset);
 		var path = d3.geoPath(projection);
-
-		
 		
 
 		d3.queue().defer(d3.json, "districts.json").defer(d3.json,

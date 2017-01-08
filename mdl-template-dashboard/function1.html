@@ -59,6 +59,18 @@
       z-index: 900;
     }
     </style>
+    
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css" />
+    <script src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    
+    
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  	<link rel="stylesheet" href="/resources/demos/style.css">
+  	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    
+    
   </head>
   <body>
     <div class="demo-layout mdl-layout mdl-js-layout mdl-layout--fixed-drawer mdl-layout--fixed-header">
@@ -85,51 +97,85 @@
       <main class="mdl-layout__content mdl-color--grey-100">
         <div class="mdl-grid demo-content">
          
-          <div class="demo-graphs mdl-shadow--2dp mdl-color--white mdl-cell mdl-cell--8-col">
-            <svg fill="currentColor" viewBox="0 0 500 250" class="demo-graph">
-              <use xlink:href="#chart" />
-            </svg>
-            <svg fill="currentColor" viewBox="0 0 500 250" class="demo-graph">
-              <use xlink:href="#chart" />
-            </svg>
-          </div>
+         
+         	<div class="demo-graphs mdl-shadow--2dp mdl-color--white mdl-cell mdl-cell--8-col" id="map">
+            	<svg fill="currentColor" viewBox="0 0 500 350" class="demo-graph">
+              		<use xlink:href="#chart" />
+            	</svg>
+         	</div>
+          
+          	<script type="text/javascript">
+          		mapLink = '<a href="http://openstreetmap.org">OpenStreetMap</a>';
+            	var map = new L.Map("map", {center: [48.137154, 11.576124], zoom: 11})
+            		.addLayer(new L.TileLayer("http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+                        attribution: '&copy; ' + mapLink + ' Contributors',
+                        maxZoom: 18,
+                    }));
+                            
+                var svg = d3.select(map.getPanes().overlayPane).append("svg"),
+    			g = svg.append("g").attr("class", "leaflet-zoom-hide");
+    			
+    			
+    			d3.json("districts.json", function(error, collection) {
+  					if (error) throw error;
+
+  					L.geoJson(collection).addTo(map);
+				});
+				
+				
+				var day		= "26";
+				var month	= "09";
+				var year = "2016";
+				
+				
+				var filePath = "bikes/" + year + "/" + month + "/";
+				var fileName = year + "-" + month + "-" + day + ".json";
+				var bikes = filePath + fileName;
+				
+				
+				
+				d3.json(bikes, function(error, collection) {
+  					if (error) throw error;
+
+  					L.geoJson(collection).addTo(map);
+				});
+				
+			
+				
+				
+
+    			
+			</script>
           
           
           
           
           <div class="demo-cards mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet mdl-grid mdl-grid--no-spacing">
-            <div class="demo-options mdl-card mdl-color--deep-purple-500 mdl-shadow--2dp mdl-cell mdl-cell--4-col mdl-cell--3-col-tablet mdl-cell--12-col-desktop">
-              <div class="mdl-card__supporting-text mdl-color-text--blue-grey-50">
-                <h3>View options</h3>
-                <ul>
-                  <li>
-                    <label for="chkbox1" class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect">
-                      <input type="checkbox" id="chkbox1" class="mdl-checkbox__input">
-                      <span class="mdl-checkbox__label">Click per object</span>
-                    </label>
-                  </li>
-                  <li>
-                    <label for="chkbox2" class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect">
-                      <input type="checkbox" id="chkbox2" class="mdl-checkbox__input">
-                      <span class="mdl-checkbox__label">Views per object</span>
-                    </label>
-                  </li>
-                  <li>
-                    <label for="chkbox3" class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect">
-                      <input type="checkbox" id="chkbox3" class="mdl-checkbox__input">
-                      <span class="mdl-checkbox__label">Objects selected</span>
-                    </label>
-                  </li>
-                  <li>
-                    <label for="chkbox4" class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect">
-                      <input type="checkbox" id="chkbox4" class="mdl-checkbox__input">
-                      <span class="mdl-checkbox__label">Objects viewed</span>
-                    </label>
-                  </li>
-                </ul>
-              </div>
-            </div>
+            	<!-- Simple Select -->
+                <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label getmdl-select getmdl-select__fullwidth">
+                    <input class="mdl-textfield__input" type="text" id="date-input" value="Date" />
+                    <label for="date-input" class="mdl-textfield__label">Start</label>
+                </div>
           </div>
+          
+           <script>
+                    
+  						$( function() {
+    						$( "#date-input" ).datepicker({
+    							minDate: new Date(2016, 09-1, 26),
+    							maxDate: new Date(2016, 10-1, 5)
+    						});	
+  						} );
+  					</script>
+  					
+  					
+  					<style type="text/css">
+						.ui-datepicker {
+   							background: white;
+   							border: 0.5px solid #555;
+   							color: black;
+ 						}
+					</style>
           
           
           
