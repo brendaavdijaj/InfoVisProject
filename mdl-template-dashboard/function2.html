@@ -59,12 +59,25 @@
       z-index: 900;
     }
     </style>
+    
+    <link 
+        rel="stylesheet" 
+        href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css"
+    />
+    <script
+        src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js">
+    </script>
+    
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    
+    
   </head>
   <body>
     <div class="demo-layout mdl-layout mdl-js-layout mdl-layout--fixed-drawer mdl-layout--fixed-header">
       <header class="demo-header mdl-layout__header mdl-color--grey-100 mdl-color-text--grey-600">
         <div class="mdl-layout__header-row">
-          <span class="mdl-layout-title">Home</span>
+          <span class="mdl-layout-title">Function 2</span>
           
         </div>
       </header>
@@ -85,50 +98,93 @@
       <main class="mdl-layout__content mdl-color--grey-100">
         <div class="mdl-grid demo-content">
          
-          <div class="demo-graphs mdl-shadow--2dp mdl-color--white mdl-cell mdl-cell--8-col">
-            <svg fill="currentColor" viewBox="0 0 500 250" class="demo-graph">
-              <use xlink:href="#chart" />
-            </svg>
-            <svg fill="currentColor" viewBox="0 0 500 250" class="demo-graph">
+          <div class="demo-graphs mdl-shadow--2dp mdl-color--white mdl-cell mdl-cell--8-col"  id="map">
+            <svg fill="currentColor" viewBox="0 0 500 350" class="demo-graph">
               <use xlink:href="#chart" />
             </svg>
           </div>
           
           
+          	<script type="text/javascript">
+	
+        var map = L.map('map').setView([48.137154, 11.576124], 11);
+        mapLink = 
+            '<a href="http://openstreetmap.org">OpenStreetMap</a>';
+        L.tileLayer(
+            'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; ' + mapLink + ' Contributors',
+            maxZoom: 18,
+            }).addTo(map);
+				
+	/* Initialize the SVG layer */
+	map._initPathRoot()    
+
+	/* We simply pick up the SVG from the map object */
+	var svg = d3.select("#map").select("svg"),
+	g = svg.append("g");
+	
+			 
+</script>
+          
+          
+          
+          
+          
           
           
           <div class="demo-cards mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet mdl-grid mdl-grid--no-spacing">
-            <div class="demo-options mdl-card mdl-color--deep-purple-500 mdl-shadow--2dp mdl-cell mdl-cell--4-col mdl-cell--3-col-tablet mdl-cell--12-col-desktop">
-              <div class="mdl-card__supporting-text mdl-color-text--blue-grey-50">
-                <h3>View options</h3>
-                <ul>
-                  <li>
-                    <label for="chkbox1" class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect">
-                      <input type="checkbox" id="chkbox1" class="mdl-checkbox__input">
-                      <span class="mdl-checkbox__label">Click per object</span>
-                    </label>
-                  </li>
-                  <li>
-                    <label for="chkbox2" class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect">
-                      <input type="checkbox" id="chkbox2" class="mdl-checkbox__input">
-                      <span class="mdl-checkbox__label">Views per object</span>
-                    </label>
-                  </li>
-                  <li>
-                    <label for="chkbox3" class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect">
-                      <input type="checkbox" id="chkbox3" class="mdl-checkbox__input">
-                      <span class="mdl-checkbox__label">Objects selected</span>
-                    </label>
-                  </li>
-                  <li>
-                    <label for="chkbox4" class="mdl-checkbox mdl-js-checkbox mdl-js-ripple-effect">
-                      <input type="checkbox" id="chkbox4" class="mdl-checkbox__input">
-                      <span class="mdl-checkbox__label">Objects viewed</span>
-                    </label>
-                  </li>
-                </ul>
-              </div>
-            </div>
+          
+          
+          
+       
+   
+   
+    <!-- Simple Select -->
+        <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label getmdl-select getmdl-select__fullwidth">
+            <input class="mdl-textfield__input" type="text" id="sample1" value="Number" readonly tabIndex="-1">
+            <label for="sample1" class="mdl-textfield__label">Bike</label>
+            <ul for="sample1" class="mdl-menu mdl-menu--bottom-left mdl-js-menu">
+                <li class="mdl-menu__item">1</li>
+                <li class="mdl-menu__item">2</li>
+                <li class="mdl-menu__item">3</li>
+                <li class="mdl-menu__item">4</li>
+            </ul>
+        </div>
+        
+         <!-- Simple Select -->
+        <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label getmdl-select getmdl-select__fullwidth">
+            <input class="mdl-textfield__input" type="text" id="sample2" value="Date" readonly tabIndex="-1">
+            <label for="sample2" class="mdl-textfield__label">Start</label>
+            <ul for="sample2" class="mdl-menu mdl-menu--bottom-left mdl-js-menu">
+                <li class="mdl-menu__item">1</li>
+                <li class="mdl-menu__item">2</li>
+                <li class="mdl-menu__item">3</li>
+                <li class="mdl-menu__item">4</li>
+            </ul>
+        </div>
+        
+         <!-- Simple Select -->
+        <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label getmdl-select getmdl-select__fullwidth">
+            <input class="mdl-textfield__input" type="text" id="sample3" value="Date" readonly tabIndex="-1">
+            <label for="sample3" class="mdl-textfield__label">End</label>
+            <ul for="sample3" class="mdl-menu mdl-menu--bottom-left mdl-js-menu">
+                <li class="mdl-menu__item">1</li>
+                <li class="mdl-menu__item">2</li>
+                <li class="mdl-menu__item">3</li>
+                <li class="mdl-menu__item">4</li>
+            </ul>
+        </div>
+        
+        
+        
+        <!-- Accent-colored raised button -->
+<button class="mdl-button mdl-js-button mdl-button--raised mdl-button--accent">
+  Go
+</button>
+            
+  
+          
+         
           </div>
           
           
